@@ -2,8 +2,9 @@
 
 ## Percentages
 
-The table below shows for the last sixteen opinion polls conducted in Flanders
-the 95% confidence intervals for the vote shares for each of the main parties.
+The table below shows for the sixteen most recent opinion polls conducted in
+Flanders the 95% confidence intervals for the vote shares for each of the main
+parties.
 
 | Polling Period                         | Polling Firm | Client           | N-VA    | CD&V    | Open Vld | sp.a    | Groen   | Vlaams Belang | PVDA  |
 |----------------------------------------|--------------|------------------|---------|---------|----------|---------|---------|---------------|-------|
@@ -11,9 +12,9 @@ the 95% confidence intervals for the vote shares for each of the main parties.
 
 ## Seats
 
-The table below shows for the last sixteen opinion polls conducted in Flanders
-the 95% confidence intervals for the seats in the Flemish Parliament for each of
-the main parties.
+The table below shows for the sixteen most recent opinion polls conducted in
+Flanders the 95% confidence intervals for the seats in the Flemish Parliament
+for each of the main parties.
 
 | Polling Period                         | Polling Firm | Client           | N-VA   | CD&V   | Open Vld | sp.a   | Groen  | Vlaams Belang | PVDA |
 |----------------------------------------|--------------|------------------|--------|--------|----------|--------|--------|---------------|------|
