@@ -17,7 +17,7 @@ you can contact me through any of the following channels:
 + Send me a notification on Twitter at [@hoegin](https://twitter.com/hoegin)
 + Send me an e-mail at [f.a.vanlaenen@ieee.org](mailto:f.a.vanlaenen@ieee.org)
 
-You can also check out my [backlog](backlog.md) to see whether your suggestion
+You can also check out my [backlog](backlog.html) to see whether your suggestion
 or comment is already on the list.
 
 Running the calculations to perform these analyses is quite resource intensive
