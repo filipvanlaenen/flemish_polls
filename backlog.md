@@ -1,9 +1,11 @@
 # Backlog
 
-1. Produce the index page
 1. Produce a poll page
 1. Produce a voting intentions graph per poll
 1. Produce a seats graph per poll
+1. Mark the threshold in the grapg with the voting intentions
+1. Add a table to the poll page with the probabilities to reach the threshold or
+   to gain a majority in number of votes and number of seats
 1. Mark the median in the graph with the voting intentions with two outward ticks
    or a line
 1. Mark the median in the graph with the seat projections with two outward ticks
