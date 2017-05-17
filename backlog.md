@@ -1,6 +1,5 @@
 # Backlog
 
-1. Produce a poll page
 1. Produce a voting intentions graph per poll
 1. Produce a seats graph per poll
 1. Mark the threshold in the grapg with the voting intentions
