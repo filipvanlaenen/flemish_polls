@@ -1,22 +1,19 @@
 # Backlog
 
-1. Produce a voting intentions graph per poll
-1. Produce a seats graph per poll
-1. Mark the threshold in the grapg with the voting intentions
 1. Add a table to the poll page with the probabilities to reach the threshold or
    to gain a majority in number of votes and number of seats
-1. Mark the median in the graph with the voting intentions with two outward ticks
-   or a line
+1. Mark the median (i.e. poll result) in the graph with the voting intentions
+   with two outward ticks or a line
 1. Mark the median in the graph with the seat projections with two outward ticks
    or a line
-1. Add a coalitions results table to the poll page
 1. Add a coalitions seats table to the poll page
-1. Produce a coalitions results graph per poll
-1. Produce a coalitions seats graph per poll
+   + Confidence intervals for each coalition
+   + Probability per number of seats for each coalition
 1. Add a graph with the probability per number of seats and the accumulation
+   both for parties and coalitions
    + Bars for the probability per number of seats
    + A line showing the accumulation
-   + Mark last election's result
+   + Mark last election's result and the median
    + Mark accumulation crossing 50%
    + Mark the 80%, 90%, 95% and 99% confidence intervals
 1. Add a page explaining the methodology
@@ -33,7 +30,8 @@
    (including its legend)
 1. Add last election's results to the graph with the seat projections (including
    its legend)
-1. Mark the last election's result in the seat probabilities table
+1. Mark the last election's result and the median in the seat probabilities
+   table in a column named "special marks"
 1. Add an overview page for each pollster
 1. Add an overview page for each medium
 1. Produce an average over the last *n* opinion polls, but only retain the last
@@ -44,3 +42,5 @@
    then by pollster name
 1. Add a table with the probability per percentage for the voting intentions
 1. Add a graph with the probability per percentage for the voting intentions
+1. Add a coalitions results table to the poll page
+1. Produce a coalitions results graph per poll
