@@ -1,6 +1,6 @@
 # Opinion Poll by Dedicated for RTBf–La Libre Belgique, 3–7 December 2015
 
-<p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#technical-information">Technical Information</a></p>
+<p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
 
 ## Voting Intentions
 
@@ -156,6 +156,10 @@
 | 3 | 0.1% | 0.1% |
 | 4 | 0% | 0% |
 
+
+## Coalitions
+
+![Graph with coalitions seats not yet produced](2015-12-07-Dedicated-coalitions-seats.png "Coalitions Seats")
 
 ## Technical Information
 
