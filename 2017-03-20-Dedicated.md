@@ -187,6 +187,23 @@
 
 ![Graph with coalitions seats not yet produced](2017-03-20-Dedicated-coalitions-seats.png "Coalitions Seats")
 
+### Confidence Intervals
+
+| Coalition | Last Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:---------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| CD&V – Open Vld – sp.a – Groen | 74 | 64–72 | 63–73 | 63–74 | 61–75 |
+| CD&V – sp.a – Groen – PVDA | 55 | 51–58 | 50–59 | 49–60 | 48–62 |
+| CD&V – sp.a – Groen | 55 | 48–54 | 46–55 | 46–56 | 44–58 |
+| N-VA – CD&V | 70 | 52–59 | 51–60 | 50–61 | 49–62 |
+| N-VA – CD&V – Open Vld | 89 | 69–77 | 68–78 | 68–78 | 65–80 |
+| N-VA – CD&V – sp.a | 88 | 69–76 | 68–76 | 68–77 | 66–79 |
+| CD&V – Open Vld | 46 | 33–39 | 32–40 | 31–42 | 29–43 |
+| CD&V – Open Vld – sp.a | 64 | 49–57 | 48–58 | 47–58 | 46–60 |
+| CD&V – sp.a | 45 | 32–39 | 31–39 | 30–40 | 30–42 |
+| Open Vld – sp.a – Groen | 47 | 45–53 | 44–54 | 44–55 | 42–56 |
+| N-VA – Vlaams Belang | 49 | 48–55 | 46–56 | 46–57 | 45–58 |
+| Open Vld – sp.a | 37 | 30–38 | 29–38 | 28–39 | 27–40 |
+
 ## Technical Information
 
 ### Opinion Poll
