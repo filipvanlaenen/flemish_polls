@@ -1,14 +1,15 @@
 # Backlog
 
 1. Add a table to the poll page with the probabilities to reach the threshold or
-   to gain a majority in number of votes and number of seats
+   to gain a majority in number of votes and number of seats, or add them as a
+   column to the existing tables
 1. Mark the median (i.e. poll result) in the graph with the voting intentions
    with two outward ticks or a line
 1. Mark the median in the graph with the seat projections with two outward ticks
    or a line
-1. Add a coalitions seats table to the poll page
-   + Confidence intervals for each coalition
-   + Probability per number of seats for each coalition
+1. Add the probability to gain a majority to the table of confidence intervals
+   for the coalitions
+1. Add a table for each coalition showing the probability per number of seats
 1. Add a graph with the probability per number of seats and the accumulation
    both for parties and coalitions
    + Bars for the probability per number of seats
