@@ -17,7 +17,7 @@
 | Vlaams Belang | 5.9% | 12.4% | 10.9–13.9% |10.4–14.4% |10.1–14.8% |9.5–15.7% |
 | Groen | 8.7% | 12.3% | 10.7–13.8% |10.3–14.3% |10.0–14.7% |9.3–15.5% |
 | PVDA | 2.5% | 3.4% | 2.6–4.3% |2.4–4.6% |2.3–4.9% |2.0–5.4% |
-| Piratenpartij | N/A | 1.9% | 1.4–2.7% |1.2–2.9% |1.1–3.1% |0.9–3.6% |
+| Piratenpartij | 0.0% | 1.9% | 1.4–2.7% |1.2–2.9% |1.1–3.1% |0.9–3.6% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -36,7 +36,7 @@
 | <a href="#vlaams-belang">Vlaams Belang</a> | 6 | 12–18 |12–18 |12–20 |11–20 |
 | <a href="#groen">Groen</a> | 10 | 14–18 |14–19 |14–20 |12–23 |
 | <a href="#pvda">PVDA</a> | 0 | 0–2 |0–2 |0–2 |0–5 |
-| <a href="#piratenpartij">Piratenpartij</a> | N/A | 0 |0 |0 |0 |
+| <a href="#piratenpartij">Piratenpartij</a> | 0 | 0 |0 |0 |0 |
 
 ### N-VA
 
