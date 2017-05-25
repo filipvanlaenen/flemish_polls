@@ -1,5 +1,7 @@
 # Backlog
 
+1. Produce an average over the last *n* opinion polls, but only retain the last
+   poll for each pollster
 1. Add a table to the poll page with the probabilities to reach the threshold or
    to gain a majority in number of votes and number of seats, or add them as a
    column to the existing tables
@@ -40,10 +42,6 @@
    table in a column named "special marks"
 1. Add an overview page for each pollster
 1. Add an overview page for each medium
-1. Produce an average over the last *n* opinion polls, but only retain the last
-   poll for each pollster
-1. Move the full table to a separate page, and keep only the average and a
-   limited set of opinion polls on the home page
 1. Better sorting in the overview tables: first by end date, then by start date,
    then by pollster name
 1. Add a table with the probability per percentage for the voting intentions
