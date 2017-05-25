@@ -19,8 +19,7 @@
    + Mark last election's result and the median
    + Mark accumulation crossing 50%
    + Mark the 80%, 90%, 95% and 99% confidence intervals
-1. Add a page explaining the methodology
-   + Projecting national results on electoral districts
+1. Add to the methodology page:
    + Weighted Monte Carlo simulations
    + Calculation of the error estimate
    + Concept of a confidence interval
