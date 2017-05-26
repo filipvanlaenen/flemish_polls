@@ -7,6 +7,7 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Pollster/Media   | N-VA | CD&V | VLD | SP.A | GROEN | VB | PVDA | PP |
 |:----------:|:----------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 31.9% <br> 43 | 20.5% <br> 27 | 14.1% <br> 19 | 14.0% <br> 18 | 8.7% <br> 10 | 5.9% <br> 6 | 2.5% <br> 0 | 0.0% <br> 0 |
+| N/A | Poll Average | 31–41 | 15–26 | 13–22 | 14–20 | 14–23 | 6–17 | 1–5 | 0 |
 | [27 March–11 April 2017](2017-04-11-TNS.html) | TNS <br> De Standaard–VRT | 24–29% <br> 31–39 | 16–21% <br> 20–27 | 12–17% <br> 16–23 | 11–15% <br> 14–19 | 13–17% <br> 17–23 | 6–10% <br> 6–11 | 3–6% <br> 0–5 | N/A <br> N/A |
 | [16–20 March 2017](2017-03-20-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 24–31% <br> 32–41 | 13–18% <br> 15–23 | 11–16% <br> 13–20 | 11–16% <br> 14–20 | 10–14% <br> 13–18 | 10–14% <br> 11–18 | 4–7% <br> 2–7 | 1–2% <br> 0 |
 | [10–17 January 2017](2017-01-17-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir | 25–30% <br> 33–41 | 13–17% <br> 15–22 | 11–15% <br> 13–20 | 11–15% <br> 14–20 | 10–14% <br> 14–20 | 9–12% <br> 9–16 | 4–7% <br> 2–6 | 0–2% <br> 0 |
@@ -35,6 +36,19 @@ Only polls for which at least the sample size has been published are included in
 ## Seats
 
 ![Graph with seats not yet produced](average-seats.png "Seats")
+
+### Confidence Intervals
+
+| Party | Last Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:-----:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| <a href="#n-va">N-VA</a> | 43 | 33–39 |32–40 | 31–41 | 30–43 |
+| <a href="#cd&v">CD&V</a> | 27 | 16–25 |15–26 | 15–26 | 15–28 |
+| <a href="#open-vld">Open Vld</a> | 19 | 14–20 |13–20 | 13–22 | 12–23 |
+| <a href="#sp.a">sp.a</a> | 18 | 14–19 |14–19 | 14–20 | 14–21 |
+| <a href="#groen">Groen</a> | 10 | 14–22 |14–23 | 14–23 | 12–24 |
+| <a href="#vlaams-belang">Vlaams Belang</a> | 6 | 8–16 |7–17 | 6–17 | 6–18 |
+| <a href="#pvda">PVDA</a> | 0 | 2–5 |1–5 | 1–5 | 0–9 |
+| <a href="#piratenpartij">Piratenpartij</a> | 0 | 0 |0 | 0 | 0 |
 
 ### N-VA
 
