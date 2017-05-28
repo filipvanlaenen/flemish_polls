@@ -204,6 +204,8 @@ Only polls for which at least the sample size has been published are included in
 
 ## Coalitions
 
+![Graph with coalitions seats not yet produced](average-coalitions-seats.png "Coalitions Seats")
+
 ### Confidence Intervals
 
 | Coalition | Last Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
@@ -220,8 +222,6 @@ Only polls for which at least the sample size has been published are included in
 | CD&V – Open Vld | 46 | 33–44 | 33–45 | 32–46 | 30–47 |
 | CD&V – sp.a | 45 | 34–42 | 32–43 | 31–44 | 30–46 |
 | Open Vld – sp.a | 37 | 31–38 | 30–39 | 29–39 | 27–41 |
-
-![Graph with coalitions seats not yet produced](average-coalitions-seats.png "Coalitions Seats")
 
 ## Technical Information
 
