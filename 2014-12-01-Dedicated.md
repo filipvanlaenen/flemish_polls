@@ -17,7 +17,7 @@
 | Groen | 8.7% | 10.3% | N/A |N/A |N/A |N/A |
 | Vlaams Belang | 5.9% | 5.7% | N/A |N/A |N/A |N/A |
 | PVDA | 2.5% | 4.0% | N/A |N/A |N/A |N/A |
-| Lijst Dedecker | N/A | 0.9% | N/A |N/A |N/A |N/A |
+| Lijst Dedecker | 0.0% | 0.9% | N/A |N/A |N/A |N/A |
 | Piratenpartij | 0.0% | 0.7% | N/A |N/A |N/A |N/A |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
@@ -37,7 +37,7 @@
 | <a href="#groen">Groen</a> | 10 | N/A | N/A |N/A |N/A |N/A |
 | <a href="#vlaams-belang">Vlaams Belang</a> | 6 | N/A | N/A |N/A |N/A |N/A |
 | <a href="#pvda">PVDA</a> | 0 | N/A | N/A |N/A |N/A |N/A |
-| <a href="#lijst-dedecker">Lijst Dedecker</a> | N/A | N/A | N/A |N/A |N/A |N/A |
+| <a href="#lijst-dedecker">Lijst Dedecker</a> | 0 | N/A | N/A |N/A |N/A |N/A |
 | <a href="#piratenpartij">Piratenpartij</a> | 0 | N/A | N/A |N/A |N/A |N/A |
 
 

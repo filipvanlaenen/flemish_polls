@@ -18,7 +18,7 @@
 | Vlaams Belang | 5.9% | 5.6% | N/A |N/A |N/A |N/A |
 | PVDA | 2.5% | 3.2% | N/A |N/A |N/A |N/A |
 | Piratenpartij | 0.0% | 0.8% | N/A |N/A |N/A |N/A |
-| Lijst Dedecker | N/A | 0.6% | N/A |N/A |N/A |N/A |
+| Lijst Dedecker | 0.0% | 0.6% | N/A |N/A |N/A |N/A |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -38,7 +38,7 @@
 | <a href="#vlaams-belang">Vlaams Belang</a> | 6 | N/A | N/A |N/A |N/A |N/A |
 | <a href="#pvda">PVDA</a> | 0 | N/A | N/A |N/A |N/A |N/A |
 | <a href="#piratenpartij">Piratenpartij</a> | 0 | N/A | N/A |N/A |N/A |N/A |
-| <a href="#lijst-dedecker">Lijst Dedecker</a> | N/A | N/A | N/A |N/A |N/A |N/A |
+| <a href="#lijst-dedecker">Lijst Dedecker</a> | 0 | N/A | N/A |N/A |N/A |N/A |
 
 
 ## Coalitions
