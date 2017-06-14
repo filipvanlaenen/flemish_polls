@@ -17,7 +17,7 @@
 | Groen | 8.7% | 9.6% | N/A |N/A |N/A |N/A |
 | Vlaams Belang | 5.9% | 7.4% | N/A |N/A |N/A |N/A |
 | PVDA | 2.5% | 3.4% | N/A |N/A |N/A |N/A |
-| Piratenpartij | 0.0% | 1.3% | N/A |N/A |N/A |N/A |
+| Piratenpartij | 0.6% | 1.3% | N/A |N/A |N/A |N/A |
 | Lijst Dedecker | 0.0% | 0.6% | N/A |N/A |N/A |N/A |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
