@@ -20,9 +20,9 @@ The table below lists all polls registered and analyzed so far.
 | [28 September–4 October 2016](2015-10-04-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir | 26–32% <br> 35–43 | 16–20% <br> 20–27 | 11–15% <br> 13–19 | 12–17% <br> 15–23 | 7–11% <br> 8–14 | 9–13% <br> 9–16 | 3–5% <br> 0–5 | N/A <br> N/A | N/A <br> N/A |
 | [22 September–2 October 2015](2015-10-02-TNS.html) | TNS <br> De Standaard–VRT | 28–34% <br> 37–46 | 16–21% <br> 20–27 | 13–17% <br> 17–23 | 12–16% <br> 14–20 | 8–12% <br> 10–15 | 6–9% <br> 4–8 | 3–5% <br> 0–3 | N/A <br> N/A | N/A <br> N/A |
 | [9–14 September 2015](2015-09-14-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 24–31% <br> 33–42 | 14–19% <br> 16–24 | 12–17% <br> 15–23 | 14–19% <br> 18–26 | 8–12% <br> 10–17 | 8–12% <br> 8–15 | 3–5% <br> 0–4 | N/A <br> N/A | N/A <br> N/A |
-| [5–9 March 2015](2015-03-09-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [27 November–1 December 2014](2014-12-01-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [5–9 September 2014](2014-09-09-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [5–9 March 2015](2015-03-09-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 26–32% <br> 35–43 | 14–20% <br> 18–27 | 13–18% <br> 18–25 | 14–19% <br> 19–25 | 8–12% <br> 9–16 | 6–10% <br> 4–11 | 2–5% <br> 0–3 | 1–2% <br> 0 | 0–1% <br> 0 |
+| [27 November–1 December 2014](2014-12-01-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 22–33% <br> N/A | 11–22% <br> N/A | 11–22% <br> N/A | 11–22% <br> N/A | 0–22% <br> N/A | 0–11% <br> N/A | 0–11% <br> N/A | 0–11% <br> N/A | 0–11% <br> N/A |
+| [5–9 September 2014](2014-09-09-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 29–35% <br> 39–48 | 15–20% <br> 19–27 | 13–18% <br> 17–24 | 13–18% <br> 17–23 | 8–12% <br> 10–15 | 4–7% <br> 0–8 | 2–5% <br> 0–2 | 0–2% <br> 0 | 0–1% <br> 0 |
 | 25 May 2014 | General Election | 31.9% <br> 43 | 20.5% <br> 27 | 14.1% <br> 19 | 14.0% <br> 18 | 8.7% <br> 10 | 5.9% <br> 6 | 2.5% <br> 0 | 0.6% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
