@@ -10,15 +10,15 @@
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N-VA | 31.9% | 31.2% | N/A |N/A |N/A |N/A |
-| CD&V | 20.5% | 18.4% | N/A |N/A |N/A |N/A |
-| sp.a | 14.0% | 15.3% | N/A |N/A |N/A |N/A |
-| Open Vld | 14.1% | 13.4% | N/A |N/A |N/A |N/A |
-| Groen | 8.7% | 10.3% | N/A |N/A |N/A |N/A |
-| Vlaams Belang | 5.9% | 5.7% | N/A |N/A |N/A |N/A |
-| PVDA | 2.5% | 4.0% | N/A |N/A |N/A |N/A |
-| Lijst Dedecker | 0.0% | 0.9% | N/A |N/A |N/A |N/A |
-| Piratenpartij | 0.6% | 0.7% | N/A |N/A |N/A |N/A |
+| N-VA | 31.9% | 31.2% | 22.2–33.3% |22.2–33.3% |22.2–33.3% |22.2–33.3% |
+| CD&V | 20.5% | 18.4% | 11.1–22.2% |11.1–22.2% |11.1–22.2% |11.1–22.2% |
+| sp.a | 14.0% | 15.3% | 11.1–22.2% |11.1–22.2% |11.1–22.2% |11.1–22.2% |
+| Open Vld | 14.1% | 13.4% | 11.1–22.2% |11.1–22.2% |11.1–22.2% |11.1–22.2% |
+| Groen | 8.7% | 10.3% | 0.0–22.2% |0.0–22.2% |0.0–22.2% |0.0–22.2% |
+| Vlaams Belang | 5.9% | 5.7% | 0.0–11.1% |0.0–11.1% |0.0–11.1% |0.0–11.1% |
+| PVDA | 2.5% | 4.0% | 0.0–11.1% |0.0–11.1% |0.0–11.1% |0.0–11.1% |
+| Lijst Dedecker | 0.0% | 0.9% | 0.0–11.1% |0.0–11.1% |0.0–11.1% |0.0–11.1% |
+| Piratenpartij | 0.6% | 0.7% | 0.0–11.1% |0.0–11.1% |0.0–11.1% |0.0–11.1% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
