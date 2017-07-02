@@ -23,3 +23,4 @@ The following websites provide similar information to this website:
 ## Sister Websites
 
 + [British Polls](https://filipvanlaenen.github.io/british_polls/)
++ [Norwegian Polls](https://filipvanlaenen.github.io/norwegian_polls/)
