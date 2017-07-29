@@ -27,8 +27,12 @@ The table below lists all polls registered and analyzed so far.
 | [5–9 March 2015](2015-03-09-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 26–32% <br> 35–43 | 14–20% <br> 18–27 | 13–18% <br> 18–25 | 14–19% <br> 19–25 | 8–12% <br> 9–16 | 6–10% <br> 4–11 | 2–5% <br> 0–3 | 1–2% <br> 0 | 0–1% <br> 0 |
 | [23–28 January 2015](2015-01-28-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [5–11 January 2015](2015-01-11-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [4–5 December 2014](2014-12-05-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [27 November–1 December 2014](2014-12-01-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 28–34% <br> 37–47 | 16–21% <br> 20–28 | 11–16% <br> 13–22 | 13–18% <br> 16–24 | 8–13% <br> 10–17 | 4–8% <br> 0–8 | 3–6% <br> 0–5 | 0–2% <br> 0 | 0–2% <br> 0 |
+| [9–10 October 2014](2014-10-10-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [22 September–3 October 2014](2014-10-03-TNS.html) | TNS <br> De Standaard–VRT | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [5–9 September 2014](2014-09-09-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 29–35% <br> 38–48 | 15–20% <br> 19–27 | 13–18% <br> 18–25 | 13–18% <br> 16–24 | 8–12% <br> 10–16 | 4–7% <br> 0–8 | 2–5% <br> 0–2 | 0–2% <br> 0 | 0–1% <br> 0 |
+| [July 2014](2014-07-31-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 25 May 2014 | General Election | 31.9% <br> 43 | 20.5% <br> 27 | 14.1% <br> 19 | 14.0% <br> 18 | 8.7% <br> 10 | 5.9% <br> 6 | 2.5% <br> 0 | 0.6% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
