@@ -30,9 +30,9 @@ The table below lists all polls registered and analyzed so far.
 | [4–5 December 2014](2014-12-05-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | 25–31% <br> 34–43 | 15–20% <br> 18–27 | 10–14% <br> 12–19 | 14–19% <br> 18–26 | 12–17% <br> 16–24 | 5–8% <br> 3–8 | 1–3% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
 | [27 November–1 December 2014](2014-12-01-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 28–34% <br> 37–47 | 16–21% <br> 20–28 | 11–16% <br> 13–22 | 13–18% <br> 16–24 | 8–13% <br> 10–17 | 4–8% <br> 0–8 | 3–6% <br> 0–5 | 0–2% <br> 0 | 0–2% <br> 0 |
 | [9–10 October 2014](2014-10-10-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | 27–33% <br> 36–45 | 12–17% <br> 14–20 | 14–19% <br> 19–26 | 15–21% <br> 19–28 | 7–11% <br> 7–14 | 6–10% <br> 6–11 | 2–4% <br> 0–2 | N/A <br> N/A | N/A <br> N/A |
-| [22 September–3 October 2014](2014-10-03-TNS.html) | TNS <br> De Standaard–VRT | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [22 September–3 October 2014](2014-10-03-TNS.html) | TNS <br> De Standaard–VRT | 27–33% <br> 36–43 | 18–23% <br> 21–30 | 12–17% <br> 15–22 | 14–18% <br> 18–24 | 8–12% <br> 10–15 | 5–8% <br> 3–8 | 2–4% <br> 0–2 | N/A <br> N/A | N/A <br> N/A |
 | [5–9 September 2014](2014-09-09-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 29–35% <br> 38–48 | 15–20% <br> 19–27 | 13–18% <br> 18–25 | 13–18% <br> 16–24 | 8–12% <br> 10–16 | 4–7% <br> 0–8 | 2–5% <br> 0–2 | 0–2% <br> 0 | 0–1% <br> 0 |
-| [July 2014](2014-07-31-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [July 2014](2014-07-31-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | 30–36% <br> 40–49 | 15–20% <br> 19–27 | 13–18% <br> 18–24 | 12–17% <br> 14–23 | 7–11% <br> 8–14 | 4–8% <br> 1–8 | 2–4% <br> 0–2 | N/A <br> N/A | N/A <br> N/A |
 | 25 May 2014 | General Election | 31.9% <br> 43 | 20.5% <br> 27 | 14.1% <br> 19 | 14.0% <br> 18 | 8.7% <br> 10 | 5.9% <br> 6 | 2.5% <br> 0 | 0.6% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
