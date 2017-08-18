@@ -213,20 +213,20 @@ Only polls for which at least the sample size has been published are included in
 
 ### Confidence Intervals
 
-| Coalition | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
-|:---------:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| CD&V – Open Vld – sp.a – Groen | 74 | 73 | 63–81 | 61–82 | 60–83 | 58–84 |
-| N-VA – CD&V – Open Vld | 89 | 76 | 71–80 | 69–81 | 68–82 | 66–83 |
-| N-VA – CD&V – sp.a | 88 | 72 | 66–77 | 64–79 | 63–80 | 61–81 |
-| CD&V – sp.a – Groen – PVDA | 55 | 60 | 54–64 | 52–66 | 51–66 | 49–68 |
-| CD&V – sp.a – Groen | 55 | 55 | 46–62 | 45–64 | 44–64 | 42–66 |
-| N-VA – CD&V | 70 | 58 | 54–62 | 54–63 | 52–63 | 50–65 |
-| CD&V – Open Vld – sp.a | 64 | 55 | 46–62 | 45–63 | 44–63 | 42–65 |
-| Open Vld – sp.a – Groen | 47 | 50 | 41–58 | 40–59 | 39–60 | 37–61 |
-| N-VA – Vlaams Belang | 49 | 46 | 41–53 | 40–54 | 39–55 | 38–57 |
-| CD&V – Open Vld | 46 | 40 | 35–44 | 34–45 | 33–46 | 31–48 |
-| CD&V – sp.a | 45 | 37 | 30–43 | 29–44 | 28–45 | 26–46 |
-| Open Vld – sp.a | 37 | 32 | 25–38 | 24–39 | 23–39 | 21–41 |
+| Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| CD&V – Open Vld – sp.a – Groen | 74 | 73 | 92% | 63–81 | 61–82 | 60–83 | 58–84 |
+| N-VA – CD&V – Open Vld | 89 | 76 | 100% | 71–80 | 69–81 | 68–82 | 66–83 |
+| N-VA – CD&V – sp.a | 88 | 72 | 98.8% | 66–77 | 64–79 | 63–80 | 61–81 |
+| CD&V – sp.a – Groen – PVDA | 55 | 60 | 23% | 54–64 | 52–66 | 51–66 | 49–68 |
+| CD&V – sp.a – Groen | 55 | 55 | 8% | 46–62 | 45–64 | 44–64 | 42–66 |
+| N-VA – CD&V | 70 | 58 | 5% | 54–62 | 54–63 | 52–63 | 50–65 |
+| CD&V – Open Vld – sp.a | 64 | 55 | 6% | 46–62 | 45–63 | 44–63 | 42–65 |
+| Open Vld – sp.a – Groen | 47 | 50 | 0.1% | 41–58 | 40–59 | 39–60 | 37–61 |
+| N-VA – Vlaams Belang | 49 | 46 | 0% | 41–53 | 40–54 | 39–55 | 38–57 |
+| CD&V – Open Vld | 46 | 40 | 0% | 35–44 | 34–45 | 33–46 | 31–48 |
+| CD&V – sp.a | 45 | 37 | 0% | 30–43 | 29–44 | 28–45 | 26–46 |
+| Open Vld – sp.a | 37 | 32 | 0% | 25–38 | 24–39 | 23–39 | 21–41 |
 
 ### CD&V – Open Vld – sp.a – Groen
 
