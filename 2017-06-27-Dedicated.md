@@ -38,6 +38,8 @@
 
 ### N-VA
 
+*For a full overview of the results for this party, see the [N-VA](party-nva.html) page.*
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 28 | 0.2% | 100% |  |
@@ -62,6 +64,8 @@
 
 ### CD&V
 
+*For a full overview of the results for this party, see the [CD&V](party-cdv.html) page.*
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 15 | 0.3% | 100% |  |
@@ -84,6 +88,8 @@
 
 ### Open Vld
 
+*For a full overview of the results for this party, see the [Open Vld](party-openvld.html) page.*
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 0.1% | 100% |  |
@@ -103,6 +109,8 @@
 | 25 | 0% | 0% |  |
 
 ### Groen
+
+*For a full overview of the results for this party, see the [Groen](party-groen.html) page.*
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -124,6 +132,8 @@
 | 25 | 0% | 0% |  |
 
 ### Vlaams Belang
+
+*For a full overview of the results for this party, see the [Vlaams Belang](party-vlaamsbelang.html) page.*
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -147,6 +157,8 @@
 
 ### sp.a
 
+*For a full overview of the results for this party, see the [sp.a](party-spa.html) page.*
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.1% | 100% |  |
@@ -167,6 +179,8 @@
 | 19 | 0% | 0% |  |
 
 ### PVDA
+
+*For a full overview of the results for this party, see the [PVDA](party-pvda.html) page.*
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

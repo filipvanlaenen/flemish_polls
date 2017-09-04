@@ -42,6 +42,8 @@
 
 ### N-VA
 
+*For a full overview of the results for this party, see the [N-VA](party-nva.html) page.*
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 34 | 0% | 100% |  |
@@ -66,6 +68,8 @@
 
 ### CD&V
 
+*For a full overview of the results for this party, see the [CD&V](party-cdv.html) page.*
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 17 | 0% | 100% |  |
@@ -87,6 +91,8 @@
 
 ### sp.a
 
+*For a full overview of the results for this party, see the [sp.a](party-spa.html) page.*
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 14 | 1.1% | 100% |  |
@@ -106,6 +112,8 @@
 | 28 | 0% | 0% |  |
 
 ### Open Vld
+
+*For a full overview of the results for this party, see the [Open Vld](party-openvld.html) page.*
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -127,6 +135,8 @@
 
 ### Groen
 
+*For a full overview of the results for this party, see the [Groen](party-groen.html) page.*
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 0.1% | 100% |  |
@@ -146,6 +156,8 @@
 
 ### Vlaams Belang
 
+*For a full overview of the results for this party, see the [Vlaams Belang](party-vlaamsbelang.html) page.*
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 4% | 100% |  |
@@ -163,6 +175,8 @@
 
 ### PVDA
 
+*For a full overview of the results for this party, see the [PVDA](party-pvda.html) page.*
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 12% | 100% | Last Result |
@@ -176,11 +190,15 @@
 
 ### Lijst Dedecker
 
+*For a full overview of the results for this party, see the [Lijst Dedecker](party-lijstdedecker.html) page.*
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
 
 ### Piratenpartij
+
+*For a full overview of the results for this party, see the [Piratenpartij](party-piratenpartij.html) page.*
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
