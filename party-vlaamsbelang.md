@@ -10,6 +10,7 @@ Last result: **5.9%** (General Election of 25 May 2014)
 
 | Period     | Pollster/Media   | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 7.9% | 6.9–9.2% | 6.6–9.5% | 6.4–9.8% | 5.9–10.4% |
 | [23–27 June 2017](2017-06-27-Dedicated.html) | Dedicated <br> MR | 11.7% | 10.2–13.5% | 9.8–14.0% | 9.4–14.4% | 8.7–15.3% |
 | [27 March–11 April 2017](2017-04-11-TNS.html) | TNS <br> De Standaard–VRT | 7.8% | 6.8–8.9% | 6.5–9.3% | 6.3–9.6% | 5.8–10.2% |
 | [16–20 March 2017](2017-03-20-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 11.9% | 10.5–13.5% | 10.1–14.0% | 9.8–14.4% | 9.2–15.2% |
@@ -49,7 +50,8 @@ Last result: **6** seats (General Election of 25 May 2014)
 
 | Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 8–17 | 6–17 | 6–17 | 6–19 |
+| N/A | [Poll Average](average.html) | 11 | 8–17 | 7–17 | 6–17 | 6–19 |
+| [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 8 | 7–10 | 6–11 | 6–11 | 6–12 |
 | [23–27 June 2017](2017-06-27-Dedicated.html) | Dedicated <br> MR | 14 | 12–17 | 11–17 | 10–18 | 9–20 |
 | [27 March–11 April 2017](2017-04-11-TNS.html) | TNS <br> De Standaard–VRT | 8 | 6–9 | 6–10 | 6–11 | 4–12 |
 | [16–20 March 2017](2017-03-20-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 15 | 12–17 | 11–17 | 11–18 | 10–19 |
@@ -85,15 +87,15 @@ The following table shows the probability mass function for the [poll average](a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.3% | 100% |  |
-| 5 | 0.2% | 99.7% |  |
-| 6 | 5% | 99.5% | Last Result |
-| 7 | 2% | 94% |  |
-| 8 | 36% | 92% |  |
-| 9 | 3% | 57% |  |
-| 10 | 3% | 54% |  |
-| 11 | 4% | 51% | Median |
-| 12 | 9% | 46% |  |
+| 4 | 0.1% | 100% |  |
+| 5 | 0.2% | 99.9% |  |
+| 6 | 3% | 99.8% | Last Result |
+| 7 | 4% | 97% |  |
+| 8 | 28% | 93% |  |
+| 9 | 8% | 65% |  |
+| 10 | 5% | 57% |  |
+| 11 | 6% | 52% | Median |
+| 12 | 9% | 47% |  |
 | 13 | 7% | 37% |  |
 | 14 | 7% | 30% |  |
 | 15 | 4% | 23% |  |
