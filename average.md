@@ -9,7 +9,7 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Pollster/Media   | N-VA | CD&V | VLD | SP.A | GROEN | VB | PVDA | PIRAAT | LDD |
 |:----------:|:----------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 31.9% <br> 43 | 20.5% <br> 27 | 14.1% <br> 19 | 14.0% <br> 18 | 8.7% <br> 10 | 5.9% <br> 6 | 2.5% <br> 0 | 0.6% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 32–45 | 16–26 | 12–20 | 8–19 | 14–23 | 6–17 | 2–10 | N/A | N/A |
+| N/A | Poll Average | 24–33% <br> 32–45 | 14–20% <br> 16–26 | 10–15% <br> 12–20 | 8–14% <br> 8–19 | 10–16% <br> 14–23 | 7–14% <br> 6–17 | 4–9% <br> 2–10 | N/A <br> N/A | N/A <br> N/A |
 | [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 27–33% <br> 37–45 | 14–19% <br> 16–25 | 10–14% <br> 12–19 | 10–14% <br> 13–19 | 11–16% <br> 15–23 | 6–10% <br> 6–11 | 4–7% <br> 2–5 | N/A <br> N/A | N/A <br> N/A |
 | [23–27 June 2017](2017-06-27-Dedicated.html) | Dedicated <br> MR | 24–31% <br> 31–41 | 14–20% <br> 16–26 | 10–15% <br> 12–20 | 7–12% <br> 8–14 | 10–15% <br> 14–21 | 9–14% <br> 10–18 | 6–10% <br> 5–10 | N/A <br> N/A | N/A <br> N/A |
 | 25 May 2014 | General Election | 31.9% <br> 43 | 20.5% <br> 27 | 14.1% <br> 19 | 14.0% <br> 18 | 8.7% <br> 10 | 5.9% <br> 6 | 2.5% <br> 0 | 0.6% <br> 0 | 0.0% <br> 0 |
@@ -36,6 +36,155 @@ Only polls for which at least the sample size has been published are included in
 ![Graph with voting intentions not yet produced](average.png "Voting Intentions")
 
 ### Confidence Intervals
+
+| Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| <a href="#n-va">N-VA</a> | 31.9% | 28.8% | 25.6–31.6% |24.9–32.2% | 24.2–32.8% | 23.1–33.8% |
+| <a href="#cd&v">CD&V</a> | 20.5% | 16.5% | 14.8–18.5% |14.4–19.1% | 14.0–19.6% | 13.3–20.7% |
+| <a href="#open-vld">Open Vld</a> | 14.1% | 12.4% | 10.9–14.1% |10.6–14.6% | 10.2–15.1% | 9.6–16.0% |
+| <a href="#sp.a">sp.a</a> | 14.0% | 11.0% | 8.6–13.2% |8.1–13.6% | 7.7–14.1% | 7.0–14.9% |
+| <a href="#groen">Groen</a> | 8.7% | 13.1% | 11.4–14.7% |10.9–15.2% | 10.5–15.6% | 9.7–16.4% |
+| <a href="#vlaams-belang">Vlaams Belang</a> | 5.9% | 9.6% | 7.3–12.9% |6.9–13.5% | 6.6–14.0% | 6.1–15.0% |
+| <a href="#pvda">PVDA</a> | 2.5% | 6.1% | 4.5–8.4% |4.2–8.9% | 4.0–9.3% | 3.6–10.1% |
+| <a href="#piratenpartij">Piratenpartij</a> | 0.6% | N/A | N/A |N/A | N/A | N/A |
+| <a href="#lijst-dedecker">Lijst Dedecker</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
+
+### N-VA
+
+*For a full overview of the results for this party, see the [N-VA](party-nva.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 21 | 0% | 100% |  |
+| 22 | 0.2% | 100% |  |
+| 23 | 0.8% | 99.8% |  |
+| 24 | 3% | 99.0% |  |
+| 25 | 6% | 96% |  |
+| 26 | 10% | 91% |  |
+| 27 | 12% | 81% |  |
+| 28 | 14% | 68% |  |
+| 29 | 16% | 54% | Median |
+| 30 | 16% | 39% |  |
+| 31 | 13% | 23% |  |
+| 32 | 7% | 10% | Last Result |
+| 33 | 3% | 3% |  |
+| 34 | 0.6% | 0.8% |  |
+| 35 | 0.1% | 0.1% |  |
+| 36 | 0% | 0% |  |
+
+### CD&V
+
+*For a full overview of the results for this party, see the [CD&V](party-cdv.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 12 | 0.1% | 100% |  |
+| 13 | 0.9% | 99.9% |  |
+| 14 | 6% | 99.1% |  |
+| 15 | 17% | 93% |  |
+| 16 | 27% | 76% |  |
+| 17 | 25% | 49% | Median |
+| 18 | 15% | 24% |  |
+| 19 | 6% | 9% |  |
+| 20 | 2% | 3% |  |
+| 21 | 0.5% | 0.7% | Last Result |
+| 22 | 0.1% | 0.1% |  |
+| 23 | 0% | 0% |  |
+
+### Open Vld
+
+*For a full overview of the results for this party, see the [Open Vld](party-openvld.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 8 | 0% | 100% |  |
+| 9 | 0.4% | 100% |  |
+| 10 | 5% | 99.5% |  |
+| 11 | 18% | 95% |  |
+| 12 | 31% | 77% | Median |
+| 13 | 27% | 45% |  |
+| 14 | 13% | 18% | Last Result |
+| 15 | 4% | 5% |  |
+| 16 | 1.0% | 1.2% |  |
+| 17 | 0.2% | 0.2% |  |
+| 18 | 0% | 0% |  |
+
+### sp.a
+
+*For a full overview of the results for this party, see the [sp.a](party-spa.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 5 | 0% | 100% |  |
+| 6 | 0.1% | 100% |  |
+| 7 | 2% | 99.9% |  |
+| 8 | 8% | 98% |  |
+| 9 | 16% | 90% |  |
+| 10 | 17% | 74% |  |
+| 11 | 18% | 58% | Median |
+| 12 | 20% | 40% |  |
+| 13 | 14% | 20% |  |
+| 14 | 5% | 6% | Last Result |
+| 15 | 0.9% | 1.0% |  |
+| 16 | 0.1% | 0.1% |  |
+| 17 | 0% | 0% |  |
+
+### Groen
+
+*For a full overview of the results for this party, see the [Groen](party-groen.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 8 | 0% | 100% |  |
+| 9 | 0.3% | 100% | Last Result |
+| 10 | 2% | 99.6% |  |
+| 11 | 10% | 97% |  |
+| 12 | 22% | 87% |  |
+| 13 | 30% | 66% | Median |
+| 14 | 23% | 36% |  |
+| 15 | 10% | 12% |  |
+| 16 | 2% | 3% |  |
+| 17 | 0.3% | 0.4% |  |
+| 18 | 0% | 0% |  |
+
+### Vlaams Belang
+
+*For a full overview of the results for this party, see the [Vlaams Belang](party-vlaamsbelang.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 5 | 0% | 100% |  |
+| 6 | 2% | 100% | Last Result |
+| 7 | 13% | 98% |  |
+| 8 | 22% | 85% |  |
+| 9 | 12% | 63% |  |
+| 10 | 9% | 50% | Median |
+| 11 | 14% | 42% |  |
+| 12 | 14% | 28% |  |
+| 13 | 9% | 14% |  |
+| 14 | 4% | 5% |  |
+| 15 | 0.9% | 1.0% |  |
+| 16 | 0.1% | 0.2% |  |
+| 17 | 0% | 0% |  |
+
+### PVDA
+
+*For a full overview of the results for this party, see the [PVDA](party-pvda.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 2 | 0% | 100% |  |
+| 3 | 0.4% | 100% | Last Result |
+| 4 | 11% | 99.6% |  |
+| 5 | 27% | 89% |  |
+| 6 | 20% | 62% | Median |
+| 7 | 19% | 42% |  |
+| 8 | 15% | 23% |  |
+| 9 | 6% | 8% |  |
+| 10 | 1.4% | 2% |  |
+| 11 | 0.2% | 0.2% |  |
+| 12 | 0% | 0% |  |
+
 
 ## Seats
 
