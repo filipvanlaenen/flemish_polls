@@ -8,8 +8,9 @@ Last result: **31.9%** (General Election of 25 May 2014)
 
 ### Confidence Intervals
 
-| Period     | Pollster/Media   | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+| Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| N/A | [Poll Average](average.html) | 28.8% | 25.6–31.6% | 24.9–32.2% | 24.2–32.8% | 23.1–33.8% |
 | [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 30.2% | 28.4–32.2% | 27.9–32.8% | 27.4–33.2% | 26.5–34.2% |
 | [23–27 June 2017](2017-06-27-Dedicated.html) | Dedicated <br> MR | 27.0% | 24.8–29.4% | 24.2–30.1% | 23.7–30.7% | 22.7–31.8% |
 | [27 March–11 April 2017](2017-04-11-TNS.html) | TNS <br> De Standaard–VRT | 26.3% | 24.6–28.1% | 24.1–28.6% | 23.7–29.1% | 22.9–30.0% |
@@ -41,6 +42,28 @@ Last result: **31.9%** (General Election of 25 May 2014)
 | [July 2014](2014-07-31-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | 33.0% | 31.0–35.0% | 30.4–35.6% | 29.9–36.1% | 29.0–37.1% |
 
 ### Probability Mass Function
+
+The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for N-VA.
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 20.5–21.5% | 0% | 100% |  |
+| 21.5–22.5% | 0.2% | 100% |  |
+| 22.5–23.5% | 0.8% | 99.8% |  |
+| 23.5–24.5% | 3% | 99.0% |  |
+| 24.5–25.5% | 6% | 96% |  |
+| 25.5–26.5% | 10% | 91% |  |
+| 26.5–27.5% | 12% | 81% |  |
+| 27.5–28.5% | 14% | 68% |  |
+| 28.5–29.5% | 16% | 54% | Median |
+| 29.5–30.5% | 16% | 39% |  |
+| 30.5–31.5% | 13% | 23% |  |
+| 31.5–32.5% | 7% | 10% | Last Result |
+| 32.5–33.5% | 3% | 3% |  |
+| 33.5–34.5% | 0.6% | 0.8% |  |
+| 34.5–35.5% | 0.1% | 0.1% |  |
+| 35.5–36.5% | 0% | 0% |  |
+
 
 ## Seats
 
@@ -83,7 +106,7 @@ Last result: **43** seats (General Election of 25 May 2014)
 
 ### Probability Mass Function
 
-The following table shows the probability mass function for the [poll average](average.html) for N-VA.
+The following table shows the probability mass function per seat for the [poll average](average.html) for N-VA.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

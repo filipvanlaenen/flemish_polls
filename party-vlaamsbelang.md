@@ -8,8 +8,9 @@ Last result: **5.9%** (General Election of 25 May 2014)
 
 ### Confidence Intervals
 
-| Period     | Pollster/Media   | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+| Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| N/A | [Poll Average](average.html) | 9.6% | 7.3–12.9% | 6.9–13.5% | 6.6–14.0% | 6.1–15.0% |
 | [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 7.9% | 6.9–9.2% | 6.6–9.5% | 6.4–9.8% | 5.9–10.4% |
 | [23–27 June 2017](2017-06-27-Dedicated.html) | Dedicated <br> MR | 11.7% | 10.2–13.5% | 9.8–14.0% | 9.4–14.4% | 8.7–15.3% |
 | [27 March–11 April 2017](2017-04-11-TNS.html) | TNS <br> De Standaard–VRT | 7.8% | 6.8–8.9% | 6.5–9.3% | 6.3–9.6% | 5.8–10.2% |
@@ -41,6 +42,25 @@ Last result: **5.9%** (General Election of 25 May 2014)
 | [July 2014](2014-07-31-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | 5.8% | 4.9–6.9% | 4.6–7.3% | 4.4–7.5% | 4.0–8.1% |
 
 ### Probability Mass Function
+
+The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Vlaams Belang.
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 4.5–5.5% | 0% | 100% |  |
+| 5.5–6.5% | 2% | 100% | Last Result |
+| 6.5–7.5% | 13% | 98% |  |
+| 7.5–8.5% | 22% | 85% |  |
+| 8.5–9.5% | 12% | 63% |  |
+| 9.5–10.5% | 9% | 50% | Median |
+| 10.5–11.5% | 14% | 42% |  |
+| 11.5–12.5% | 14% | 28% |  |
+| 12.5–13.5% | 9% | 14% |  |
+| 13.5–14.5% | 4% | 5% |  |
+| 14.5–15.5% | 0.9% | 1.0% |  |
+| 15.5–16.5% | 0.1% | 0.2% |  |
+| 16.5–17.5% | 0% | 0% |  |
+
 
 ## Seats
 
@@ -83,7 +103,7 @@ Last result: **6** seats (General Election of 25 May 2014)
 
 ### Probability Mass Function
 
-The following table shows the probability mass function for the [poll average](average.html) for Vlaams Belang.
+The following table shows the probability mass function per seat for the [poll average](average.html) for Vlaams Belang.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

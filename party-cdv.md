@@ -8,8 +8,9 @@ Last result: **20.5%** (General Election of 25 May 2014)
 
 ### Confidence Intervals
 
-| Period     | Pollster/Media   | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+| Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| N/A | [Poll Average](average.html) | 16.5% | 14.8–18.5% | 14.4–19.1% | 14.0–19.6% | 13.3–20.7% |
 | [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 16.1% | 14.6–17.7% | 14.2–18.1% | 13.9–18.5% | 13.2–19.3% |
 | [23–27 June 2017](2017-06-27-Dedicated.html) | Dedicated <br> MR | 17.0% | 15.2–19.0% | 14.6–19.6% | 14.2–20.1% | 13.4–21.1% |
 | [27 March–11 April 2017](2017-04-11-TNS.html) | TNS <br> De Standaard–VRT | 18.6% | 17.1–20.3% | 16.7–20.7% | 16.4–21.1% | 15.7–21.9% |
@@ -41,6 +42,24 @@ Last result: **20.5%** (General Election of 25 May 2014)
 | [July 2014](2014-07-31-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | 17.7% | 16.2–19.5% | 15.7–20.0% | 15.3–20.4% | 14.6–21.3% |
 
 ### Probability Mass Function
+
+The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for CD&V.
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 11.5–12.5% | 0.1% | 100% |  |
+| 12.5–13.5% | 0.9% | 99.9% |  |
+| 13.5–14.5% | 6% | 99.1% |  |
+| 14.5–15.5% | 17% | 93% |  |
+| 15.5–16.5% | 27% | 76% |  |
+| 16.5–17.5% | 25% | 49% | Median |
+| 17.5–18.5% | 15% | 24% |  |
+| 18.5–19.5% | 6% | 9% |  |
+| 19.5–20.5% | 2% | 3% |  |
+| 20.5–21.5% | 0.5% | 0.7% | Last Result |
+| 21.5–22.5% | 0.1% | 0.1% |  |
+| 22.5–23.5% | 0% | 0% |  |
+
 
 ## Seats
 
@@ -83,7 +102,7 @@ Last result: **27** seats (General Election of 25 May 2014)
 
 ### Probability Mass Function
 
-The following table shows the probability mass function for the [poll average](average.html) for CD&V.
+The following table shows the probability mass function per seat for the [poll average](average.html) for CD&V.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

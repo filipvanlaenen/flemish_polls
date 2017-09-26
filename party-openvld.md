@@ -8,8 +8,9 @@ Last result: **14.1%** (General Election of 25 May 2014)
 
 ### Confidence Intervals
 
-| Period     | Pollster/Media   | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+| Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| N/A | [Poll Average](average.html) | 12.4% | 10.9–14.1% | 10.6–14.6% | 10.2–15.1% | 9.6–16.0% |
 | [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 12.1% | 10.8–13.5% | 10.5–14.0% | 10.2–14.3% | 9.6–15.0% |
 | [23–27 June 2017](2017-06-27-Dedicated.html) | Dedicated <br> MR | 12.6% | 11.1–14.5% | 10.6–15.0% | 10.3–15.5% | 9.6–16.4% |
 | [27 March–11 April 2017](2017-04-11-TNS.html) | TNS <br> De Standaard–VRT | 14.4% | 13.0–15.9% | 12.7–16.3% | 12.4–16.7% | 11.8–17.4% |
@@ -41,6 +42,23 @@ Last result: **14.1%** (General Election of 25 May 2014)
 | [July 2014](2014-07-31-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | 15.5% | 14.0–17.1% | 13.6–17.6% | 13.2–18.0% | 12.5–18.8% |
 
 ### Probability Mass Function
+
+The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Open Vld.
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 7.5–8.5% | 0% | 100% |  |
+| 8.5–9.5% | 0.4% | 100% |  |
+| 9.5–10.5% | 5% | 99.5% |  |
+| 10.5–11.5% | 18% | 95% |  |
+| 11.5–12.5% | 31% | 77% | Median |
+| 12.5–13.5% | 27% | 45% |  |
+| 13.5–14.5% | 13% | 18% | Last Result |
+| 14.5–15.5% | 4% | 5% |  |
+| 15.5–16.5% | 1.0% | 1.2% |  |
+| 16.5–17.5% | 0.2% | 0.2% |  |
+| 17.5–18.5% | 0% | 0% |  |
+
 
 ## Seats
 
@@ -83,7 +101,7 @@ Last result: **19** seats (General Election of 25 May 2014)
 
 ### Probability Mass Function
 
-The following table shows the probability mass function for the [poll average](average.html) for Open Vld.
+The following table shows the probability mass function per seat for the [poll average](average.html) for Open Vld.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

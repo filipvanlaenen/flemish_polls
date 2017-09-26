@@ -8,8 +8,9 @@ Last result: **8.7%** (General Election of 25 May 2014)
 
 ### Confidence Intervals
 
-| Period     | Pollster/Media   | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+| Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| N/A | [Poll Average](average.html) | 13.1% | 11.4–14.7% | 10.9–15.2% | 10.5–15.6% | 9.7–16.4% |
 | [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 13.5% | 12.1–15.0% | 11.8–15.4% | 11.4–15.8% | 10.8–16.5% |
 | [23–27 June 2017](2017-06-27-Dedicated.html) | Dedicated <br> MR | 12.5% | 10.9–14.3% | 10.5–14.8% | 10.1–15.3% | 9.4–16.2% |
 | [27 March–11 April 2017](2017-04-11-TNS.html) | TNS <br> De Standaard–VRT | 14.7% | 13.3–16.2% | 12.9–16.6% | 12.6–17.0% | 12.0–17.7% |
@@ -41,6 +42,23 @@ Last result: **8.7%** (General Election of 25 May 2014)
 | [July 2014](2014-07-31-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | 9.0% | 7.8–10.3% | 7.5–10.7% | 7.3–11.1% | 6.8–11.7% |
 
 ### Probability Mass Function
+
+The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Groen.
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 7.5–8.5% | 0% | 100% |  |
+| 8.5–9.5% | 0.3% | 100% | Last Result |
+| 9.5–10.5% | 2% | 99.6% |  |
+| 10.5–11.5% | 10% | 97% |  |
+| 11.5–12.5% | 22% | 87% |  |
+| 12.5–13.5% | 30% | 66% | Median |
+| 13.5–14.5% | 23% | 36% |  |
+| 14.5–15.5% | 10% | 12% |  |
+| 15.5–16.5% | 2% | 3% |  |
+| 16.5–17.5% | 0.3% | 0.4% |  |
+| 17.5–18.5% | 0% | 0% |  |
+
 
 ## Seats
 
@@ -83,7 +101,7 @@ Last result: **10** seats (General Election of 25 May 2014)
 
 ### Probability Mass Function
 
-The following table shows the probability mass function for the [poll average](average.html) for Groen.
+The following table shows the probability mass function per seat for the [poll average](average.html) for Groen.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
