@@ -17,7 +17,7 @@ The following websites provide similar information to this website:
 
 ## Other Resources
 
-+ The Twitter feed for this site: [@hoegin](https://twitter.com/hoegin)
++ The Twitter feed for this site: [@belpolls](https://twitter.com/belpolls)
 + The GitHub project for this site: [filipvanlaenen/flemish_polls](https://github.com/filipvanlaenen/flemish_polls)
 
 ## Sister Websites
