@@ -23,7 +23,7 @@ Last result: **2.5%** (General Election of 25 May 2014)
 | [6–12 May 2016](2016-05-12-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 4.8% | 4.0–5.7% | 3.8–6.0% | 3.6–6.3% | 3.3–6.8% |
 | [31 March– 4 April 2016](2016-04-04-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 4.6% | 3.7–5.7% | 3.5–6.0% | 3.3–6.3% | 2.9–6.9% |
 | [22 February–9 March 2016](2016-03-09-TNS.html) | TNS <br> De Standaard–VRT | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.6–5.9% |
-| [15-20 January 2016](2016-01-20-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 3.7% | 3.1–4.6% | 2.9–4.9% | 2.7–5.1% | 2.5–5.5% |
+| [15–20 January 2016](2016-01-20-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 3.7% | 3.1–4.6% | 2.9–4.9% | 2.7–5.1% | 2.5–5.5% |
 | [3–7 December 2015](2015-12-07-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 2.9% | 2.3–3.7% | 2.2–4.0% | 2.0–4.2% | 1.8–4.6% |
 | [28 September–4 October 2015](2015-10-04-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 4.1% | 3.4–5.0% | 3.2–5.2% | 3.0–5.5% | 2.7–5.9% |
 | [22 September–2 October 2015](2015-10-02-TNS.html) | TNS <br> De Standaard–VRT | 3.8% | 3.2–4.7% | 3.0–5.0% | 2.8–5.2% | 2.5–5.7% |
@@ -81,7 +81,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [6–12 May 2016](2016-05-12-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 2 | 2–5 | 2–5 | 2–5 | 0–5 |
 | [31 March– 4 April 2016](2016-04-04-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 2 | 2–5 | 1–5 | 0–5 | 0–5 |
 | [22 February–9 March 2016](2016-03-09-TNS.html) | TNS <br> De Standaard–VRT | 2 | 0–2 | 0–3 | 0–3 | 0–5 |
-| [15-20 January 2016](2016-01-20-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 2 | 0–2 | 0–2 | 0–3 | 0–5 |
+| [15–20 January 2016](2016-01-20-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 2 | 0–2 | 0–2 | 0–3 | 0–5 |
 | [3–7 December 2015](2015-12-07-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [28 September–4 October 2015](2015-10-04-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 2 | 1–2 | 0–3 | 0–5 | 0–5 |
 | [22 September–2 October 2015](2015-10-02-TNS.html) | TNS <br> De Standaard–VRT | 2 | 0–2 | 0–2 | 0–3 | 0–5 |
