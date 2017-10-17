@@ -10,7 +10,8 @@ Last result: **14.1%** (General Election of 25 May 2014)
 
 | Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.4% | 10.9–14.1% | 10.6–14.6% | 10.2–15.1% | 9.6–16.0% |
+| N/A | [Poll Average](average.html) | 13.9% | 11.3–16.5% | 10.8–17.0% | 10.5–17.4% | 9.8–18.3% |
+| [11 September–5 October 2017](2017-10-05-TNS.html) | TNS <br> De Standaard–VRT–RTBf–La Libre Belgique | 15.5% | 14.1–17.0% | 13.8–17.5% | 13.4–17.8% | 12.8–18.6% |
 | [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 12.1% | 10.8–13.5% | 10.5–14.0% | 10.2–14.3% | 9.6–15.0% |
 | [23–27 June 2017](2017-06-27-Dedicated.html) | Dedicated <br> MR | 12.6% | 11.1–14.5% | 10.6–15.0% | 10.3–15.5% | 9.6–16.4% |
 | [27 March–11 April 2017](2017-04-11-TNS.html) | TNS <br> De Standaard–VRT | 14.4% | 13.0–15.9% | 12.7–16.3% | 12.4–16.7% | 11.8–17.4% |
@@ -48,16 +49,18 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0.4% | 100% |  |
-| 9.5–10.5% | 5% | 99.5% |  |
-| 10.5–11.5% | 18% | 95% |  |
-| 11.5–12.5% | 31% | 77% | Median |
-| 12.5–13.5% | 27% | 45% |  |
-| 13.5–14.5% | 13% | 18% | Last Result |
-| 14.5–15.5% | 4% | 5% |  |
-| 15.5–16.5% | 1.0% | 1.2% |  |
-| 16.5–17.5% | 0.2% | 0.2% |  |
-| 17.5–18.5% | 0% | 0% |  |
+| 8.5–9.5% | 0.2% | 100% |  |
+| 9.5–10.5% | 3% | 99.8% |  |
+| 10.5–11.5% | 11% | 97% |  |
+| 11.5–12.5% | 18% | 86% |  |
+| 12.5–13.5% | 14% | 68% |  |
+| 13.5–14.5% | 12% | 53% | Last Result, Median |
+| 14.5–15.5% | 16% | 42% |  |
+| 15.5–16.5% | 16% | 25% |  |
+| 16.5–17.5% | 7% | 9% |  |
+| 17.5–18.5% | 2% | 2% |  |
+| 18.5–19.5% | 0.2% | 0.3% |  |
+| 19.5–20.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -68,7 +71,8 @@ Last result: **19** seats (General Election of 25 May 2014)
 
 | Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 13–19 | 13–19 | 12–20 | 12–22 |
+| N/A | [Poll Average](average.html) | 18 | 13–20 | 13–23 | 13–23 | 12–23 |
+| [11 September–5 October 2017](2017-10-05-TNS.html) | TNS <br> De Standaard–VRT–RTBf–La Libre Belgique | 20 | 18–23 | 18–23 | 18–23 | 18–23 |
 | [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 16 | 13–19 | 13–19 | 12–19 | 12–20 |
 | [23–27 June 2017](2017-06-27-Dedicated.html) | Dedicated <br> MR | 17 | 13–19 | 12–19 | 12–20 | 12–22 |
 | [27 March–11 April 2017](2017-04-11-TNS.html) | TNS <br> De Standaard–VRT | 19 | 17–20 | 17–22 | 16–23 | 14–24 |
@@ -105,20 +109,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0.1% | 100% |  |
-| 12 | 4% | 99.9% |  |
-| 13 | 16% | 96% |  |
-| 14 | 9% | 80% |  |
-| 15 | 9% | 70% |  |
-| 16 | 10% | 61% |  |
-| 17 | 14% | 51% | Median |
-| 18 | 14% | 37% |  |
-| 19 | 20% | 23% | Last Result |
-| 20 | 2% | 3% |  |
-| 21 | 0.4% | 1.0% |  |
-| 22 | 0.3% | 0.5% |  |
-| 23 | 0.2% | 0.2% |  |
-| 24 | 0% | 0.1% |  |
-| 25 | 0% | 0% |  |
+| 12 | 2% | 100% |  |
+| 13 | 10% | 98% |  |
+| 14 | 5% | 89% |  |
+| 15 | 5% | 84% |  |
+| 16 | 5% | 78% |  |
+| 17 | 6% | 73% |  |
+| 18 | 19% | 67% | Median |
+| 19 | 17% | 48% | Last Result |
+| 20 | 23% | 32% |  |
+| 21 | 0% | 9% |  |
+| 22 | 0% | 9% |  |
+| 23 | 9% | 9% |  |
+| 24 | 0% | 0% |  |
 
 
