@@ -69,8 +69,8 @@ Last result: **18** seats (General Election of 25 May 2014)
 
 | Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 14–17 | 13–18 | 13–19 | 9–19 |
-| [11 September–5 October 2017](2017-10-05-TNS.html) | TNS <br> De Standaard–VRT–RTBf–La Libre Belgique | 16 | 13–16 | 13–16 | 13–16 | 9–16 |
+| N/A | [Poll Average](average.html) | 14 | 13–17 | 13–18 | 12–19 | 9–19 |
+| [11 September–5 October 2017](2017-10-05-TNS.html) | TNS <br> De Standaard–VRT–RTBf–La Libre Belgique | 14 | 13–15 | 12–16 | 11–17 | 9–18 |
 | [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 15 | 14–18 | 14–19 | 13–19 | 13–19 |
 | [23–27 June 2017](2017-06-27-Dedicated.html) | Dedicated <br> MR | 12 | 9–14 | 8–14 | 8–14 | 7–16 |
 | [27 March–11 April 2017](2017-04-11-TNS.html) | TNS <br> De Standaard–VRT | 17 | 14–19 | 14–19 | 14–19 | 14–20 |
@@ -107,16 +107,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 0.6% | 100% |  |
-| 10 | 0% | 99.4% |  |
-| 11 | 0.2% | 99.3% |  |
-| 12 | 0.2% | 99.1% |  |
-| 13 | 8% | 98.9% |  |
-| 14 | 30% | 91% |  |
-| 15 | 7% | 60% |  |
-| 16 | 36% | 53% | Median |
-| 17 | 11% | 17% |  |
-| 18 | 3% | 6% | Last Result |
+| 9 | 0.5% | 100% |  |
+| 10 | 0.5% | 99.5% |  |
+| 11 | 0.8% | 99.0% |  |
+| 12 | 2% | 98% |  |
+| 13 | 8% | 96% |  |
+| 14 | 52% | 89% | Median |
+| 15 | 11% | 37% |  |
+| 16 | 7% | 26% |  |
+| 17 | 12% | 19% |  |
+| 18 | 3% | 7% | Last Result |
 | 19 | 3% | 4% |  |
 | 20 | 0.1% | 0.2% |  |
 | 21 | 0.1% | 0.1% |  |
