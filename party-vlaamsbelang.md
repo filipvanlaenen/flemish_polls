@@ -67,10 +67,10 @@ Last result: **6** seats (General Election of 25 May 2014)
 
 | Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 5–12 | 4–12 | 4–12 | 3–12 |
+| N/A | [Poll Average](average.html) | 8 | 5–9 | 4–10 | 4–11 | 3–12 |
 | [11 September–5 October 2017](2017-10-05-TNS.html) | TNS <br> De Standaard–VRT–RTBf–La Libre Belgique | 6 | 4–8 | 4–8 | 4–8 | 3–8 |
-| [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 12 | 8–12 | 8–12 | 6–12 | 6–12 |
-| [23–27 June 2017](2017-06-27-Dedicated.html) | Dedicated <br> MR | 12 | 12–15 | 12–17 | 12–17 | 12–17 |
+| [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 8 | 7–10 | 6–11 | 6–11 | 6–12 |
+| [23–27 June 2017](2017-06-27-Dedicated.html) | Dedicated <br> MR | 14 | 12–17 | 11–17 | 10–18 | 9–20 |
 | [27 March–11 April 2017](2017-04-11-TNS.html) | TNS <br> De Standaard–VRT | 8 | 6–9 | 6–10 | 6–11 | 4–12 |
 | [16–20 March 2017](2017-03-20-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 15 | 12–17 | 11–17 | 11–18 | 10–19 |
 | [10–17 January 2017](2017-01-17-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 17 | 16–17 | 13–17 | 12–17 | 8–17 |
@@ -110,13 +110,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0.6% | 99.8% |  |
 | 4 | 9% | 99.2% |  |
 | 5 | 2% | 90% |  |
-| 6 | 22% | 88% | Last Result |
-| 7 | 6% | 66% |  |
-| 8 | 15% | 60% | Median |
-| 9 | 0.1% | 45% |  |
-| 10 | 14% | 45% |  |
-| 11 | 6% | 31% |  |
-| 12 | 25% | 25% |  |
-| 13 | 0% | 0% |  |
+| 6 | 24% | 88% | Last Result |
+| 7 | 9% | 64% |  |
+| 8 | 41% | 55% | Median |
+| 9 | 4% | 14% |  |
+| 10 | 6% | 10% |  |
+| 11 | 2% | 4% |  |
+| 12 | 1.0% | 1.2% |  |
+| 13 | 0.1% | 0.1% |  |
+| 14 | 0% | 0% |  |
 
 

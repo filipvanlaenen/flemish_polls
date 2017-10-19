@@ -73,8 +73,8 @@ Last result: **19** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 19 | 13–22 | 13–23 | 13–24 | 12–25 |
 | [11 September–5 October 2017](2017-10-05-TNS.html) | TNS <br> De Standaard–VRT–RTBf–La Libre Belgique | 20 | 18–23 | 18–24 | 18–24 | 17–26 |
-| [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 13 | 13–20 | 13–20 | 13–20 | 12–22 |
-| [23–27 June 2017](2017-06-27-Dedicated.html) | Dedicated <br> MR | 19 | 19–21 | 19–21 | 19–21 | 13–21 |
+| [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 16 | 13–19 | 13–19 | 12–19 | 12–20 |
+| [23–27 June 2017](2017-06-27-Dedicated.html) | Dedicated <br> MR | 17 | 13–19 | 13–19 | 12–20 | 12–22 |
 | [27 March–11 April 2017](2017-04-11-TNS.html) | TNS <br> De Standaard–VRT | 19 | 17–20 | 16–21 | 15–22 | 13–24 |
 | [16–20 March 2017](2017-03-20-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 18 | 14–19 | 13–20 | 13–20 | 12–23 |
 | [10–17 January 2017](2017-01-17-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 15 | 14–17 | 13–23 | 13–23 | 13–23 |
@@ -109,15 +109,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 1.1% | 100% |  |
-| 13 | 27% | 98.9% |  |
-| 14 | 0.1% | 72% |  |
-| 15 | 0.2% | 72% |  |
-| 16 | 0.2% | 72% |  |
-| 17 | 5% | 71% |  |
-| 18 | 5% | 67% |  |
-| 19 | 14% | 62% | Last Result, Median |
-| 20 | 28% | 48% |  |
+| 12 | 2% | 100% |  |
+| 13 | 11% | 98% |  |
+| 14 | 5% | 87% |  |
+| 15 | 4% | 82% |  |
+| 16 | 6% | 79% |  |
+| 17 | 6% | 72% |  |
+| 18 | 12% | 66% |  |
+| 19 | 16% | 54% | Last Result, Median |
+| 20 | 18% | 38% |  |
 | 21 | 6% | 20% |  |
 | 22 | 5% | 14% |  |
 | 23 | 6% | 9% |  |

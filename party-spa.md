@@ -69,10 +69,10 @@ Last result: **18** seats (General Election of 25 May 2014)
 
 | Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 13–15 | 13–18 | 11–19 | 9–19 |
+| N/A | [Poll Average](average.html) | 14 | 13–17 | 13–18 | 11–19 | 9–19 |
 | [11 September–5 October 2017](2017-10-05-TNS.html) | TNS <br> De Standaard–VRT–RTBf–La Libre Belgique | 14 | 13–15 | 11–15 | 10–17 | 9–18 |
-| [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 15 | 15–17 | 15–19 | 15–19 | 14–19 |
-| [23–27 June 2017](2017-06-27-Dedicated.html) | Dedicated <br> MR | 13 | 8–13 | 8–14 | 8–14 | 7–14 |
+| [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 15 | 14–18 | 14–19 | 13–19 | 13–19 |
+| [23–27 June 2017](2017-06-27-Dedicated.html) | Dedicated <br> MR | 12 | 9–14 | 8–14 | 8–14 | 7–16 |
 | [27 March–11 April 2017](2017-04-11-TNS.html) | TNS <br> De Standaard–VRT | 17 | 14–19 | 14–19 | 14–19 | 14–20 |
 | [16–20 March 2017](2017-03-20-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 17 | 14–19 | 14–19 | 14–19 | 13–21 |
 | [10–17 January 2017](2017-01-17-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 14 | 14–19 | 14–19 | 14–19 | 14–20 |
@@ -112,15 +112,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0.7% | 99.4% |  |
 | 11 | 1.5% | 98.7% |  |
 | 12 | 1.4% | 97% |  |
-| 13 | 6% | 96% |  |
-| 14 | 34% | 90% |  |
-| 15 | 47% | 56% | Median |
-| 16 | 0.9% | 9% |  |
-| 17 | 3% | 8% |  |
-| 18 | 0.7% | 5% | Last Result |
-| 19 | 5% | 5% |  |
-| 20 | 0% | 0.2% |  |
-| 21 | 0.2% | 0.2% |  |
+| 13 | 7% | 96% |  |
+| 14 | 52% | 88% | Median |
+| 15 | 10% | 36% |  |
+| 16 | 8% | 26% |  |
+| 17 | 11% | 18% |  |
+| 18 | 3% | 7% | Last Result |
+| 19 | 4% | 4% |  |
+| 20 | 0.1% | 0.2% |  |
+| 21 | 0% | 0.1% |  |
 | 22 | 0% | 0% |  |
 
 
