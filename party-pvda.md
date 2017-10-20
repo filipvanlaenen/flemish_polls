@@ -69,10 +69,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 3 | 2–5 | 2–5 | 2–5 | 1–6 |
 | [11 September–5 October 2017](2017-10-05-TNS.html) | TNS <br> De Standaard–VRT–RTBf–La Libre Belgique | 3 | 2–5 | 2–5 | 2–5 | 1–5 |
 | [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 3 | 2–5 | 2–5 | 2–5 | 1–7 |
-| [23–27 June 2017](2017-06-27-Dedicated.html) | Dedicated <br> MR | 7 | 5–9 | 5–10 | 5–10 | 3–12 |
+| [23–27 June 2017](2017-06-27-Dedicated.html) | Dedicated <br> MR | 7 | 5–9 | 5–9 | 5–10 | 3–12 |
 | [27 March–11 April 2017](2017-04-11-TNS.html) | TNS <br> De Standaard–VRT | 2 | 1–3 | 0–3 | 0–5 | 0–5 |
-| [16–20 March 2017](2017-03-20-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 4 | 2–5 | 2–5 | 2–6 | 2–9 |
-| [10–17 January 2017](2017-01-17-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 5 | 3–5 | 3–5 | 3–5 | 2–9 |
+| [16–20 March 2017](2017-03-20-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 3 | 2–5 | 2–5 | 2–6 | 1–9 |
+| [10–17 January 2017](2017-01-17-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 4 | 2–5 | 2–5 | 2–6 | 2–9 |
 | [24–28 November 2016](2016-11-28-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | [14 September–3 October 2016](2016-10-03-TNS.html) | TNS <br> De Standaard–VRT | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | [19–25 September 2016](2016-09-25-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 2 | 0–2 | 0–3 | 0–3 | 0–5 |
