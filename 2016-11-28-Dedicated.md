@@ -530,8 +530,8 @@
 
 ### Opinion Poll
 
-+ **Pollster:** Dedicated
-+ **Media:** RTBf–La Libre Belgique
++ **Polling firm:** Dedicated
++ **Commissioner(s):** RTBf–La Libre Belgique
 + **Fieldwork period:** 24–28 November 2016
 
 ### Calculations

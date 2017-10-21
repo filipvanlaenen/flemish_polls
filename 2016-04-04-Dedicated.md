@@ -1,4 +1,4 @@
-# Opinion Poll by Dedicated for RTBf–La Libre Belgique, 31 March– 4 April 2016
+# Opinion Poll by Dedicated for RTBf–La Libre Belgique, 31 March–4 April 2016
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
 
@@ -541,9 +541,9 @@
 
 ### Opinion Poll
 
-+ **Pollster:** Dedicated
-+ **Media:** RTBf–La Libre Belgique
-+ **Fieldwork period:** 31 March– 4 April 2016
++ **Polling firm:** Dedicated
++ **Commissioner(s):** RTBf–La Libre Belgique
++ **Fieldwork period:** 31 March–4 April 2016
 
 ### Calculations
 
