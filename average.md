@@ -200,8 +200,6 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [N-VA](party-nva.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-nva.png "Seats Probability Mass Function")
-
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 31 | 0.1% | 100% |  |
@@ -228,8 +226,6 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [CD&V](party-cdv.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-cdv.png "Seats Probability Mass Function")
-
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 15 | 0.3% | 100% |  |
@@ -255,8 +251,6 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Open Vld](party-openvld.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-openvld.png "Seats Probability Mass Function")
-
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 12 | 2% | 100% |  |
@@ -280,8 +274,6 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [sp.a](party-spa.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-spa.png "Seats Probability Mass Function")
-
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 8 | 0.1% | 100% |  |
@@ -303,8 +295,6 @@ Only polls for which at least the sample size has been published are included in
 ### Groen
 
 *For a full overview of the results for this party, see the [Groen](party-groen.html) page.*
-
-![Graph with seats probability mass function not yet produced](average-seats-pmf-groen.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -329,8 +319,6 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Vlaams Belang](party-vlaamsbelang.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-vlaamsbelang.png "Seats Probability Mass Function")
-
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.1% | 100% |  |
@@ -351,8 +339,6 @@ Only polls for which at least the sample size has been published are included in
 ### PVDA
 
 *For a full overview of the results for this party, see the [PVDA](party-pvda.html) page.*
-
-![Graph with seats probability mass function not yet produced](average-seats-pmf-pvda.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
