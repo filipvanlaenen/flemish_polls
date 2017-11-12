@@ -40,9 +40,9 @@
 
 ### N-VA
 
-*For a full overview of the results for this party, see the [N-VA](party-nva.html) page.*
+*For a full overview of the results for this party, see the [N-VA](party-n-va.html) page.*
 
-![Graph with seats probability mass function not yet produced](2017-03-20-Dedicated-seats-pmf-nva.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2017-03-20-Dedicated-seats-pmf-n-va.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
