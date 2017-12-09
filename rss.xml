@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Flemish Parliament</title>
     <link>https://filipvanlaenen.github.io/flemish_polls</link>
     <description>All Registered Polls for the Flemish Parliament</description>
-    <pubDate>Fri, 20 Oct 2017 17:59:52 +0200</pubDate>
+    <pubDate>Sat, 09 Dec 2017 09:54:58 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 27 November–4 December 2017 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/flemish_polls/2017-12-04-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;N-VA: 37–45 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V: 15–20 seats&lt;/li&gt;&lt;li&gt;Open Vld: 13–19 seats&lt;/li&gt;&lt;li&gt;sp.a: 11–17 seats&lt;/li&gt;&lt;li&gt;Groen: 15–23 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 9–16 seats&lt;/li&gt;&lt;li&gt;PVDA: 2–7 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2017-12-04-Ipsos-seats.png"
+        length="172582"
+        type="image/png"/>
+      <pubDate>Sat, 09 Dec 2017 09:54:58 +0100</pubDate>
+      <dc:date>2017-12-09T09:54:58.841967+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 27 November–4 December 2017 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/flemish_polls/2017-12-04-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;N-VA: 26.8–32.5%&lt;/li&gt;&lt;li&gt;CD&amp;amp;V: 12.0–16.4%&lt;/li&gt;&lt;li&gt;Open Vld: 10.3–14.3%&lt;/li&gt;&lt;li&gt;sp.a: 9.1–13.0%&lt;/li&gt;&lt;li&gt;Groen: 11.2–15.4%&lt;/li&gt;&lt;li&gt;Vlaams Belang: 8.6–12.4%&lt;/li&gt;&lt;li&gt;PVDA: 4.3–7.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2017-12-04-Ipsos.png"
+        length="199432"
+        type="image/png"/>
+      <pubDate>Sat, 09 Dec 2017 09:54:58 +0100</pubDate>
+      <dc:date>2017-12-09T09:54:58.841967+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT–RTBf–La Libre Belgique, 11 September–5 October 2017 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/flemish_polls/2017-10-05-TNS.html#seats</link>
@@ -609,6 +629,6 @@
       <pubDate>Mon, 14 Aug 2017 18:40:16 +0200</pubDate>
       <dc:date>2017-08-14T18:40:16.15694+02:00</dc:date>
     </item>
-    <dc:date>2017-10-20T17:59:52.771138+02:00</dc:date>
+    <dc:date>2017-12-09T09:54:58.841967+01:00</dc:date>
   </channel>
 </rss>
