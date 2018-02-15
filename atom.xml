@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/flemish_polls</id>
   <title>All Registered Polls for the Flemish Parliament</title>
-  <updated>2018-02-15T08:31:59.351883+01:00</updated>
+  <updated>2018-02-15T13:54:02.159863+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>N-VA: 26.8–32.5%, 37–45 seats</li><li>CD&amp;V: 12.0–16.4%, 15–20 seats</li><li>Open Vld: 10.3–14.3%, 13–19 seats</li><li>sp.a: 9.1–13.0%, 11–17 seats</li><li>Groen: 11.2–15.4%, 15–23 seats</li><li>Vlaams Belang: 8.6–12.4%, 9–16 seats</li><li>PVDA: 4.3–7.1%, 2–7 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/flemish_polls/2017-12-04-Ipsos.html</id>
@@ -44,8 +44,8 @@
     <id>https://filipvanlaenen.github.io/flemish_polls/2017-04-11-TNS.html</id>
     <link href="https://filipvanlaenen.github.io/flemish_polls/2017-04-11-TNS.html"/>
     <title>Opinion Poll by TNS for De Standaard–VRT, 27 March–11 April 2017</title>
-    <updated>2017-10-18T17:40:26.745465+02:00</updated>
-    <dc:date>2017-10-18T17:40:26.745465+02:00</dc:date>
+    <updated>2018-02-15T13:54:02.159863+01:00</updated>
+    <dc:date>2018-02-15T13:54:02.159863+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>N-VA: 24.4–30.6%, 32–41 seats</li><li>CD&amp;V: 13.0–18.0%, 15–23 seats</li><li>Open Vld: 10.9–15.6%, 13–20 seats</li><li>sp.a: 10.9–15.6%, 14–20 seats</li><li>Groen: 9.6–14.1%, 12–18 seats</li><li>Vlaams Belang: 9.8–14.4%, 11–18 seats</li><li>PVDA: 4.0–7.2%, 2–6 seats</li><li>Piratenpartij: 0.7–2.3%, 0 seats</li></ul></div></content>
@@ -255,5 +255,5 @@
     <updated>2017-08-14T18:40:16.15694+02:00</updated>
     <dc:date>2017-08-14T18:40:16.15694+02:00</dc:date>
   </entry>
-  <dc:date>2018-02-15T08:31:59.351883+01:00</dc:date>
+  <dc:date>2018-02-15T13:54:02.159863+01:00</dc:date>
 </feed>
