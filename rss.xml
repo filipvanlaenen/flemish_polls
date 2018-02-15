@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Flemish Parliament</title>
     <link>https://filipvanlaenen.github.io/flemish_polls</link>
     <description>All Registered Polls for the Flemish Parliament</description>
-    <pubDate>Thu, 15 Feb 2018 08:31:59 +0100</pubDate>
+    <pubDate>Thu, 15 Feb 2018 13:54:02 +0100</pubDate>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 27 November–4 December 2017 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/flemish_polls/2017-12-04-Ipsos.html#seats</link>
@@ -134,20 +134,20 @@
       <link>https://filipvanlaenen.github.io/flemish_polls/2017-04-11-TNS.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;N-VA: 31–39 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V: 20–27 seats&lt;/li&gt;&lt;li&gt;Open Vld: 15–22 seats&lt;/li&gt;&lt;li&gt;sp.a: 14–19 seats&lt;/li&gt;&lt;li&gt;Groen: 17–23 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 6–11 seats&lt;/li&gt;&lt;li&gt;PVDA: 0–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2017-04-11-TNS-seats.png"
-        length="172018"
+        length="169380"
         type="image/png"/>
-      <pubDate>Wed, 18 Oct 2017 17:40:26 +0200</pubDate>
-      <dc:date>2017-10-18T17:40:26.745465+02:00</dc:date>
+      <pubDate>Thu, 15 Feb 2018 13:54:02 +0100</pubDate>
+      <dc:date>2018-02-15T13:54:02.159863+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT, 27 March–11 April 2017 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/flemish_polls/2017-04-11-TNS.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2017-04-11-TNS-coalitions-seats.png"
-        length="357613"
+        length="353639"
         type="image/png"/>
-      <pubDate>Wed, 18 Oct 2017 17:40:26 +0200</pubDate>
-      <dc:date>2017-10-18T17:40:26.745465+02:00</dc:date>
+      <pubDate>Thu, 15 Feb 2018 13:54:02 +0100</pubDate>
+      <dc:date>2018-02-15T13:54:02.159863+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT, 27 March–11 April 2017 – Voting Intentions</title>
@@ -156,8 +156,8 @@
       <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2017-04-11-TNS.png"
         length="199264"
         type="image/png"/>
-      <pubDate>Wed, 18 Oct 2017 17:40:26 +0200</pubDate>
-      <dc:date>2017-10-18T17:40:26.745465+02:00</dc:date>
+      <pubDate>Thu, 15 Feb 2018 13:54:02 +0100</pubDate>
+      <dc:date>2018-02-15T13:54:02.159863+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 16–20 March 2017 – Seat Projections</title>
@@ -939,6 +939,6 @@
       <pubDate>Mon, 14 Aug 2017 18:40:16 +0200</pubDate>
       <dc:date>2017-08-14T18:40:16.15694+02:00</dc:date>
     </item>
-    <dc:date>2018-02-15T08:31:59.351883+01:00</dc:date>
+    <dc:date>2018-02-15T13:54:02.159863+01:00</dc:date>
   </channel>
 </rss>
