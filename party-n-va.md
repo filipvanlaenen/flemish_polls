@@ -78,7 +78,7 @@ Last result: **43** seats (General Election of 25 May 2014)
 | [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 41 | 38–44 | 38–45 | 37–45 | 36–47 |
 | [23–27 June 2017](2017-06-27-Dedicated.html) | Dedicated <br> MR | 36 | 33–39 | 32–39 | 31–40 | 30–43 |
 | [27 March–11 April 2017](2017-04-11-TNS.html) | TNS <br> De Standaard–VRT | 35 | 32–37 | 31–38 | 31–39 | 30–40 |
-| [16–20 March 2017](2017-03-20-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 37 | 34–39 | 33–40 | 32–41 | 30–43 |
+| [16–20 March 2017](2017-03-20-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 37 | 34–39 | 33–40 | 32–41 | 31–43 |
 | [10–17 January 2017](2017-01-17-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 38 | 34–40 | 33–41 | 33–41 | 32–43 |
 | [24–28 November 2016](2016-11-28-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 37 | 34–40 | 34–41 | 33–42 | 31–44 |
 | [14 September–3 October 2016](2016-10-03-TNS.html) | TNS <br> De Standaard–VRT | 37 | 35–40 | 34–41 | 34–41 | 32–43 |
