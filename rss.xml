@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Flemish Parliament</title>
     <link>https://filipvanlaenen.github.io/flemish_polls</link>
     <description>All Registered Polls for the Flemish Parliament</description>
-    <pubDate>Fri, 16 Feb 2018 08:06:12 +0100</pubDate>
+    <pubDate>Thu, 01 Mar 2018 16:50:26 +0100</pubDate>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 27 November–4 December 2017 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/flemish_polls/2017-12-04-Ipsos.html#seats</link>
@@ -104,20 +104,20 @@
       <link>https://filipvanlaenen.github.io/flemish_polls/2017-06-27-Dedicated.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;N-VA: 31–40 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V: 16–26 seats&lt;/li&gt;&lt;li&gt;Open Vld: 12–20 seats&lt;/li&gt;&lt;li&gt;sp.a: 8–14 seats&lt;/li&gt;&lt;li&gt;Groen: 14–21 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 10–18 seats&lt;/li&gt;&lt;li&gt;PVDA: 5–10 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2017-06-27-Dedicated-seats.png"
-        length="182111"
+        length="185777"
         type="image/png"/>
-      <pubDate>Fri, 20 Oct 2017 17:59:52 +0200</pubDate>
-      <dc:date>2017-10-20T17:59:52.771138+02:00</dc:date>
+      <pubDate>Thu, 01 Mar 2018 16:50:26 +0100</pubDate>
+      <dc:date>2018-03-01T16:50:26.073033+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for MR, 23–27 June 2017 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/flemish_polls/2017-06-27-Dedicated.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2017-06-27-Dedicated-coalitions-seats.png"
-        length="392435"
+        length="393170"
         type="image/png"/>
-      <pubDate>Fri, 20 Oct 2017 17:59:52 +0200</pubDate>
-      <dc:date>2017-10-20T17:59:52.771138+02:00</dc:date>
+      <pubDate>Thu, 01 Mar 2018 16:50:26 +0100</pubDate>
+      <dc:date>2018-03-01T16:50:26.073033+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for MR, 23–27 June 2017 – Voting Intentions</title>
@@ -126,8 +126,8 @@
       <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2017-06-27-Dedicated.png"
         length="216788"
         type="image/png"/>
-      <pubDate>Fri, 20 Oct 2017 17:59:52 +0200</pubDate>
-      <dc:date>2017-10-20T17:59:52.771138+02:00</dc:date>
+      <pubDate>Thu, 01 Mar 2018 16:50:26 +0100</pubDate>
+      <dc:date>2018-03-01T16:50:26.073033+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT, 27 March–11 April 2017 – Seat Projections</title>
@@ -939,6 +939,6 @@
       <pubDate>Mon, 14 Aug 2017 18:40:16 +0200</pubDate>
       <dc:date>2017-08-14T18:40:16.15694+02:00</dc:date>
     </item>
-    <dc:date>2018-02-16T08:06:12.866754+01:00</dc:date>
+    <dc:date>2018-03-01T16:50:26.073033+01:00</dc:date>
   </channel>
 </rss>
