@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Flemish Parliament</title>
     <link>https://filipvanlaenen.github.io/flemish_polls</link>
     <description>All Registered Polls for the Flemish Parliament</description>
-    <pubDate>Fri, 02 Mar 2018 09:12:12 +0100</pubDate>
+    <pubDate>Mon, 05 Mar 2018 17:04:33 +0100</pubDate>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 27 November–4 December 2017 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/flemish_polls/2017-12-04-Ipsos.html#seats</link>
@@ -42,22 +42,22 @@
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT–RTBf–La Libre Belgique, 11 September–5 October 2017 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/flemish_polls/2017-10-05-TNS.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;N-VA: 34–42 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V: 20–28 seats&lt;/li&gt;&lt;li&gt;Open Vld: 18–24 seats&lt;/li&gt;&lt;li&gt;sp.a: 10–17 seats&lt;/li&gt;&lt;li&gt;Groen: 15–22 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 4–8 seats&lt;/li&gt;&lt;li&gt;PVDA: 2–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;N-VA: 34–42 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V: 20–29 seats&lt;/li&gt;&lt;li&gt;Open Vld: 18–24 seats&lt;/li&gt;&lt;li&gt;sp.a: 10–17 seats&lt;/li&gt;&lt;li&gt;Groen: 15–22 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 4–8 seats&lt;/li&gt;&lt;li&gt;PVDA: 2–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2017-10-05-TNS-seats.png"
-        length="168279"
+        length="168367"
         type="image/png"/>
-      <pubDate>Tue, 17 Oct 2017 21:30:51 +0200</pubDate>
-      <dc:date>2017-10-17T21:30:51.584479+02:00</dc:date>
+      <pubDate>Mon, 05 Mar 2018 17:04:33 +0100</pubDate>
+      <dc:date>2018-03-05T17:04:33.550111+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT–RTBf–La Libre Belgique, 11 September–5 October 2017 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/flemish_polls/2017-10-05-TNS.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2017-10-05-TNS-coalitions-seats.png"
-        length="347599"
+        length="349273"
         type="image/png"/>
-      <pubDate>Tue, 17 Oct 2017 21:30:51 +0200</pubDate>
-      <dc:date>2017-10-17T21:30:51.584479+02:00</dc:date>
+      <pubDate>Mon, 05 Mar 2018 17:04:33 +0100</pubDate>
+      <dc:date>2018-03-05T17:04:33.550111+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT–RTBf–La Libre Belgique, 11 September–5 October 2017 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2017-10-05-TNS.png"
         length="200545"
         type="image/png"/>
-      <pubDate>Tue, 17 Oct 2017 21:30:51 +0200</pubDate>
-      <dc:date>2017-10-17T21:30:51.584479+02:00</dc:date>
+      <pubDate>Mon, 05 Mar 2018 17:04:33 +0100</pubDate>
+      <dc:date>2018-03-05T17:04:33.550111+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 25 August–3 September 2017 – Seat Projections</title>
@@ -939,6 +939,6 @@
       <pubDate>Mon, 14 Aug 2017 18:40:16 +0200</pubDate>
       <dc:date>2017-08-14T18:40:16.15694+02:00</dc:date>
     </item>
-    <dc:date>2018-03-02T09:12:12.893926+01:00</dc:date>
+    <dc:date>2018-03-05T17:04:33.550111+01:00</dc:date>
   </channel>
 </rss>
