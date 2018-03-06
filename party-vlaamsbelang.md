@@ -92,7 +92,7 @@ Last result: **6** seats (General Election of 25 May 2014)
 | [22 September–2 October 2015](2015-10-02-TNS.html) | TNS <br> De Standaard–VRT | 8 | 6–8 | 4–8 | 4–8 | 3–11 |
 | [9–14 September 2015](2015-09-14-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 11 | 8–13 | 8–14 | 8–15 | 8–16 |
 | [12–18 May 2015](2015-05-18-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 8 | 7–11 | 6–11 | 6–12 | 4–13 |
-| [20 April–3 May 2015](2015-05-03-TNS.html) | TNS <br> De Standaard–VRT | 4 | 3–7 | 3–8 | 2–8 | 0–8 |
+| [20 April–3 May 2015](2015-05-03-TNS.html) | TNS <br> De Standaard–VRT | 4 | 3–7 | 2–8 | 2–8 | 0–8 |
 | [20–24 April 2015](2015-04-24-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 8 | 8–11 | 7–11 | 6–12 | 6–12 |
 | [5–9 March 2015](2015-03-09-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 8 | 6–9 | 6–11 | 4–11 | 4–12 |
 | [23–28 January 2015](2015-01-28-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 8 | 6–8 | 6–10 | 6–11 | 4–11 |
