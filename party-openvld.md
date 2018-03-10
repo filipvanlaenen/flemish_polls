@@ -70,8 +70,8 @@ Last result: **19** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 16–20 | 15–20 | 13–20 | 12–20 |
-| [27 February–6 March 2018](2018-03-06-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 18 | 16–20 | 15–20 | 13–20 | 12–20 |
+| N/A | [Poll Average](average.html) | 18 | 14–19 | 13–19 | 13–20 | 12–21 |
+| [27 February–6 March 2018](2018-03-06-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 18 | 14–19 | 13–19 | 13–20 | 12–21 |
 | [27 November–4 December 2017](2017-12-04-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 17 | 13–19 | 13–19 | 12–19 | 12–20 |
 | [11 September–5 October 2017](2017-10-05-TNS.html) | TNS <br> De Standaard–VRT–RTBf–La Libre Belgique | 20 | 19–23 | 18–24 | 18–24 | 17–25 |
 | [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 16 | 13–19 | 13–19 | 12–19 | 12–20 |
@@ -113,16 +113,16 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 12 | 2% | 100% |  |
-| 13 | 1.4% | 98% |  |
-| 14 | 0% | 96% |  |
-| 15 | 3% | 96% |  |
-| 16 | 12% | 93% |  |
-| 17 | 0.7% | 81% |  |
-| 18 | 49% | 80% | Median |
-| 19 | 12% | 31% | Last Result |
-| 20 | 19% | 19% |  |
-| 21 | 0% | 0.1% |  |
-| 22 | 0% | 0.1% |  |
+| 13 | 8% | 98% |  |
+| 14 | 5% | 90% |  |
+| 15 | 5% | 85% |  |
+| 16 | 8% | 80% |  |
+| 17 | 10% | 72% |  |
+| 18 | 25% | 61% | Median |
+| 19 | 31% | 36% | Last Result |
+| 20 | 4% | 5% |  |
+| 21 | 0.3% | 0.6% |  |
+| 22 | 0.2% | 0.3% |  |
 | 23 | 0.1% | 0.1% |  |
 | 24 | 0% | 0% |  |
 

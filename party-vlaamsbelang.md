@@ -69,8 +69,8 @@ Last result: **6** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 8–10 | 8–10 | 8–10 | 6–14 |
-| [27 February–6 March 2018](2018-03-06-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 10 | 8–10 | 8–10 | 8–10 | 6–14 |
+| N/A | [Poll Average](average.html) | 10 | 8–11 | 8–13 | 8–13 | 7–14 |
+| [27 February–6 March 2018](2018-03-06-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 10 | 8–11 | 8–13 | 8–13 | 7–14 |
 | [27 November–4 December 2017](2017-12-04-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 12 | 10–15 | 10–16 | 9–16 | 8–17 |
 | [11 September–5 October 2017](2017-10-05-TNS.html) | TNS <br> De Standaard–VRT–RTBf–La Libre Belgique | 6 | 4–8 | 4–8 | 4–8 | 3–8 |
 | [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 8 | 7–10 | 6–11 | 6–11 | 6–12 |
@@ -111,17 +111,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 1.4% | 100% | Last Result |
-| 7 | 0% | 98.6% |  |
-| 8 | 12% | 98.6% |  |
-| 9 | 0.7% | 86% |  |
-| 10 | 83% | 85% | Median |
-| 11 | 0.4% | 2% |  |
-| 12 | 0% | 2% |  |
-| 13 | 0.1% | 2% |  |
+| 6 | 0.2% | 100% | Last Result |
+| 7 | 0.6% | 99.8% |  |
+| 8 | 30% | 99.2% |  |
+| 9 | 15% | 69% |  |
+| 10 | 20% | 54% | Median |
+| 11 | 24% | 34% |  |
+| 12 | 5% | 10% |  |
+| 13 | 3% | 5% |  |
 | 14 | 2% | 2% |  |
-| 15 | 0% | 0.1% |  |
-| 16 | 0.1% | 0.1% |  |
+| 15 | 0.2% | 0.5% |  |
+| 16 | 0.2% | 0.2% |  |
 | 17 | 0% | 0% |  |
 
 

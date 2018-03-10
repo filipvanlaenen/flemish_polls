@@ -72,8 +72,8 @@ Last result: **43** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 40 | 40–45 | 40–45 | 40–48 | 40–49 |
-| [27 February–6 March 2018](2018-03-06-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 40 | 40–45 | 40–45 | 40–48 | 40–49 |
+| N/A | [Poll Average](average.html) | 42 | 39–45 | 38–46 | 38–47 | 37–48 |
+| [27 February–6 March 2018](2018-03-06-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 42 | 39–45 | 38–46 | 38–47 | 37–48 |
 | [27 November–4 December 2017](2017-12-04-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 40 | 38–43 | 38–44 | 37–45 | 35–46 |
 | [11 September–5 October 2017](2017-10-05-TNS.html) | TNS <br> De Standaard–VRT–RTBf–La Libre Belgique | 37 | 35–40 | 34–41 | 34–42 | 32–43 |
 | [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 41 | 38–44 | 38–45 | 37–45 | 36–47 |
@@ -114,18 +114,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 38 | 0.1% | 100% |  |
-| 39 | 0.1% | 99.9% |  |
-| 40 | 68% | 99.8% | Median |
-| 41 | 11% | 32% |  |
-| 42 | 2% | 22% |  |
-| 43 | 0% | 19% | Last Result |
-| 44 | 0% | 19% |  |
-| 45 | 16% | 19% |  |
-| 46 | 0% | 4% |  |
-| 47 | 0% | 4% |  |
-| 48 | 1.4% | 4% |  |
-| 49 | 2% | 2% |  |
-| 50 | 0% | 0% |  |
+| 35 | 0.1% | 100% |  |
+| 36 | 0.2% | 99.9% |  |
+| 37 | 0.7% | 99.7% |  |
+| 38 | 7% | 99.1% |  |
+| 39 | 11% | 92% |  |
+| 40 | 17% | 81% |  |
+| 41 | 13% | 64% |  |
+| 42 | 9% | 51% | Median |
+| 43 | 12% | 42% | Last Result |
+| 44 | 14% | 30% |  |
+| 45 | 10% | 16% |  |
+| 46 | 3% | 5% |  |
+| 47 | 2% | 3% |  |
+| 48 | 0.7% | 1.1% |  |
+| 49 | 0.2% | 0.3% |  |
+| 50 | 0.1% | 0.2% |  |
+| 51 | 0% | 0% |  |
 
 
