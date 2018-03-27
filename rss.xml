@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Flemish Parliament</title>
     <link>https://filipvanlaenen.github.io/flemish_polls</link>
     <description>All Registered Polls for the Flemish Parliament</description>
-    <pubDate>Sat, 10 Mar 2018 11:04:56 +0100</pubDate>
+    <pubDate>Tue, 27 Mar 2018 08:54:37 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by TNS for De Standaard–VRT–RTBf–La Libre Belgique, 26 February–17 March 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/flemish_polls/2018-03-17-TNS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;N-VA: 40–47 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V: 17–24 seats&lt;/li&gt;&lt;li&gt;Open Vld: 17–23 seats&lt;/li&gt;&lt;li&gt;sp.a: 8–14 seats&lt;/li&gt;&lt;li&gt;Groen: 15–23 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 6–10 seats&lt;/li&gt;&lt;li&gt;PVDA: 2–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2018-03-17-TNS-seats.png"
+        length="158065"
+        type="image/png"/>
+      <pubDate>Tue, 27 Mar 2018 08:54:37 +0200</pubDate>
+      <dc:date>2018-03-27T08:54:37.088938+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by TNS for De Standaard–VRT–RTBf–La Libre Belgique, 26 February–17 March 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/flemish_polls/2018-03-17-TNS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2018-03-17-TNS-coalitions-seats.png"
+        length="329180"
+        type="image/png"/>
+      <pubDate>Tue, 27 Mar 2018 08:54:37 +0200</pubDate>
+      <dc:date>2018-03-27T08:54:37.088938+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by TNS for De Standaard–VRT–RTBf–La Libre Belgique, 26 February–17 March 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/flemish_polls/2018-03-17-TNS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;N-VA: 29.6–35.4%&lt;/li&gt;&lt;li&gt;CD&amp;amp;V: 14.2–18.8%&lt;/li&gt;&lt;li&gt;Open Vld: 12.6–17.0%&lt;/li&gt;&lt;li&gt;sp.a: 7.8–11.4%&lt;/li&gt;&lt;li&gt;Groen: 11.8–16.0%&lt;/li&gt;&lt;li&gt;Vlaams Belang: 6.0–9.3%&lt;/li&gt;&lt;li&gt;PVDA: 3.7–6.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2018-03-17-TNS.png"
+        length="195959"
+        type="image/png"/>
+      <pubDate>Tue, 27 Mar 2018 08:54:37 +0200</pubDate>
+      <dc:date>2018-03-27T08:54:37.088938+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 27 February–6 March 2018 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/flemish_polls/2018-03-06-Ipsos.html#seats</link>
@@ -969,6 +999,6 @@
       <pubDate>Mon, 14 Aug 2017 18:40:16 +0200</pubDate>
       <dc:date>2017-08-14T18:40:16.15694+02:00</dc:date>
     </item>
-    <dc:date>2018-03-10T11:04:56.624057+01:00</dc:date>
+    <dc:date>2018-03-27T08:54:37.088938+02:00</dc:date>
   </channel>
 </rss>
