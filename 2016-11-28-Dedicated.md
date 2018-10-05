@@ -239,6 +239,8 @@
 
 ### N-VA – CD&V – sp.a
 
+![Graph with seats probability mass function not yet produced](2016-11-28-Dedicated-coalitions-seats-pmf-n-va–cdv–spa.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 66 | 0.1% | 100% |  |
@@ -266,6 +268,8 @@
 | 88 | 0% | 0% | Last Result |
 
 ### N-VA – CD&V – Open Vld
+
+![Graph with seats probability mass function not yet produced](2016-11-28-Dedicated-coalitions-seats-pmf-n-va–cdv–vld.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -297,6 +301,8 @@
 
 ### CD&V – sp.a – Open Vld – Groen
 
+![Graph with seats probability mass function not yet produced](2016-11-28-Dedicated-coalitions-seats-pmf-cdv–spa–vld–groen.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 61 | 0.2% | 100% |  |
@@ -321,6 +327,8 @@
 | 80 | 0% | 0% |  |
 
 ### N-VA – CD&V
+
+![Graph with seats probability mass function not yet produced](2016-11-28-Dedicated-coalitions-seats-pmf-n-va–cdv.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -348,6 +356,8 @@
 
 ### CD&V – sp.a – Groen – PVDA
 
+![Graph with seats probability mass function not yet produced](2016-11-28-Dedicated-coalitions-seats-pmf-cdv–spa–groen–pvda.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 46 | 0.1% | 100% |  |
@@ -373,6 +383,8 @@
 
 ### CD&V – sp.a – Groen
 
+![Graph with seats probability mass function not yet produced](2016-11-28-Dedicated-coalitions-seats-pmf-cdv–spa–groen.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 45 | 0.1% | 100% |  |
@@ -397,6 +409,8 @@
 | 64 | 0% | 0% |  |
 
 ### CD&V – sp.a – Open Vld
+
+![Graph with seats probability mass function not yet produced](2016-11-28-Dedicated-coalitions-seats-pmf-cdv–spa–vld.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -424,6 +438,8 @@
 
 ### N-VA – Vlaams Belang
 
+![Graph with seats probability mass function not yet produced](2016-11-28-Dedicated-coalitions-seats-pmf-n-va–vb.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 44 | 0.1% | 100% |  |
@@ -448,6 +464,8 @@
 | 63 | 0% | 0% | Majority |
 
 ### sp.a – Open Vld – Groen
+
+![Graph with seats probability mass function not yet produced](2016-11-28-Dedicated-coalitions-seats-pmf-spa–vld–groen.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -474,6 +492,8 @@
 
 ### CD&V – sp.a
 
+![Graph with seats probability mass function not yet produced](2016-11-28-Dedicated-coalitions-seats-pmf-cdv–spa.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 30 | 0.3% | 100% |  |
@@ -497,6 +517,8 @@
 
 ### CD&V – Open Vld
 
+![Graph with seats probability mass function not yet produced](2016-11-28-Dedicated-coalitions-seats-pmf-cdv–vld.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 29 | 0.3% | 100% |  |
@@ -519,6 +541,8 @@
 | 46 | 0% | 0% | Last Result |
 
 ### sp.a – Open Vld
+
+![Graph with seats probability mass function not yet produced](2016-11-28-Dedicated-coalitions-seats-pmf-spa–vld.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
