@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Flemish Parliament</title>
     <link>https://filipvanlaenen.github.io/flemish_polls</link>
     <description>All Registered Polls for the Flemish Parliament</description>
-    <pubDate>Sat, 09 Jun 2018 14:53:06 +0200</pubDate>
+    <pubDate>Fri, 05 Oct 2018 18:39:44 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 20–27 September 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/flemish_polls/2018-09-27-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;N-VA: 22.4–27.8%&lt;/li&gt;&lt;li&gt;CD&amp;amp;V: 15.0–19.7%&lt;/li&gt;&lt;li&gt;Open Vld: 10.9–15.0%&lt;/li&gt;&lt;li&gt;sp.a: 10.2–14.3%&lt;/li&gt;&lt;li&gt;Groen: 12.1–16.4%&lt;/li&gt;&lt;li&gt;Vlaams Belang: 9.5–13.4%&lt;/li&gt;&lt;li&gt;PVDA: 3.3–5.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2018-09-27-Ipsos.png"
+        length="210048"
+        type="image/png"/>
+      <pubDate>Fri, 05 Oct 2018 18:39:44 +0200</pubDate>
+      <dc:date>2018-10-05T18:39:44.460007+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 29 May–6 June 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/flemish_polls/2018-06-06-Ipsos.html#seats</link>
@@ -1029,6 +1039,6 @@
       <pubDate>Mon, 14 Aug 2017 18:40:16 +0200</pubDate>
       <dc:date>2017-08-14T18:40:16.15694+02:00</dc:date>
     </item>
-    <dc:date>2018-06-09T14:53:06.597857+02:00</dc:date>
+    <dc:date>2018-10-05T18:39:44.460007+02:00</dc:date>
   </channel>
 </rss>
