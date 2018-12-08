@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Flemish Parliament</title>
     <link>https://filipvanlaenen.github.io/flemish_polls</link>
     <description>All Registered Polls for the Flemish Parliament</description>
-    <pubDate>Sat, 08 Dec 2018 14:21:22 +0100</pubDate>
+    <pubDate>Sat, 08 Dec 2018 17:21:53 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 27 November–3 December 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/flemish_polls/2018-12-03-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;N-VA: 33–41 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V: 15–20 seats&lt;/li&gt;&lt;li&gt;Open Vld: 13–21 seats&lt;/li&gt;&lt;li&gt;sp.a: 13–19 seats&lt;/li&gt;&lt;li&gt;Groen: 14–19 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 11–17 seats&lt;/li&gt;&lt;li&gt;PVDA: 2–9 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2018-12-03-Ipsos-seats.png"
+        length="183603"
+        type="image/png"/>
+      <pubDate>Sat, 08 Dec 2018 17:21:53 +0100</pubDate>
+      <dc:date>2018-12-08T17:21:53.816243+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 27 November–3 December 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/flemish_polls/2018-12-03-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2018-12-03-Ipsos-coalitions-seats.png"
+        length="412391"
+        type="image/png"/>
+      <pubDate>Sat, 08 Dec 2018 17:21:53 +0100</pubDate>
+      <dc:date>2018-12-08T17:21:53.816243+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 27 November–3 December 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/flemish_polls/2018-12-03-Ipsos.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2018-12-03-Ipsos.png"
         length="211946"
         type="image/png"/>
-      <pubDate>Sat, 08 Dec 2018 13:01:54 +0100</pubDate>
-      <dc:date>2018-12-08T13:01:54.640455+01:00</dc:date>
+      <pubDate>Sat, 08 Dec 2018 17:21:53 +0100</pubDate>
+      <dc:date>2018-12-08T17:21:53.816243+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 20–27 September 2018 – Seat Projections for the Parties</title>
@@ -1069,6 +1089,6 @@
       <pubDate>Mon, 14 Aug 2017 18:40:16 +0200</pubDate>
       <dc:date>2017-08-14T18:40:16.15694+02:00</dc:date>
     </item>
-    <dc:date>2018-12-08T14:21:22.717123+01:00</dc:date>
+    <dc:date>2018-12-08T17:21:53.816243+01:00</dc:date>
   </channel>
 </rss>
