@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Flemish Parliament</title>
     <link>https://filipvanlaenen.github.io/flemish_polls</link>
     <description>All Registered Polls for the Flemish Parliament</description>
-    <pubDate>Sat, 08 Dec 2018 17:21:53 +0100</pubDate>
+    <pubDate>Tue, 18 Dec 2018 11:50:18 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by TNS for De Standaard, La Libre Belgique, RTBf and VRT, 19 November–8 December 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/flemish_polls/2018-12-08-TNS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;N-VA: 25.7–31.2%&lt;/li&gt;&lt;li&gt;CD&amp;amp;V: 16.4–21.2%&lt;/li&gt;&lt;li&gt;Open Vld: 15.3–20.0%&lt;/li&gt;&lt;li&gt;sp.a: 7.5–11.1%&lt;/li&gt;&lt;li&gt;Groen: 13.9–18.4%&lt;/li&gt;&lt;li&gt;Vlaams Belang: 6.1–9.4%&lt;/li&gt;&lt;li&gt;PVDA: 1.7–3.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2018-12-08-TNS.png"
+        length="210235"
+        type="image/png"/>
+      <pubDate>Tue, 18 Dec 2018 11:50:18 +0100</pubDate>
+      <dc:date>2018-12-18T11:50:18.195059+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 27 November–3 December 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/flemish_polls/2018-12-03-Ipsos.html#seats</link>
@@ -1089,6 +1099,6 @@
       <pubDate>Mon, 14 Aug 2017 18:40:16 +0200</pubDate>
       <dc:date>2017-08-14T18:40:16.15694+02:00</dc:date>
     </item>
-    <dc:date>2018-12-08T17:21:53.816243+01:00</dc:date>
+    <dc:date>2018-12-18T11:50:18.195059+01:00</dc:date>
   </channel>
 </rss>
