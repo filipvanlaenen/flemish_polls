@@ -79,8 +79,8 @@ Last result: **10** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 15–23 | 14–23 | 14–24 | 13–27 |
-| [19 November–8 December 2018](2018-12-08-TNS.html) | TNS <br> De Standaard, La Libre Belgique, RTBf and VRT | 23 | 17–23 | 17–24 | 17–24 | 16–27 |
+| N/A | [Poll Average](average.html) | 18 | 15–24 | 14–24 | 14–24 | 13–26 |
+| [19 November–8 December 2018](2018-12-08-TNS.html) | TNS <br> De Standaard, La Libre Belgique, RTBf and VRT | 22 | 19–24 | 18–24 | 18–25 | 17–26 |
 | [27 November–3 December 2018](2018-12-03-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 15 | 14–18 | 14–18 | 14–19 | 13–21 |
 | [20–27 September 2018](2018-09-27-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 18 | 17–23 | 17–23 | 16–23 | 15–24 |
 | [29 May–6 June 2018](2018-06-06-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 17 | 14–18 | 14–19 | 14–20 | 14–22 |
@@ -132,18 +132,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0.4% | 99.8% |  |
 | 14 | 9% | 99.4% |  |
 | 15 | 18% | 90% |  |
-| 16 | 5% | 72% |  |
-| 17 | 15% | 68% |  |
-| 18 | 7% | 53% | Median |
-| 19 | 1.2% | 46% |  |
-| 20 | 0.9% | 45% |  |
-| 21 | 9% | 44% |  |
-| 22 | 4% | 35% |  |
-| 23 | 28% | 31% |  |
-| 24 | 2% | 3% |  |
-| 25 | 0.2% | 1.1% |  |
-| 26 | 0.1% | 0.9% |  |
-| 27 | 0.7% | 0.8% |  |
+| 16 | 4% | 72% |  |
+| 17 | 10% | 68% |  |
+| 18 | 9% | 58% | Median |
+| 19 | 6% | 49% |  |
+| 20 | 8% | 43% |  |
+| 21 | 7% | 35% |  |
+| 22 | 8% | 28% |  |
+| 23 | 10% | 20% |  |
+| 24 | 9% | 10% |  |
+| 25 | 0.8% | 1.4% |  |
+| 26 | 0.3% | 0.6% |  |
+| 27 | 0.1% | 0.2% |  |
 | 28 | 0.1% | 0.1% |  |
 | 29 | 0% | 0% |  |
 
