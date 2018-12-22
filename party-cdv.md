@@ -80,8 +80,8 @@ Last result: **27** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23 | 15–25 | 15–26 | 15–26 | 15–27 |
-| [13–17 December 2018](2018-12-17-Ipsos.html) | Ipsos <br> Het Nieuwsblad | 20 | 15–24 | 15–26 | 15–26 | 15–26 |
+| N/A | [Poll Average](average.html) | 21 | 19–25 | 16–26 | 16–26 | 15–27 |
+| [13–17 December 2018](2018-12-17-Ipsos.html) | Ipsos <br> Het Nieuwsblad | 20 | 16–21 | 16–22 | 16–23 | 15–25 |
 | [19 November–8 December 2018](2018-12-08-TNS.html) | TNS <br> De Standaard, La Libre Belgique, RTBf and VRT | 24 | 21–26 | 21–26 | 20–27 | 20–28 |
 | [27 November–3 December 2018](2018-12-03-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 18 | 15–20 | 15–20 | 15–20 | 15–22 |
 | [20–27 September 2018](2018-09-27-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 21 | 20–24 | 20–25 | 19–26 | 18–27 |
@@ -128,18 +128,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 15 | 17% | 100% |  |
-| 16 | 1.4% | 83% |  |
-| 17 | 0% | 81% |  |
-| 18 | 0.3% | 81% |  |
-| 19 | 0.3% | 81% |  |
-| 20 | 14% | 81% |  |
-| 21 | 7% | 67% |  |
-| 22 | 9% | 60% |  |
-| 23 | 19% | 51% | Median |
-| 24 | 11% | 32% |  |
-| 25 | 11% | 20% |  |
-| 26 | 8% | 10% |  |
+| 15 | 1.0% | 100% |  |
+| 16 | 4% | 99.0% |  |
+| 17 | 2% | 95% |  |
+| 18 | 2% | 93% |  |
+| 19 | 3% | 91% |  |
+| 20 | 34% | 88% |  |
+| 21 | 9% | 53% | Median |
+| 22 | 10% | 44% |  |
+| 23 | 7% | 34% |  |
+| 24 | 9% | 27% |  |
+| 25 | 11% | 18% |  |
+| 26 | 5% | 7% |  |
 | 27 | 1.3% | 2% | Last Result |
 | 28 | 0.2% | 0.4% |  |
 | 29 | 0.1% | 0.2% |  |
