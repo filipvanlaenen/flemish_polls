@@ -81,8 +81,8 @@ Last result: **43** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 37 | 34–39 | 33–40 | 33–41 | 31–43 |
-| [25 March–14 April 2019](2019-04-14-TNS.html) | TNS <br> De Standaard, La Libre Belgique, RTBf and VRT | 37 | 34–40 | 34–41 | 33–41 | 31–43 |
+| N/A | [Poll Average](average.html) | 37 | 34–39 | 33–40 | 33–41 | 32–42 |
+| [25 March–14 April 2019](2019-04-14-TNS.html) | TNS <br> De Standaard, La Libre Belgique, RTBf and VRT | 38 | 35–40 | 34–41 | 33–41 | 32–42 |
 | [5–11 February 2019](2019-02-11-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 37 | 34–39 | 33–40 | 33–41 | 32–42 |
 | [13–17 December 2018](2018-12-17-Ipsos.html) | Ipsos <br> Het Nieuwsblad | 40 | 38–43 | 37–44 | 36–44 | 34–45 |
 | [19 November–8 December 2018](2018-12-08-TNS.html) | TNS <br> De Standaard, La Libre Belgique, RTBf and VRT | 37 | 35–40 | 34–41 | 34–42 | 32–43 |
@@ -132,19 +132,19 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 30 | 0.2% | 100% |  |
-| 31 | 0.3% | 99.8% |  |
-| 32 | 1.3% | 99.5% |  |
+| 31 | 0.2% | 99.8% |  |
+| 32 | 1.2% | 99.6% |  |
 | 33 | 4% | 98% |  |
-| 34 | 10% | 94% |  |
-| 35 | 12% | 84% |  |
-| 36 | 9% | 72% |  |
-| 37 | 17% | 62% | Median |
-| 38 | 28% | 45% |  |
-| 39 | 8% | 17% |  |
-| 40 | 5% | 9% |  |
-| 41 | 2% | 4% |  |
-| 42 | 1.2% | 2% |  |
-| 43 | 0.4% | 0.5% | Last Result |
+| 34 | 9% | 94% |  |
+| 35 | 12% | 85% |  |
+| 36 | 9% | 73% |  |
+| 37 | 16% | 64% | Median |
+| 38 | 32% | 48% |  |
+| 39 | 8% | 16% |  |
+| 40 | 4% | 8% |  |
+| 41 | 3% | 4% |  |
+| 42 | 1.4% | 2% |  |
+| 43 | 0.3% | 0.4% | Last Result |
 | 44 | 0.1% | 0.1% |  |
 | 45 | 0% | 0% |  |
 
