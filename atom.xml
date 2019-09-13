@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <author>
+    <name>Filip van Laenen</name>
+  </author>
+  <id>https://filipvanlaenen.github.io/flemish_polls</id>
+  <title>All Registered Polls for the Flemish Parliament</title>
+  <updated>2019-09-13T23:10:05.846016+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>N-VA: 20.2–25.4%, 26–34 seats</li><li>CD&amp;V: 9.8–13.9%, 12–16 seats</li><li>Open Vld: 11.3–15.6%, 14–21 seats</li><li>sp.a: 6.8–10.3%, 7–13 seats</li><li>Groen: 9.2–13.1%, 11–18 seats</li><li>Vlaams Belang: 22.3–27.7%, 30–37 seats</li><li>PVDA: 4.9–7.9%, 3–9 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/flemish_polls/2019-09-10-Ipsos.html</id>
+    <link href="https://filipvanlaenen.github.io/flemish_polls/2019-09-10-Ipsos.html"/>
+    <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 2–10 September 2019</title>
+    <updated>2019-09-13T23:10:05.846016+02:00</updated>
+    <dc:date>2019-09-13T23:10:05.846016+02:00</dc:date>
+  </entry>
+  <dc:date>2019-09-13T23:10:05.846016+02:00</dc:date>
+</feed>
