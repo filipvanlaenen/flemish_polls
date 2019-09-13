@@ -6,7 +6,7 @@
 
 The table below lists the polls on which the average is based. They are the most recent polls (less than 90 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | N-VA | VB | CD&V | VLD | SP | GROEN | PVDA | PIRAAT | LDD |
+| Period     | Polling firm/Commissioner(s) | N-VA | VB | CD&V | VLD | SP.A | GROEN | PVDA | PIRAAT | LDD |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.8% <br> 35 | 18.5% <br> 23 | 15.4% <br> 19 | 13.1% <br> 16 | 10.1% <br> 12 | 10.1% <br> 14 | 5.3% <br> 4 | 0.2% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 20–25% <br> 26–34 | 22–28% <br> 30–37 | 10–14% <br> 12–16 | 11–16% <br> 14–21 | 7–10% <br> 7–13 | 9–13% <br> 11–18 | 5–8% <br> 3–9 | N/A <br> N/A | N/A <br> N/A |
@@ -22,7 +22,7 @@ Only polls for which at least the sample size has been published are included in
 + **VB:** Vlaams Belang
 + **CD&V:** CD&V
 + **VLD:** Open Vld
-+ **SP:** sp.a
++ **SP.A:** sp.a
 + **GROEN:** Groen
 + **PVDA:** PVDA
 + **PIRAAT:** Piratenpartij
@@ -420,7 +420,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### N-VA – Open Vld – sp.a
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-n-va–vld–sp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-n-va–vld–spa.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -445,7 +445,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### CD&V – Open Vld – sp.a – Groen
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-cdv–vld–sp–groen.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-cdv–vld–spa–groen.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -471,7 +471,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### N-VA – CD&V – sp.a
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-n-va–cdv–sp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-n-va–cdv–spa.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -575,7 +575,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### CD&V – sp.a – Groen – PVDA
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-cdv–sp–groen–pvda.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-cdv–spa–groen–pvda.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -600,7 +600,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Open Vld – sp.a – Groen
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-vld–sp–groen.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-vld–spa–groen.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -625,7 +625,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### CD&V – Open Vld – sp.a
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-cdv–vld–sp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-cdv–vld–spa.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -649,7 +649,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### CD&V – sp.a – Groen
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-cdv–sp–groen.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-cdv–spa–groen.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -696,7 +696,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Open Vld – sp.a
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-vld–sp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-vld–spa.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -721,7 +721,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### CD&V – sp.a
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-cdv–sp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-cdv–spa.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
