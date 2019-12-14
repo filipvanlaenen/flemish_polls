@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Flemish Parliament</title>
     <link>https://filipvanlaenen.github.io/flemish_polls</link>
     <description>All Registered Polls for the Flemish Parliament</description>
-    <pubDate>Sat, 14 Dec 2019 09:47:43 +0100</pubDate>
+    <pubDate>Sat, 14 Dec 2019 10:13:37 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 29 November–6 December 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/flemish_polls/2019-12-06-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Nieuw-Vlaamse Alliantie: 26–33 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch en Vlaams: 11–16 seats&lt;/li&gt;&lt;li&gt;Open Vlaamse Liberalen en Democraten: 9–15 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij Anders: 7–14 seats&lt;/li&gt;&lt;li&gt;Groen: 11–18 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 32–40 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid van België: 7–13 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2019-12-06-Ipsos-seats.png"
+        length="209197"
+        type="image/png"/>
+      <pubDate>Sat, 14 Dec 2019 10:13:37 +0100</pubDate>
+      <dc:date>2019-12-14T10:13:37.528485+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 29 November–6 December 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/flemish_polls/2019-12-06-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2019-12-06-Ipsos-coalitions-seats.png"
+        length="436482"
+        type="image/png"/>
+      <pubDate>Sat, 14 Dec 2019 10:13:37 +0100</pubDate>
+      <dc:date>2019-12-14T10:13:37.528485+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 29 November–6 December 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/flemish_polls/2019-12-06-Ipsos.html</link>
@@ -16,9 +36,9 @@
       <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2019-12-06-Ipsos.png"
         length="225072"
         type="image/png"/>
-      <pubDate>Sat, 14 Dec 2019 09:47:43 +0100</pubDate>
-      <dc:date>2019-12-14T09:47:43.848681+01:00</dc:date>
+      <pubDate>Sat, 14 Dec 2019 10:13:37 +0100</pubDate>
+      <dc:date>2019-12-14T10:13:37.528485+01:00</dc:date>
     </item>
-    <dc:date>2019-12-14T09:47:43.848681+01:00</dc:date>
+    <dc:date>2019-12-14T10:13:37.528485+01:00</dc:date>
   </channel>
 </rss>
