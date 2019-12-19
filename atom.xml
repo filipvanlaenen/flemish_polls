@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/flemish_polls</id>
   <title>All Registered Polls for the Flemish Parliament</title>
-  <updated>2019-12-14T10:13:37.528485+01:00</updated>
+  <updated>2019-12-19T09:48:37.938138+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Nieuw-Vlaamse Alliantie: 19.6–24.8%, 26–33 seats</li><li>Christen-Democratisch en Vlaams: 9.6–13.5%, 11–16 seats</li><li>Open Vlaamse Liberalen en Democraten: 8.2–11.9%, 9–15 seats</li><li>Socialistische Partij Anders: 7.3–10.9%, 7–14 seats</li><li>Groen: 8.9–12.8%, 11–18 seats</li><li>Vlaams Belang: 24.6–30.2%, 32–40 seats</li><li>Partij van de Arbeid van België: 6.8–10.3%, 7–13 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/flemish_polls/2019-12-06-Ipsos.html</id>
@@ -15,5 +15,13 @@
     <updated>2019-12-14T10:13:37.528485+01:00</updated>
     <dc:date>2019-12-14T10:13:37.528485+01:00</dc:date>
   </entry>
-  <dc:date>2019-12-14T10:13:37.528485+01:00</dc:date>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Nieuw-Vlaamse Alliantie: 20.2–25.4%, 27–34 seats</li><li>Christen-Democratisch en Vlaams: 9.8–13.9%, 11–16 seats</li><li>Open Vlaamse Liberalen en Democraten: 11.3–15.6%, 15–20 seats</li><li>Socialistische Partij Anders: 6.8–10.3%, 6–12 seats</li><li>Groen: 9.2–13.1%, 11–18 seats</li><li>Vlaams Belang: 22.3–27.7%, 28–36 seats</li><li>Partij van de Arbeid van België: 4.9–7.9%, 4–8 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/flemish_polls/2019-09-10-Ipsos.html</id>
+    <link href="https://filipvanlaenen.github.io/flemish_polls/2019-09-10-Ipsos.html"/>
+    <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 2–10 September 2019</title>
+    <updated>2019-12-19T09:48:37.938138+01:00</updated>
+    <dc:date>2019-12-19T09:48:37.938138+01:00</dc:date>
+  </entry>
+  <dc:date>2019-12-19T09:48:37.938138+01:00</dc:date>
 </feed>
