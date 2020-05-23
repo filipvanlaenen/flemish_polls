@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/flemish_polls</id>
   <title>All Registered Polls for the Flemish Parliament</title>
-  <updated>2020-03-14T11:16:25.919903+01:00</updated>
+  <updated>2020-05-23T10:31:48.588877+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Nieuw-Vlaamse Alliantie: 18.5–22.2%, 24–29 seats</li><li>Christen-Democratisch en Vlaams: 10.5–13.5%, 12–16 seats</li><li>Open Vlaamse Liberalen en Democraten: 10.2–13.1%, 12–16 seats</li><li>Socialistische Partij Anders: 9.6–12.5%, 11–15 seats</li><li>Groen: 9.7–12.6%, 12–17 seats</li><li>Vlaams Belang: 22.6–26.5%, 29–34 seats</li><li>Partij van de Arbeid van België: 7.0–9.5%, 7–11 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/flemish_polls/2020-04-28-TNS.html</id>
+    <link href="https://filipvanlaenen.github.io/flemish_polls/2020-04-28-TNS.html"/>
+    <title>Opinion Poll by TNS for De Standaard, La Libre Belgique, RTBf and VRT, 9–28 April 2020</title>
+    <updated>2020-05-23T10:31:48.588877+02:00</updated>
+    <dc:date>2020-05-23T10:31:48.588877+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Nieuw-Vlaamse Alliantie: 18.2–23.4%, 23–31 seats</li><li>Christen-Democratisch en Vlaams: 9.8–13.9%, 11–17 seats</li><li>Open Vlaamse Liberalen en Democraten: 8.6–12.4%, 10–16 seats</li><li>Socialistische Partij Anders: 7.9–11.6%, 8–14 seats</li><li>Groen: 7.1–10.7%, 7–14 seats</li><li>Vlaams Belang: 25.2–30.9%, 33–41 seats</li><li>Partij van de Arbeid van België: 7.6–11.3%, 7–14 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/flemish_polls/2020-03-09-Ipsos.html</id>
@@ -31,5 +39,5 @@
     <updated>2019-12-19T09:48:37.938138+01:00</updated>
     <dc:date>2019-12-19T09:48:37.938138+01:00</dc:date>
   </entry>
-  <dc:date>2020-03-14T11:16:25.919903+01:00</dc:date>
+  <dc:date>2020-05-23T10:31:48.588877+02:00</dc:date>
 </feed>
