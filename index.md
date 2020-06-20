@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | N-VA | VB | CD&V | VLD | SP.A | GROEN | PVDA |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.8% <br> 35 | 18.5% <br> 23 | 15.4% <br> 19 | 13.1% <br> 16 | 10.1% <br> 12 | 10.1% <br> 14 | 5.3% <br> 4 |
-| N/A | [Poll Average](average.html) | 18–23% <br> 23–30 | 23–30% <br> 29–41 | 10–14% <br> 12–16 | 9–13% <br> 10–16 | 8–12% <br> 9–15 | 7–12% <br> 8–16 | 7–11% <br> 7–14 |
+| N/A | [Poll Average](average.html) | 18–22% <br> 23–29 | 23–30% <br> 29–40 | 10–14% <br> 12–17 | 8–13% <br> 11–16 | 10–14% <br> 12–19 | 8–12% <br> 10–16 | 6–9% <br> 5–10 |
+| [10–15 June 2020](2020-06-15-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 18–23% <br> 22–30 | 25–31% <br> 33–41 | 10–14% <br> 11–17 | 8–12% <br> 10–15 | 11–15% <br> 13–19 | 8–11% <br> 10–15 | 6–9% <br> 5–10 |
 | [9–28 April 2020](2020-04-28-TNS.html) | TNS <br> De Standaard, La Libre Belgique, RTBf and VRT | 19–22% <br> 24–29 | 23–27% <br> 29–34 | 11–13% <br> 12–16 | 10–13% <br> 12–16 | 10–12% <br> 11–15 | 10–13% <br> 12–17 | 7–10% <br> 7–11 |
-| [4–9 March 2020](2020-03-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 18–23% <br> 23–31 | 25–31% <br> 33–41 | 10–14% <br> 11–17 | 9–12% <br> 10–16 | 8–12% <br> 8–14 | 7–11% <br> 7–14 | 8–11% <br> 7–14 |
 | 26 May 2019 | General Election | 24.8% <br> 35 | 18.5% <br> 23 | 15.4% <br> 19 | 13.1% <br> 16 | 10.1% <br> 12 | 10.1% <br> 14 | 5.3% <br> 4 |
 
 Only polls for which at least the sample size has been published are included in the table above.
