@@ -10,7 +10,8 @@ Last result: **18.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.0% | 23.7–29.2% | 23.3–29.9% | 22.9–30.4% | 22.2–31.5% |
+| N/A | [Poll Average](average.html) | 25.8% | 23.7–28.9% | 23.3–29.6% | 22.9–30.1% | 22.2–31.1% |
+| [10–15 June 2020](2020-06-15-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 27.7% | 25.8–29.6% | 25.3–30.1% | 24.9–30.6% | 24.1–31.5% |
 | [9–28 April 2020](2020-04-28-TNS.html) | TNS <br> De Standaard, La Libre Belgique, RTBf and VRT | 24.5% | 23.2–25.8% | 22.9–26.2% | 22.6–26.5% | 22.0–27.2% |
 | [4–9 March 2020](2020-03-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 28.0% | 26.2–29.9% | 25.7–30.4% | 25.2–30.9% | 24.4–31.8% |
 | [29 November–6 December 2019](2019-12-06-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 27.3% | 25.6–29.2% | 25.1–29.7% | 24.6–30.2% | 23.8–31.1% |
@@ -28,16 +29,15 @@ The following table shows the probability mass function per percentage block of 
 | 21.5–22.5% | 1.1% | 99.9% |  |
 | 22.5–23.5% | 7% | 98.9% |  |
 | 23.5–24.5% | 18% | 92% |  |
-| 24.5–25.5% | 18% | 74% |  |
-| 25.5–26.5% | 12% | 56% | Median |
-| 26.5–27.5% | 12% | 43% |  |
-| 27.5–28.5% | 13% | 31% |  |
-| 28.5–29.5% | 10% | 18% |  |
-| 29.5–30.5% | 5% | 7% |  |
-| 30.5–31.5% | 2% | 2% |  |
-| 31.5–32.5% | 0.4% | 0.4% |  |
-| 32.5–33.5% | 0.1% | 0.1% |  |
-| 33.5–34.5% | 0% | 0% |  |
+| 24.5–25.5% | 19% | 74% |  |
+| 25.5–26.5% | 14% | 54% | Median |
+| 26.5–27.5% | 14% | 40% |  |
+| 27.5–28.5% | 13% | 27% |  |
+| 28.5–29.5% | 9% | 14% |  |
+| 29.5–30.5% | 4% | 5% |  |
+| 30.5–31.5% | 1.1% | 1.3% |  |
+| 31.5–32.5% | 0.2% | 0.2% |  |
+| 32.5–33.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -48,7 +48,8 @@ Last result: **23** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 34 | 30–39 | 30–40 | 29–41 | 28–42 |
+| N/A | [Poll Average](average.html) | 34 | 30–38 | 30–39 | 29–40 | 28–41 |
+| [10–15 June 2020](2020-06-15-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 37 | 34–39 | 34–40 | 33–41 | 31–42 |
 | [9–28 April 2020](2020-04-28-TNS.html) | TNS <br> De Standaard, La Libre Belgique, RTBf and VRT | 32 | 30–34 | 29–34 | 29–34 | 28–36 |
 | [4–9 March 2020](2020-03-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 37 | 34–40 | 34–41 | 33–41 | 32–42 |
 | [29 November–6 December 2019](2019-12-06-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 36 | 34–39 | 33–40 | 32–40 | 31–42 |
@@ -73,17 +74,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 31 | 8% | 90% |  |
 | 32 | 9% | 82% |  |
 | 33 | 10% | 73% |  |
-| 34 | 21% | 63% | Median |
-| 35 | 6% | 42% |  |
-| 36 | 6% | 36% |  |
-| 37 | 7% | 30% |  |
-| 38 | 8% | 23% |  |
-| 39 | 9% | 15% |  |
-| 40 | 4% | 7% |  |
-| 41 | 2% | 3% |  |
-| 42 | 0.6% | 0.8% |  |
-| 43 | 0.1% | 0.2% |  |
-| 44 | 0% | 0.1% |  |
-| 45 | 0% | 0% |  |
+| 34 | 24% | 64% | Median |
+| 35 | 5% | 40% |  |
+| 36 | 6% | 34% |  |
+| 37 | 8% | 28% |  |
+| 38 | 11% | 20% |  |
+| 39 | 5% | 9% |  |
+| 40 | 2% | 4% |  |
+| 41 | 2% | 2% |  |
+| 42 | 0.4% | 0.5% |  |
+| 43 | 0.1% | 0.1% |  |
+| 44 | 0% | 0% |  |
 
 
