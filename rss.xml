@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Flemish Parliament</title>
     <link>https://filipvanlaenen.github.io/flemish_polls</link>
     <description>All Registered Polls for the Flemish Parliament</description>
-    <pubDate>Sat, 20 Jun 2020 22:56:14 +0200</pubDate>
+    <pubDate>Wed, 09 Sep 2020 21:31:40 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Dedicated for Soirmag, 28 August–1 September 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/flemish_polls/2020-09-01-Dedicated.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Nieuw-Vlaamse Alliantie: 20.0–26.8%&lt;/li&gt;&lt;li&gt;Christen-Democratisch en Vlaams: 10.6–16.0%&lt;/li&gt;&lt;li&gt;Open Vlaamse Liberalen en Democraten: 11.8–17.4%&lt;/li&gt;&lt;li&gt;Socialistische Partij Anders: 10.6–16.0%&lt;/li&gt;&lt;li&gt;Groen: 5.4–9.6%&lt;/li&gt;&lt;li&gt;Vlaams Belang: 23.5–30.6%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid van België: 1.0–3.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2020-09-01-Dedicated.png"
+        length="291282"
+        type="image/png"/>
+      <pubDate>Wed, 09 Sep 2020 21:31:40 +0200</pubDate>
+      <dc:date>2020-09-09T21:31:40.367062+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 10–15 June 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/flemish_polls/2020-06-15-Ipsos.html#seats</link>
@@ -159,6 +169,6 @@
       <pubDate>Thu, 19 Dec 2019 09:48:37 +0100</pubDate>
       <dc:date>2019-12-19T09:48:37.938138+01:00</dc:date>
     </item>
-    <dc:date>2020-06-20T22:56:14.270793+02:00</dc:date>
+    <dc:date>2020-09-09T21:31:40.367062+02:00</dc:date>
   </channel>
 </rss>
