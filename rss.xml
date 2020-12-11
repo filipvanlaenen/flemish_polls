@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Flemish Parliament</title>
     <link>https://filipvanlaenen.github.io/flemish_polls</link>
     <description>All Registered Polls for the Flemish Parliament</description>
-    <pubDate>Mon, 12 Oct 2020 07:45:52 +0200</pubDate>
+    <pubDate>Fri, 11 Dec 2020 23:12:30 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 2–8 December 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/flemish_polls/2020-12-08-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Nieuw-Vlaamse Alliantie: 17.5–22.5%&lt;/li&gt;&lt;li&gt;Christen-Democratisch en Vlaams: 10.5–14.6%&lt;/li&gt;&lt;li&gt;Open Vlaamse Liberalen en Democraten: 10.2–14.2%&lt;/li&gt;&lt;li&gt;Socialistische Partij Anders: 11.6–15.9%&lt;/li&gt;&lt;li&gt;Groen: 6.6–10.0%&lt;/li&gt;&lt;li&gt;Vlaams Belang: 23.7–29.1%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid van België: 5.2–8.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2020-12-08-Ipsos.png"
+        length="281028"
+        type="image/png"/>
+      <pubDate>Fri, 11 Dec 2020 23:12:30 +0100</pubDate>
+      <dc:date>2020-12-11T23:12:30.634223+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 2–8 October 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/flemish_polls/2020-10-08-Ipsos.html#seats</link>
@@ -219,6 +229,6 @@
       <pubDate>Thu, 19 Dec 2019 09:48:37 +0100</pubDate>
       <dc:date>2019-12-19T09:48:37.938138+01:00</dc:date>
     </item>
-    <dc:date>2020-10-12T07:45:52.086365+02:00</dc:date>
+    <dc:date>2020-12-11T23:12:30.634223+01:00</dc:date>
   </channel>
 </rss>
