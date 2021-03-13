@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | N-VA | VB | CD&V | VLD | SP.A | GROEN | PVDA |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.8% <br> 35 | 18.5% <br> 23 | 15.4% <br> 19 | 13.1% <br> 16 | 10.1% <br> 12 | 10.1% <br> 14 | 5.3% <br> 4 |
-| N/A | [Poll Average](average.html) | 18–23% <br> 22–30 | 21–26% <br> 27–35 | 11–16% <br> 13–20 | 11–15% <br> 14–19 | 10–14% <br> 13–19 | 7–10% <br> 7–14 | 7–10% <br> 7–13 |
-| [4–9 March 2021](2021-03-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 18–23% <br> 22–30 | 21–26% <br> 27–35 | 11–15% <br> 13–20 | 11–15% <br> 14–19 | 10–15% <br> 13–19 | 7–10% <br> 7–14 | 7–10% <br> 7–13 |
+| N/A | [Poll Average](average.html) | 18–23% <br> 22–30 | 21–26% <br> 26–34 | 11–16% <br> 13–20 | 11–15% <br> 14–19 | 10–14% <br> 13–19 | 7–10% <br> 7–14 | 7–10% <br> 7–13 |
+| [4–9 March 2021](2021-03-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 18–23% <br> 22–30 | 21–26% <br> 26–34 | 11–15% <br> 13–20 | 11–15% <br> 14–19 | 10–15% <br> 13–19 | 7–10% <br> 7–14 | 7–10% <br> 7–13 |
 | 26 May 2019 | General Election | 24.8% <br> 35 | 18.5% <br> 23 | 15.4% <br> 19 | 13.1% <br> 16 | 10.1% <br> 12 | 10.1% <br> 14 | 5.3% <br> 4 |
 
 Only polls for which at least the sample size has been published are included in the table above.
