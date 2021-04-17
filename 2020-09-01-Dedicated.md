@@ -14,7 +14,7 @@
 | Nieuw-Vlaamse Alliantie | 24.8% | 23.2% | 21.1–25.6% |20.5–26.2% |20.0–26.8% |19.1–27.9% |
 | Open Vlaamse Liberalen en Democraten | 13.1% | 14.4% | 12.7–16.4% |12.2–16.9% |11.8–17.4% |11.0–18.4% |
 | Christen-Democratisch en Vlaams | 15.4% | 13.0% | 11.4–15.0% |11.0–15.5% |10.6–16.0% |9.8–16.9% |
-| Socialistische Partij Anders | 10.1% | 13.0% | 11.4–15.0% |11.0–15.5% |10.6–16.0% |9.8–16.9% |
+| Vooruit | 10.1% | 13.0% | 11.4–15.0% |11.0–15.5% |10.6–16.0% |9.8–16.9% |
 | Groen | 10.1% | 7.2% | 6.0–8.7% |5.7–9.2% |5.4–9.6% |4.9–10.3% |
 | Partij van de Arbeid van België | 5.3% | 1.8% | 1.3–2.8% |1.2–3.0% |1.0–3.3% |0.8–3.8% |
 
@@ -34,7 +34,7 @@
 | <a href="#nieuw-vlaamse-alliantie">Nieuw-Vlaamse Alliantie</a> | 35 | 31 | 28–34 |27–35 |26–36 |25–38 |
 | <a href="#open-vlaamse-liberalen-en-democraten">Open Vlaamse Liberalen en Democraten</a> | 16 | 19 | 15–20 |15–22 |14–24 |13–25 |
 | <a href="#christen-democratisch-en-vlaams">Christen-Democratisch en Vlaams</a> | 19 | 15 | 13–18 |13–19 |12–19 |11–21 |
-| <a href="#socialistische-partij-anders">Socialistische Partij Anders</a> | 12 | 15 | 14–19 |14–20 |13–20 |11–22 |
+| <a href="#vooruit">Vooruit</a> | 12 | 15 | 14–19 |14–20 |13–20 |11–22 |
 | <a href="#groen">Groen</a> | 14 | 8 | 5–11 |5–11 |5–11 |4–14 |
 | <a href="#partij-van-de-arbeid-van-belgië">Partij van de Arbeid van België</a> | 4 | 0 | 0 |0 |0 |0 |
 
@@ -147,11 +147,11 @@
 | 23 | 0% | 0.1% |  |
 | 24 | 0% | 0% |  |
 
-### Socialistische Partij Anders
+### Vooruit
 
-*For a full overview of the results for this party, see the [Socialistische Partij Anders](party-socialistischepartijanders.html) page.*
+*For a full overview of the results for this party, see the [Vooruit](party-vooruit.html) page.*
 
-![Graph with seats probability mass function not yet produced](2020-09-01-Dedicated-seats-pmf-socialistischepartijanders.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2020-09-01-Dedicated-seats-pmf-vooruit.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -218,27 +218,27 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Nieuw-Vlaamse Alliantie – Open Vlaamse Liberalen en Democraten – Christen-Democratisch en Vlaams – Socialistische Partij Anders | 82 | 81 | 100% | 76–85 | 76–86 | 75–87 | 73–88 |
+| Nieuw-Vlaamse Alliantie – Open Vlaamse Liberalen en Democraten – Christen-Democratisch en Vlaams – Vooruit | 82 | 81 | 100% | 76–85 | 76–86 | 75–87 | 73–88 |
 | Vlaams Belang – Nieuw-Vlaamse Alliantie – Christen-Democratisch en Vlaams | 77 | 81 | 100% | 77–85 | 76–86 | 75–87 | 74–89 |
 | Vlaams Belang – Nieuw-Vlaamse Alliantie | 58 | 65 | 84% | 61–70 | 61–71 | 60–72 | 58–74 |
-| Nieuw-Vlaamse Alliantie – Open Vlaamse Liberalen en Democraten – Socialistische Partij Anders | 63 | 65 | 77% | 61–69 | 60–70 | 59–71 | 57–73 |
+| Nieuw-Vlaamse Alliantie – Open Vlaamse Liberalen en Democraten – Vooruit | 63 | 65 | 77% | 61–69 | 60–70 | 59–71 | 57–73 |
 | Nieuw-Vlaamse Alliantie – Open Vlaamse Liberalen en Democraten – Christen-Democratisch en Vlaams | 70 | 64 | 67% | 60–68 | 59–69 | 58–71 | 57–72 |
-| Nieuw-Vlaamse Alliantie – Christen-Democratisch en Vlaams – Socialistische Partij Anders | 66 | 62 | 43% | 58–66 | 57–68 | 56–69 | 54–71 |
-| Open Vlaamse Liberalen en Democraten – Christen-Democratisch en Vlaams – Socialistische Partij Anders – Groen | 61 | 59 | 11% | 54–63 | 53–63 | 52–64 | 50–66 |
-| Open Vlaamse Liberalen en Democraten – Christen-Democratisch en Vlaams – Socialistische Partij Anders | 47 | 50 | 0% | 46–54 | 45–55 | 44–56 | 42–58 |
+| Nieuw-Vlaamse Alliantie – Christen-Democratisch en Vlaams – Vooruit | 66 | 62 | 43% | 58–66 | 57–68 | 56–69 | 54–71 |
+| Open Vlaamse Liberalen en Democraten – Christen-Democratisch en Vlaams – Vooruit – Groen | 61 | 59 | 11% | 54–63 | 53–63 | 52–64 | 50–66 |
+| Open Vlaamse Liberalen en Democraten – Christen-Democratisch en Vlaams – Vooruit | 47 | 50 | 0% | 46–54 | 45–55 | 44–56 | 42–58 |
 | Nieuw-Vlaamse Alliantie – Open Vlaamse Liberalen en Democraten | 51 | 49 | 0% | 45–53 | 44–54 | 43–55 | 42–57 |
 | Nieuw-Vlaamse Alliantie – Christen-Democratisch en Vlaams | 54 | 46 | 0% | 42–50 | 41–51 | 40–52 | 39–54 |
-| Open Vlaamse Liberalen en Democraten – Socialistische Partij Anders – Groen | 42 | 43 | 0% | 39–47 | 38–48 | 37–49 | 35–50 |
+| Open Vlaamse Liberalen en Democraten – Vooruit – Groen | 42 | 43 | 0% | 39–47 | 38–48 | 37–49 | 35–50 |
 | Open Vlaamse Liberalen en Democraten – Christen-Democratisch en Vlaams – Groen | 49 | 42 | 0% | 38–46 | 37–47 | 36–48 | 34–49 |
-| Christen-Democratisch en Vlaams – Socialistische Partij Anders – Groen – Partij van de Arbeid van België | 49 | 40 | 0% | 36–44 | 35–45 | 34–46 | 32–48 |
-| Christen-Democratisch en Vlaams – Socialistische Partij Anders – Groen | 45 | 40 | 0% | 36–44 | 35–45 | 34–46 | 32–48 |
-| Open Vlaamse Liberalen en Democraten – Socialistische Partij Anders | 28 | 34 | 0% | 31–39 | 30–39 | 29–40 | 28–43 |
+| Christen-Democratisch en Vlaams – Vooruit – Groen – Partij van de Arbeid van België | 49 | 40 | 0% | 36–44 | 35–45 | 34–46 | 32–48 |
+| Christen-Democratisch en Vlaams – Vooruit – Groen | 45 | 40 | 0% | 36–44 | 35–45 | 34–46 | 32–48 |
+| Open Vlaamse Liberalen en Democraten – Vooruit | 28 | 34 | 0% | 31–39 | 30–39 | 29–40 | 28–43 |
 | Open Vlaamse Liberalen en Democraten – Christen-Democratisch en Vlaams | 35 | 34 | 0% | 30–37 | 29–38 | 29–39 | 27–41 |
-| Christen-Democratisch en Vlaams – Socialistische Partij Anders | 31 | 32 | 0% | 29–35 | 28–36 | 27–38 | 25–39 |
+| Christen-Democratisch en Vlaams – Vooruit | 31 | 32 | 0% | 29–35 | 28–36 | 27–38 | 25–39 |
 
-### Nieuw-Vlaamse Alliantie – Open Vlaamse Liberalen en Democraten – Christen-Democratisch en Vlaams – Socialistische Partij Anders
+### Nieuw-Vlaamse Alliantie – Open Vlaamse Liberalen en Democraten – Christen-Democratisch en Vlaams – Vooruit
 
-![Graph with seats probability mass function not yet produced](2020-09-01-Dedicated-coalitions-seats-pmf-n-va–vld–cdv–spa.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2020-09-01-Dedicated-coalitions-seats-pmf-n-va–vld–cdv–vooruit.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -323,9 +323,9 @@
 | 76 | 0.1% | 0.1% |  |
 | 77 | 0% | 0% |  |
 
-### Nieuw-Vlaamse Alliantie – Open Vlaamse Liberalen en Democraten – Socialistische Partij Anders
+### Nieuw-Vlaamse Alliantie – Open Vlaamse Liberalen en Democraten – Vooruit
 
-![Graph with seats probability mass function not yet produced](2020-09-01-Dedicated-coalitions-seats-pmf-n-va–vld–spa.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2020-09-01-Dedicated-coalitions-seats-pmf-n-va–vld–vooruit.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -381,9 +381,9 @@
 | 74 | 0.1% | 0.2% |  |
 | 75 | 0% | 0% |  |
 
-### Nieuw-Vlaamse Alliantie – Christen-Democratisch en Vlaams – Socialistische Partij Anders
+### Nieuw-Vlaamse Alliantie – Christen-Democratisch en Vlaams – Vooruit
 
-![Graph with seats probability mass function not yet produced](2020-09-01-Dedicated-coalitions-seats-pmf-n-va–cdv–spa.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2020-09-01-Dedicated-coalitions-seats-pmf-n-va–cdv–vooruit.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -410,9 +410,9 @@
 | 73 | 0% | 0.1% |  |
 | 74 | 0% | 0% |  |
 
-### Open Vlaamse Liberalen en Democraten – Christen-Democratisch en Vlaams – Socialistische Partij Anders – Groen
+### Open Vlaamse Liberalen en Democraten – Christen-Democratisch en Vlaams – Vooruit – Groen
 
-![Graph with seats probability mass function not yet produced](2020-09-01-Dedicated-coalitions-seats-pmf-vld–cdv–spa–groen.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2020-09-01-Dedicated-coalitions-seats-pmf-vld–cdv–vooruit–groen.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -439,9 +439,9 @@
 | 68 | 0.1% | 0.2% |  |
 | 69 | 0% | 0% |  |
 
-### Open Vlaamse Liberalen en Democraten – Christen-Democratisch en Vlaams – Socialistische Partij Anders
+### Open Vlaamse Liberalen en Democraten – Christen-Democratisch en Vlaams – Vooruit
 
-![Graph with seats probability mass function not yet produced](2020-09-01-Dedicated-coalitions-seats-pmf-vld–cdv–spa.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2020-09-01-Dedicated-coalitions-seats-pmf-vld–cdv–vooruit.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -523,9 +523,9 @@
 | 56 | 0.1% | 0.1% |  |
 | 57 | 0% | 0% |  |
 
-### Open Vlaamse Liberalen en Democraten – Socialistische Partij Anders – Groen
+### Open Vlaamse Liberalen en Democraten – Vooruit – Groen
 
-![Graph with seats probability mass function not yet produced](2020-09-01-Dedicated-coalitions-seats-pmf-vld–spa–groen.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2020-09-01-Dedicated-coalitions-seats-pmf-vld–vooruit–groen.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -582,9 +582,9 @@
 | 52 | 0% | 0.1% |  |
 | 53 | 0% | 0% |  |
 
-### Christen-Democratisch en Vlaams – Socialistische Partij Anders – Groen – Partij van de Arbeid van België
+### Christen-Democratisch en Vlaams – Vooruit – Groen – Partij van de Arbeid van België
 
-![Graph with seats probability mass function not yet produced](2020-09-01-Dedicated-coalitions-seats-pmf-cdv–spa–groen–pvda.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2020-09-01-Dedicated-coalitions-seats-pmf-cdv–vooruit–groen–pvda.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -611,9 +611,9 @@
 | 50 | 0% | 0.1% |  |
 | 51 | 0% | 0% |  |
 
-### Christen-Democratisch en Vlaams – Socialistische Partij Anders – Groen
+### Christen-Democratisch en Vlaams – Vooruit – Groen
 
-![Graph with seats probability mass function not yet produced](2020-09-01-Dedicated-coalitions-seats-pmf-cdv–spa–groen.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2020-09-01-Dedicated-coalitions-seats-pmf-cdv–vooruit–groen.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -640,9 +640,9 @@
 | 50 | 0% | 0.1% |  |
 | 51 | 0% | 0% |  |
 
-### Open Vlaamse Liberalen en Democraten – Socialistische Partij Anders
+### Open Vlaamse Liberalen en Democraten – Vooruit
 
-![Graph with seats probability mass function not yet produced](2020-09-01-Dedicated-coalitions-seats-pmf-vld–spa.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2020-09-01-Dedicated-coalitions-seats-pmf-vld–vooruit.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -694,9 +694,9 @@
 | 44 | 0% | 0.1% |  |
 | 45 | 0% | 0% |  |
 
-### Christen-Democratisch en Vlaams – Socialistische Partij Anders
+### Christen-Democratisch en Vlaams – Vooruit
 
-![Graph with seats probability mass function not yet produced](2020-09-01-Dedicated-coalitions-seats-pmf-cdv–spa.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2020-09-01-Dedicated-coalitions-seats-pmf-cdv–vooruit.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
