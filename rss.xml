@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Flemish Parliament</title>
     <link>https://filipvanlaenen.github.io/flemish_polls</link>
     <description>All Registered Polls for the Flemish Parliament</description>
-    <pubDate>Sat, 13 Mar 2021 10:22:38 +0100</pubDate>
+    <pubDate>Sat, 22 May 2021 09:12:57 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by TNS for De Standaard and VRT, 29 March–19 April 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/flemish_polls/2021-04-19-TNS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Nieuw-Vlaamse Alliantie: 19.8–23.5%&lt;/li&gt;&lt;li&gt;Christen-Democratisch en Vlaams: 8.7–11.4%&lt;/li&gt;&lt;li&gt;Open Vlaamse Liberalen en Democraten: 10.2–13.0%&lt;/li&gt;&lt;li&gt;Vooruit: 10.6–13.5%&lt;/li&gt;&lt;li&gt;Groen: 9.6–12.4%&lt;/li&gt;&lt;li&gt;Vlaams Belang: 22.8–26.7%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid van België: 6.8–9.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2021-04-19-TNS.png"
+        length="253663"
+        type="image/png"/>
+      <pubDate>Sat, 22 May 2021 09:12:57 +0200</pubDate>
+      <dc:date>2021-05-22T09:12:57.841162+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 4–9 March 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/flemish_polls/2021-03-09-Ipsos.html#seats</link>
@@ -279,6 +289,6 @@
       <pubDate>Thu, 19 Dec 2019 09:48:37 +0100</pubDate>
       <dc:date>2019-12-19T09:48:37.938138+01:00</dc:date>
     </item>
-    <dc:date>2021-03-13T10:22:38.966184+01:00</dc:date>
+    <dc:date>2021-05-22T09:12:57.841162+02:00</dc:date>
   </channel>
 </rss>
