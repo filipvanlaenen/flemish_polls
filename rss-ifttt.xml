@@ -6,6 +6,14 @@
     <description>All Registered Polls for the Flemish Parliament</description>
     <pubDate>Sat, 2 Nov 2019 16:14:53 +0100</pubDate>
     <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 25 May–1 June 2021 – Voting Intentions</title>
+      <link>null/2021-06-01-Ipsos.html</link>
+      <description><![CDATA[Voting intentions for the Flemish Parliament<br/>Opinion poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 25 May–1 June 2021<br/>Details on null/2021-06-01-Ipsos.html<br/><img src="null/2021-06-01-Ipsos.png"/>]]></description>
+      <enclosure url="null/2021-06-01-Ipsos.png" length="270432" type="image/png"/>
+      <pubDate>Fri, 4 Jun 2021 19:47:24 +0200</pubDate>
+      <dc:date>2021-06-04T19:47:24.184772+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by TNS for De Standaard and VRT, 29 March–19 April 2021 – Seating Plan Projection</title>
       <link>null/2021-04-19-TNS.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Flemish Parliament<br/>63 seats needed for a majority<br/>Opinion poll by TNS for De Standaard and VRT, 29 March–19 April 2021<br/>Details on null/2021-04-19-TNS.html<br/><img src="null/2021-04-19-TNS-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="null/2019-12-06-Ipsos.png" length="272886" type="image/png"/>
       <pubDate>Sat, 14 Dec 2019 10:13:37 +0100</pubDate>
       <dc:date>2019-12-14T10:13:37.528485+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 2–10 September 2019 – Seating Plan Projection</title>
-      <link>null/2019-09-10-Ipsos.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Flemish Parliament<br/>63 seats needed for a majority<br/>Opinion poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 2–10 September 2019<br/>Details on null/2019-09-10-Ipsos.html<br/><img src="null/2019-09-10-Ipsos-seating-plan.png"/>]]></description>
-      <enclosure url="null/2019-09-10-Ipsos-seating-plan.png" length="525489" type="image/png"/>
-      <pubDate>Thu, 19 Dec 2019 09:48:37 +0100</pubDate>
-      <dc:date>2019-12-19T09:48:37.938138+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 2–10 September 2019 – Seat Projections</title>
-      <link>null/2019-09-10-Ipsos.html#seats</link>
-      <description><![CDATA[Seat projections for the Flemish Parliament<br/>63 seats needed for a majority<br/>Opinion poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 2–10 September 2019<br/>Details on null/2019-09-10-Ipsos.html<br/><img src="null/2019-09-10-Ipsos-seats.png"/>]]></description>
-      <enclosure url="null/2019-09-10-Ipsos-seats.png" length="229048" type="image/png"/>
-      <pubDate>Thu, 19 Dec 2019 09:48:37 +0100</pubDate>
-      <dc:date>2019-12-19T09:48:37.938138+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 2–10 September 2019 – Voting Intentions</title>
-      <link>null/2019-09-10-Ipsos.html</link>
-      <description><![CDATA[Voting intentions for the Flemish Parliament<br/>Opinion poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 2–10 September 2019<br/>Details on null/2019-09-10-Ipsos.html<br/><img src="null/2019-09-10-Ipsos.png"/>]]></description>
-      <enclosure url="null/2019-09-10-Ipsos.png" length="275835" type="image/png"/>
-      <pubDate>Thu, 19 Dec 2019 09:48:37 +0100</pubDate>
-      <dc:date>2019-12-19T09:48:37.938138+01:00</dc:date>
     </item>
   </channel>
 </rss>
