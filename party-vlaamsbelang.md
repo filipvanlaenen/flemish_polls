@@ -52,8 +52,8 @@ Last result: **23** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31 | 28–34 | 28–34 | 27–34 | 25–36 |
-| [7–14 September 2021](2021-09-14-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 31 | 28–34 | 28–34 | 27–34 | 25–36 |
+| N/A | [Poll Average](average.html) | 31 | 29–34 | 28–34 | 27–34 | 25–36 |
+| [7–14 September 2021](2021-09-14-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 31 | 29–34 | 28–34 | 27–34 | 25–36 |
 | [25 May–1 June 2021](2021-06-01-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 34 | 34–37 | 31–38 | 30–39 | 30–41 |
 | [29 March–19 April 2021](2021-04-19-TNS.html) | TNS <br> De Standaard and VRT | 33 | 30–34 | 30–34 | 29–35 | 28–36 |
 | [4–9 March 2021](2021-03-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 31 | 29–34 | 27–34 | 26–34 | 25–36 |
@@ -77,19 +77,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 23 | 0% | 100% | Last Result |
 | 24 | 0.1% | 100% |  |
 | 25 | 0.7% | 99.9% |  |
-| 26 | 1.3% | 99.2% |  |
-| 27 | 2% | 98% |  |
-| 28 | 6% | 95% |  |
-| 29 | 9% | 90% |  |
-| 30 | 27% | 80% |  |
-| 31 | 9% | 53% | Median |
-| 32 | 14% | 44% |  |
-| 33 | 10% | 30% |  |
-| 34 | 19% | 20% |  |
-| 35 | 0.9% | 2% |  |
-| 36 | 0.5% | 0.9% |  |
-| 37 | 0.2% | 0.4% |  |
-| 38 | 0.1% | 0.2% |  |
+| 26 | 1.2% | 99.2% |  |
+| 27 | 3% | 98% |  |
+| 28 | 5% | 95% |  |
+| 29 | 10% | 90% |  |
+| 30 | 28% | 80% |  |
+| 31 | 10% | 53% | Median |
+| 32 | 12% | 43% |  |
+| 33 | 12% | 31% |  |
+| 34 | 17% | 19% |  |
+| 35 | 1.0% | 2% |  |
+| 36 | 0.4% | 0.9% |  |
+| 37 | 0.3% | 0.5% |  |
+| 38 | 0.2% | 0.2% |  |
 | 39 | 0% | 0% |  |
 
 
