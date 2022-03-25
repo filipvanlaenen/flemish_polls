@@ -8,36 +8,16 @@
     <title>All Registered Polls for the Flemish Parliament</title>
     <link>https://filipvanlaenen.github.io/flemish_polls</link>
     <description>All Registered Polls for the Flemish Parliament</description>
-    <pubDate>Fri, 25 Mar 2022 19:21:45 +0100</pubDate>
+    <pubDate>Fri, 25 Mar 2022 19:34:30 +0100</pubDate>
     <item>
-      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 25 March 2022 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/flemish_polls/2022-03-25-Ipsos.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Nieuw-Vlaamse Alliantie: 27–35 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch en Vlaams: 11–16 seats&lt;/li&gt;&lt;li&gt;Open Vlaamse Liberalen en Democraten: 9–15 seats&lt;/li&gt;&lt;li&gt;Vooruit: 15–22 seats&lt;/li&gt;&lt;li&gt;Groen: 7–14 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 25–33 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid van België: 7–13 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2022-03-25-Ipsos-seats.png"
-        length="228929"
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 15–22 March 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/flemish_polls/2022-03-22-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Nieuw-Vlaamse Alliantie: 20.9–26.2%&lt;/li&gt;&lt;li&gt;Christen-Democratisch en Vlaams: 9.5–13.4%&lt;/li&gt;&lt;li&gt;Open Vlaamse Liberalen en Democraten: 8.1–11.8%&lt;/li&gt;&lt;li&gt;Vooruit: 12.2–16.5%&lt;/li&gt;&lt;li&gt;Groen: 6.9–10.3%&lt;/li&gt;&lt;li&gt;Vlaams Belang: 19.8–24.9%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid van België: 7.3–10.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2022-03-22-Ipsos.png"
+        length="278300"
         type="image/png"/>
-      <pubDate>Fri, 25 Mar 2022 19:21:45 +0100</pubDate>
-      <dc:date>2022-03-25T19:21:45.27468+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 25 March 2022 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/flemish_polls/2022-03-25-Ipsos.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2022-03-25-Ipsos-coalitions-seats.png"
-        length="569770"
-        type="image/png"/>
-      <pubDate>Fri, 25 Mar 2022 19:21:45 +0100</pubDate>
-      <dc:date>2022-03-25T19:21:45.27468+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 25 March 2022 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/flemish_polls/2022-03-25-Ipsos.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Nieuw-Vlaamse Alliantie: 20.9–26.3%&lt;/li&gt;&lt;li&gt;Christen-Democratisch en Vlaams: 9.4–13.4%&lt;/li&gt;&lt;li&gt;Open Vlaamse Liberalen en Democraten: 8.0–11.8%&lt;/li&gt;&lt;li&gt;Vooruit: 12.1–16.6%&lt;/li&gt;&lt;li&gt;Groen: 6.8–10.4%&lt;/li&gt;&lt;li&gt;Vlaams Belang: 19.7–25.0%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid van België: 7.3–10.9%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2022-03-25-Ipsos.png"
-        length="278090"
-        type="image/png"/>
-      <pubDate>Fri, 25 Mar 2022 19:21:45 +0100</pubDate>
-      <dc:date>2022-03-25T19:21:45.27468+01:00</dc:date>
+      <pubDate>Fri, 25 Mar 2022 19:34:30 +0100</pubDate>
+      <dc:date>2022-03-25T19:34:30.288237+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 7–14 September 2021 – Seat Projections for the Parties</title>
@@ -399,6 +379,6 @@
       <pubDate>Thu, 19 Dec 2019 09:48:37 +0100</pubDate>
       <dc:date>2019-12-19T09:48:37+01:00</dc:date>
     </item>
-    <dc:date>2022-03-25T19:21:45.27468+01:00</dc:date>
+    <dc:date>2022-03-25T19:34:30.288237+01:00</dc:date>
   </channel>
 </rss>
