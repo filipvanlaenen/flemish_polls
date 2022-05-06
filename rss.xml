@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Flemish Parliament</title>
     <link>https://filipvanlaenen.github.io/flemish_polls</link>
     <description>All Registered Polls for the Flemish Parliament</description>
-    <pubDate>Fri, 06 May 2022 18:02:47 +0200</pubDate>
+    <pubDate>Fri, 06 May 2022 18:28:05 +0200</pubDate>
     <item>
       <title>Opinion Poll by TNS for De Standaard and VRT, 14–31 March 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/flemish_polls/2022-03-31-TNS.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2022-03-31-TNS-seats.png"
         length="198730"
         type="image/png"/>
-      <pubDate>Fri, 06 May 2022 18:02:47 +0200</pubDate>
-      <dc:date>2022-05-06T18:02:47.989643+02:00</dc:date>
+      <pubDate>Fri, 06 May 2022 18:28:05 +0200</pubDate>
+      <dc:date>2022-05-06T18:28:05.497775+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard and VRT, 14–31 March 2022 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2022-03-31-TNS-coalitions-seats.png"
         length="516153"
         type="image/png"/>
-      <pubDate>Fri, 06 May 2022 18:02:47 +0200</pubDate>
-      <dc:date>2022-05-06T18:02:47.989643+02:00</dc:date>
+      <pubDate>Fri, 06 May 2022 18:28:05 +0200</pubDate>
+      <dc:date>2022-05-06T18:28:05.497775+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard and VRT, 14–31 March 2022 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2022-03-31-TNS.png"
         length="254589"
         type="image/png"/>
-      <pubDate>Fri, 06 May 2022 18:02:47 +0200</pubDate>
-      <dc:date>2022-05-06T18:02:47.989643+02:00</dc:date>
+      <pubDate>Fri, 06 May 2022 18:28:05 +0200</pubDate>
+      <dc:date>2022-05-06T18:28:05.497775+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 15–22 March 2022 – Seat Projections for the Parties</title>
@@ -459,6 +459,6 @@
       <pubDate>Thu, 19 Dec 2019 09:48:37 +0100</pubDate>
       <dc:date>2019-12-19T09:48:37+01:00</dc:date>
     </item>
-    <dc:date>2022-05-06T18:02:47.989643+02:00</dc:date>
+    <dc:date>2022-05-06T18:28:05.497775+02:00</dc:date>
   </channel>
 </rss>
