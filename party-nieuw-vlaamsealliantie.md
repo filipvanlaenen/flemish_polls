@@ -10,7 +10,8 @@ Last result: **24.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.5% | 19.9–23.2% | 19.5–23.7% | 19.1–24.2% | 18.3–25.0% |
+| N/A | [Poll Average](average.html) | 22.0% | 20.4–23.7% | 19.9–24.2% | 19.5–24.7% | 18.8–25.5% |
+| [21–29 November 2022](2022-11-29-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 22.0% | 20.4–23.7% | 19.9–24.2% | 19.5–24.7% | 18.8–25.5% |
 | [7–13 September 2022](2022-09-13-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 21.5% | 19.9–23.2% | 19.4–23.7% | 19.1–24.2% | 18.3–25.0% |
 | [6–14 June 2022](2022-06-14-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 24.9% | 23.2–26.7% | 22.7–27.2% | 22.3–27.7% | 21.5–28.5% |
 | [14–31 March 2022](2022-03-31-TNS.html) | TNS <br> De Standaard and VRT | 22.4% | 21.2–23.6% | 20.9–23.9% | 20.6–24.2% | 20.1–24.8% |
@@ -35,17 +36,18 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 16.5–17.5% | 0.1% | 100% |  |
-| 17.5–18.5% | 0.8% | 99.9% |  |
-| 18.5–19.5% | 5% | 99.2% |  |
-| 19.5–20.5% | 16% | 94% |  |
-| 20.5–21.5% | 28% | 78% |  |
-| 21.5–22.5% | 28% | 50% | Median |
-| 22.5–23.5% | 15% | 22% |  |
-| 23.5–24.5% | 5% | 6% |  |
-| 24.5–25.5% | 1.1% | 1.2% | Last Result |
-| 25.5–26.5% | 0.1% | 0.2% |  |
+| 16.5–17.5% | 0% | 100% |  |
+| 17.5–18.5% | 0.3% | 100% |  |
+| 18.5–19.5% | 2% | 99.7% |  |
+| 19.5–20.5% | 10% | 97% |  |
+| 20.5–21.5% | 23% | 87% |  |
+| 21.5–22.5% | 30% | 64% | Median |
+| 22.5–23.5% | 22% | 34% |  |
+| 23.5–24.5% | 10% | 12% |  |
+| 24.5–25.5% | 2% | 3% | Last Result |
+| 25.5–26.5% | 0.4% | 0.5% |  |
 | 26.5–27.5% | 0% | 0% |  |
+| 27.5–28.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -56,7 +58,8 @@ Last result: **35** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28 | 27–31 | 26–32 | 25–33 | 23–33 |
+| N/A | [Poll Average](average.html) | 29 | 27–31 | 26–32 | 26–33 | 25–34 |
+| [21–29 November 2022](2022-11-29-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 29 | 27–31 | 26–32 | 26–33 | 25–34 |
 | [7–13 September 2022](2022-09-13-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 28 | 27–31 | 26–32 | 25–33 | 23–33 |
 | [6–14 June 2022](2022-06-14-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 33 | 30–36 | 30–37 | 29–37 | 28–39 |
 | [14–31 March 2022](2022-03-31-TNS.html) | TNS <br> De Standaard and VRT | 29 | 27–32 | 27–33 | 27–33 | 27–33 |
@@ -83,20 +86,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 22 | 0.2% | 100% |  |
-| 23 | 0.5% | 99.8% |  |
-| 24 | 0.8% | 99.3% |  |
-| 25 | 1.4% | 98% |  |
-| 26 | 4% | 97% |  |
-| 27 | 30% | 93% |  |
-| 28 | 24% | 63% | Median |
-| 29 | 17% | 39% |  |
-| 30 | 10% | 22% |  |
-| 31 | 6% | 12% |  |
-| 32 | 3% | 6% |  |
+| 22 | 0.1% | 100% |  |
+| 23 | 0.1% | 99.9% |  |
+| 24 | 0.2% | 99.8% |  |
+| 25 | 0.4% | 99.6% |  |
+| 26 | 9% | 99.2% |  |
+| 27 | 13% | 91% |  |
+| 28 | 18% | 78% |  |
+| 29 | 16% | 60% | Median |
+| 30 | 28% | 44% |  |
+| 31 | 10% | 17% |  |
+| 32 | 4% | 7% |  |
 | 33 | 2% | 3% |  |
-| 34 | 0.2% | 0.3% |  |
-| 35 | 0.1% | 0.1% | Last Result |
-| 36 | 0% | 0% |  |
+| 34 | 0.7% | 1.1% |  |
+| 35 | 0.3% | 0.5% | Last Result |
+| 36 | 0.1% | 0.2% |  |
+| 37 | 0% | 0% |  |
 
 
