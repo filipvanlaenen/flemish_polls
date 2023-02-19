@@ -10,7 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.8% <br> 35 | 18.5% <br> 23 | 15.4% <br> 19 | 13.1% <br> 16 | 10.1% <br> 12 | 10.1% <br> 14 | 5.3% <br> 4 |
 | N/A | Poll Average | 19–25% <br> 24–33 | 22–28% <br> 27–37 | 8–12% <br> 7–14 | 8–15% <br> 8–19 | 13–18% <br> 16–25 | 7–13% <br> 8–18 | 4–9% <br> 1–10 |
-| [16–29 January 2023](2023-01-29-Kantar.html) | Kantar <br> La Libre Belgique | 18–25% <br> 22–33 | 21–29% <br> 26–38 | 7–12% <br> 6–14 | 10–15% <br> 11–19 | 12–19% <br> 15–25 | 8–13% <br> 10–19 | 4–8% <br> 0–8 |
+| [16–29 January 2023](2023-01-29-Kantar.html) | Kantar <br> La Libre Belgique and RTBf | 18–25% <br> 22–33 | 21–29% <br> 26–38 | 7–12% <br> 6–14 | 10–15% <br> 11–19 | 12–19% <br> 15–25 | 8–13% <br> 10–19 | 4–8% <br> 0–8 |
 | [21–29 November 2022](2022-11-29-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 20–25% <br> 26–33 | 23–28% <br> 29–37 | 8–12% <br> 9–14 | 8–11% <br> 8–14 | 14–19% <br> 18–25 | 7–11% <br> 7–14 | 6–9% <br> 5–11 |
 | 26 May 2019 | General Election | 24.8% <br> 35 | 18.5% <br> 23 | 15.4% <br> 19 | 13.1% <br> 16 | 10.1% <br> 12 | 10.1% <br> 14 | 5.3% <br> 4 |
 
