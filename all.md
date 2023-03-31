@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | N-VA | VB | CD&V | VLD | VOORUIT | GROEN | PVDA |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.8% <br> 35 | 18.5% <br> 23 | 15.4% <br> 19 | 13.1% <br> 16 | 10.1% <br> 12 | 10.1% <br> 14 | 5.3% <br> 4 |
-| [20–27 March 2023](2023-03-27-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 19–24% <br> 26–33 | 22–28% <br> 29–37 | 10–14% <br> 11–17 | 8–11% <br> 8–13 | 13–18% <br> 17–25 | 6–9% <br> 5–13 | 6–10% <br> 6–13 |
+| [20–27 March 2023](2023-03-27-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 19–24% <br> 26–32 | 22–28% <br> 29–37 | 10–14% <br> 11–17 | 8–11% <br> 8–14 | 13–18% <br> 17–25 | 6–9% <br> 5–12 | 6–10% <br> 6–13 |
 | [16–29 January 2023](2023-01-29-Kantar.html) | Kantar <br> La Libre Belgique and RTBf | 18–25% <br> 22–33 | 21–29% <br> 26–38 | 7–12% <br> 6–14 | 10–15% <br> 11–19 | 12–19% <br> 15–25 | 8–13% <br> 10–19 | 4–8% <br> 0–8 |
 | [21–29 November 2022](2022-11-29-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 20–25% <br> 26–33 | 23–28% <br> 29–37 | 8–12% <br> 9–14 | 8–11% <br> 8–14 | 14–19% <br> 18–25 | 7–11% <br> 7–14 | 6–9% <br> 5–11 |
 | [7–13 September 2022](2022-09-13-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 19–24% <br> 25–33 | 19–24% <br> 24–32 | 8–12% <br> 9–14 | 9–13% <br> 11–16 | 15–19% <br> 19–26 | 7–11% <br> 7–14 | 7–11% <br> 7–13 |
