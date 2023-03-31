@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Flemish Parliament</title>
     <link>https://filipvanlaenen.github.io/flemish_polls</link>
     <description>All Registered Polls for the Flemish Parliament</description>
-    <pubDate>Sun, 19 Feb 2023 15:15:28 +0100</pubDate>
+    <pubDate>Fri, 31 Mar 2023 20:54:45 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 20–27 March 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/flemish_polls/2023-03-27-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Nieuw-Vlaamse Alliantie: 19.2–24.3%&lt;/li&gt;&lt;li&gt;Christen-Democratisch en Vlaams: 9.9–14.0%&lt;/li&gt;&lt;li&gt;Open Vlaamse Liberalen en Democraten: 7.6–11.2%&lt;/li&gt;&lt;li&gt;Vooruit: 13.4–17.9%&lt;/li&gt;&lt;li&gt;Groen: 5.9–9.2%&lt;/li&gt;&lt;li&gt;Vlaams Belang: 22.4–27.8%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid van België: 6.5–9.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2023-03-27-Ipsos.png"
+        length="274570"
+        type="image/png"/>
+      <pubDate>Fri, 31 Mar 2023 20:54:45 +0200</pubDate>
+      <dc:date>2023-03-31T20:54:45.378563+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Kantar for La Libre Belgique and RTBf, 16–29 January 2023 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/flemish_polls/2023-01-29-Kantar.html#seats</link>
@@ -579,6 +589,6 @@
       <pubDate>Thu, 19 Dec 2019 09:48:37 +0100</pubDate>
       <dc:date>2019-12-19T09:48:37+01:00</dc:date>
     </item>
-    <dc:date>2023-02-19T15:15:28.069316+01:00</dc:date>
+    <dc:date>2023-03-31T20:54:45.378563+02:00</dc:date>
   </channel>
 </rss>
