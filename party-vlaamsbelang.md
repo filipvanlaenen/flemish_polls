@@ -63,8 +63,8 @@ Last result: **23** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 33 | 29–36 | 29–37 | 27–37 | 25–39 |
-| [20–27 March 2023](2023-03-27-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 33 | 31–35 | 30–36 | 29–37 | 28–38 |
+| N/A | [Poll Average](average.html) | 33 | 29–36 | 28–37 | 27–37 | 25–39 |
+| [20–27 March 2023](2023-03-27-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 33 | 30–36 | 30–36 | 29–37 | 27–38 |
 | [16–29 January 2023](2023-01-29-Kantar.html) | Kantar <br> La Libre Belgique and RTBf | 32 | 29–36 | 27–37 | 26–38 | 25–40 |
 | [21–29 November 2022](2022-11-29-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 34 | 30–36 | 29–37 | 29–37 | 28–38 |
 | [7–13 September 2022](2022-09-13-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 28 | 25–30 | 25–31 | 24–32 | 23–34 |
@@ -97,20 +97,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 24 | 0.1% | 100% |  |
 | 25 | 0.7% | 99.8% |  |
 | 26 | 0.7% | 99.2% |  |
-| 27 | 1.3% | 98% |  |
+| 27 | 1.4% | 98% |  |
 | 28 | 2% | 97% |  |
 | 29 | 7% | 95% |  |
 | 30 | 9% | 88% |  |
-| 31 | 13% | 80% |  |
-| 32 | 14% | 67% |  |
-| 33 | 19% | 52% | Median |
-| 34 | 12% | 33% |  |
-| 35 | 10% | 21% |  |
-| 36 | 5% | 11% |  |
-| 37 | 4% | 6% |  |
-| 38 | 1.4% | 2% |  |
-| 39 | 0.3% | 0.6% |  |
-| 40 | 0.1% | 0.3% |  |
+| 31 | 13% | 79% |  |
+| 32 | 12% | 66% |  |
+| 33 | 19% | 54% | Median |
+| 34 | 12% | 34% |  |
+| 35 | 9% | 22% |  |
+| 36 | 6% | 13% |  |
+| 37 | 4% | 7% |  |
+| 38 | 2% | 2% |  |
+| 39 | 0.4% | 0.6% |  |
+| 40 | 0.2% | 0.3% |  |
 | 41 | 0.1% | 0.1% |  |
 | 42 | 0% | 0% |  |
 
