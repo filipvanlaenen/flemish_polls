@@ -11,7 +11,7 @@ Last result: **18.5%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 23.8% | 21.6–25.5% | 21.1–25.9% | 20.6–26.2% | 19.8–26.9% |
-| [9 June 2023](2023-06-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 22.7% | 21.1–24.5% | 20.6–25.0% | 20.2–25.4% | 19.4–26.3% |
+| [29 May–6 June 2023](2023-06-06-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 22.7% | 21.1–24.5% | 20.6–25.0% | 20.2–25.4% | 19.4–26.3% |
 | [20–27 March 2023](2023-03-27-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 25.0% | 23.3–26.8% | 22.8–27.3% | 22.4–27.8% | 21.6–28.7% |
 | [13–23 March 2023](2023-03-23-TNS.html) | TNS <br> De Standaard and VRT | 24.6% | 23.4–25.8% | 23.1–26.2% | 22.8–26.5% | 22.2–27.1% |
 | [16–29 January 2023](2023-01-29-Kantar.html) | Kantar <br> La Libre Belgique and RTBf | 24.7% | 22.4–27.3% | 21.7–28.0% | 21.2–28.6% | 20.1–29.9% |
@@ -63,7 +63,7 @@ Last result: **23** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 31 | 27–33 | 26–34 | 26–35 | 24–36 |
-| [9 June 2023](2023-06-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 29 | 26–32 | 26–33 | 25–34 | 24–35 |
+| [29 May–6 June 2023](2023-06-06-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 29 | 26–32 | 26–33 | 25–34 | 24–35 |
 | [20–27 March 2023](2023-03-27-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 33 | 30–36 | 30–36 | 29–37 | 27–38 |
 | [13–23 March 2023](2023-03-23-TNS.html) | TNS <br> De Standaard and VRT | 32 | 29–34 | 29–35 | 29–35 | 28–36 |
 | [16–29 January 2023](2023-01-29-Kantar.html) | Kantar <br> La Libre Belgique and RTBf | 32 | 29–36 | 27–37 | 26–38 | 25–40 |
