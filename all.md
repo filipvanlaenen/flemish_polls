@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | N-VA | VB | CD&V | VLD | VOORUIT | GROEN | PVDA |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.8% <br> 35 | 18.5% <br> 23 | 15.4% <br> 19 | 13.1% <br> 16 | 10.1% <br> 12 | 10.1% <br> 14 | 5.3% <br> 4 |
+| [9 June 2023](2023-06-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 19–24% <br> 26–32 | 20–25% <br> 25–34 | 9–13% <br> 10–15 | 7–10% <br> 7–12 | 15–19% <br> 19–25 | 6–9% <br> 5–12 | 9–12% <br> 9–15 |
 | [20–27 March 2023](2023-03-27-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 19–24% <br> 26–32 | 22–28% <br> 29–37 | 10–14% <br> 11–17 | 8–11% <br> 8–14 | 13–18% <br> 17–25 | 6–9% <br> 5–12 | 6–10% <br> 6–13 |
 | [13–23 March 2023](2023-03-23-TNS.html) | TNS <br> De Standaard and VRT | 19–23% <br> 26–30 | 23–26% <br> 29–35 | 8–11% <br> 9–11 | 8–11% <br> 8–13 | 15–19% <br> 19–25 | 7–9% <br> 7–11 | 8–11% <br> 8–13 |
 | [16–29 January 2023](2023-01-29-Kantar.html) | Kantar <br> La Libre Belgique and RTBf | 18–25% <br> 22–33 | 21–29% <br> 26–38 | 7–12% <br> 6–14 | 10–15% <br> 11–19 | 12–19% <br> 15–25 | 8–13% <br> 10–19 | 4–8% <br> 0–8 |
