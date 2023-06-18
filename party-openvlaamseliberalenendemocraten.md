@@ -59,8 +59,8 @@ Last result: **16** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 8–12 | 8–12 | 8–13 | 7–14 |
-| [29 May–6 June 2023](2023-06-06-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 11 | 8–12 | 8–12 | 7–13 | 6–14 |
+| N/A | [Poll Average](average.html) | 11 | 8–12 | 8–12 | 7–13 | 6–14 |
+| [29 May–6 June 2023](2023-06-06-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 9 | 8–11 | 7–12 | 7–12 | 5–13 |
 | [20–27 March 2023](2023-03-27-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 11 | 9–13 | 8–13 | 8–14 | 8–15 |
 | [13–23 March 2023](2023-03-23-TNS.html) | TNS <br> De Standaard and VRT | 11 | 9–12 | 9–12 | 8–13 | 8–14 |
 | [16–29 January 2023](2023-01-29-Kantar.html) | Kantar <br> La Libre Belgique and RTBf | 15 | 12–19 | 12–19 | 11–19 | 10–20 |
@@ -91,16 +91,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0.1% | 100% |  |
-| 6 | 0.3% | 99.9% |  |
-| 7 | 1.3% | 99.6% |  |
-| 8 | 14% | 98% |  |
-| 9 | 9% | 85% |  |
-| 10 | 14% | 76% |  |
-| 11 | 35% | 62% | Median |
-| 12 | 23% | 27% |  |
-| 13 | 3% | 4% |  |
-| 14 | 0.9% | 1.0% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0.3% | 99.9% |  |
+| 6 | 0.4% | 99.6% |  |
+| 7 | 2% | 99.2% |  |
+| 8 | 19% | 97% |  |
+| 9 | 10% | 78% |  |
+| 10 | 13% | 69% |  |
+| 11 | 33% | 55% | Median |
+| 12 | 19% | 22% |  |
+| 13 | 2% | 3% |  |
+| 14 | 0.5% | 0.6% |  |
 | 15 | 0.1% | 0.1% |  |
 | 16 | 0% | 0% | Last Result |
 

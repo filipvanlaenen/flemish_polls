@@ -61,8 +61,8 @@ Last result: **35** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28 | 26–31 | 26–32 | 26–33 | 25–35 |
-| [29 May–6 June 2023](2023-06-06-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 30 | 27–32 | 26–33 | 26–34 | 26–36 |
+| N/A | [Poll Average](average.html) | 28 | 26–30 | 26–31 | 26–32 | 25–33 |
+| [29 May–6 June 2023](2023-06-06-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 29 | 26–31 | 26–32 | 26–32 | 24–34 |
 | [20–27 March 2023](2023-03-27-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 29 | 26–31 | 26–32 | 26–32 | 24–34 |
 | [13–23 March 2023](2023-03-23-TNS.html) | TNS <br> De Standaard and VRT | 27 | 26–30 | 26–30 | 26–30 | 25–31 |
 | [16–29 January 2023](2023-01-29-Kantar.html) | Kantar <br> La Libre Belgique and RTBf | 28 | 26–31 | 24–32 | 22–33 | 22–36 |
@@ -94,20 +94,19 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 23 | 0.1% | 100% |  |
-| 24 | 0.2% | 99.9% |  |
-| 25 | 0.5% | 99.7% |  |
-| 26 | 14% | 99.2% |  |
-| 27 | 19% | 85% |  |
-| 28 | 18% | 66% | Median |
-| 29 | 10% | 48% |  |
-| 30 | 21% | 38% |  |
-| 31 | 9% | 17% |  |
-| 32 | 4% | 7% |  |
-| 33 | 2% | 3% |  |
-| 34 | 0.6% | 1.4% |  |
-| 35 | 0.4% | 0.8% | Last Result |
-| 36 | 0.4% | 0.4% |  |
-| 37 | 0.1% | 0.1% |  |
-| 38 | 0% | 0% |  |
+| 24 | 0.3% | 99.8% |  |
+| 25 | 0.9% | 99.5% |  |
+| 26 | 17% | 98.6% |  |
+| 27 | 24% | 81% |  |
+| 28 | 22% | 57% | Median |
+| 29 | 11% | 35% |  |
+| 30 | 16% | 24% |  |
+| 31 | 5% | 8% |  |
+| 32 | 2% | 3% |  |
+| 33 | 0.6% | 1.0% |  |
+| 34 | 0.2% | 0.4% |  |
+| 35 | 0.1% | 0.1% | Last Result |
+| 36 | 0% | 0.1% |  |
+| 37 | 0% | 0% |  |
 
 
