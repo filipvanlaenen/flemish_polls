@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/flemish_polls</id>
   <title>All Registered Polls for the Flemish Parliament</title>
-  <updated>2023-09-29T19:22:30.649508+02:00</updated>
+  <updated>2023-10-13T18:15:41.644909+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Nieuw-Vlaamse Alliantie: 17.2–23.8%, 22–31 seats</li><li>Christen-Democratisch en Vlaams: 11.3–17.1%, 13–20 seats</li><li>Open Vlaamse Liberalen en Democraten: 6.0–10.5%, 5–13 seats</li><li>Vooruit: 13.3–19.3%, 16–25 seats</li><li>Groen: 6.1–10.7%, 5–14 seats</li><li>Vlaams Belang: 20.0–27.0%, 25–36 seats</li><li>Partij van de Arbeid van België: 6.8–11.5%, 7–14 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/flemish_polls/2023-10-09-Kantar.html</id>
+    <link href="https://filipvanlaenen.github.io/flemish_polls/2023-10-09-Kantar.html"/>
+    <title>Opinion Poll by Kantar for La Libre Belgique and RTBf, 10 September–9 October 2023</title>
+    <updated>2023-10-13T18:15:41.644909+02:00</updated>
+    <dc:date>2023-10-13T18:15:41.644909+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Nieuw-Vlaamse Alliantie: 17.8–22.8%, 23–30 seats</li><li>Christen-Democratisch en Vlaams: 10.3–14.4%, 11–18 seats</li><li>Open Vlaamse Liberalen en Democraten: 6.6–10.1%, 7–12 seats</li><li>Vooruit: 13.3–17.8%, 17–25 seats</li><li>Groen: 5.0–8.1%, 5–11 seats</li><li>Vlaams Belang: 23.2–28.6%, 30–38 seats</li><li>Partij van de Arbeid van België: 7.8–11.5%, 7–14 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/flemish_polls/2023-09-25-Ipsos.html</id>
@@ -191,5 +199,5 @@
     <updated>2019-12-19T09:48:37+01:00</updated>
     <dc:date>2019-12-19T09:48:37+01:00</dc:date>
   </entry>
-  <dc:date>2023-09-29T19:22:30.649508+02:00</dc:date>
+  <dc:date>2023-10-13T18:15:41.644909+02:00</dc:date>
 </feed>
