@@ -6,6 +6,30 @@
     <description>All Registered Polls for the Flemish Parliament</description>
     <pubDate>Sat, 2 Nov 2019 16:14:53 +0100</pubDate>
     <item>
+      <title>Opinion Poll by iVOX for Gazet van Antwerpen, 23–28 November 2023 – Seating Plan Projection</title>
+      <link>null/2023-11-28-iVOX.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the Flemish Parliament<br/>63 seats needed for a majority<br/>Opinion poll by iVOX for Gazet van Antwerpen, 23–28 November 2023<br/>Details on null/2023-11-28-iVOX.html<br/><img src="null/2023-11-28-iVOX-seating-plan.png"/>]]></description>
+      <enclosure url="null/2023-11-28-iVOX-seating-plan.png" length="521343" type="image/png"/>
+      <pubDate>Mon, 4 Dec 2023 20:26:28 +0100</pubDate>
+      <dc:date>2023-12-04T20:26:28.793914912+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by iVOX for Gazet van Antwerpen, 23–28 November 2023 – Seat Projections</title>
+      <link>null/2023-11-28-iVOX.html#seats</link>
+      <description><![CDATA[Seat projections for the Flemish Parliament<br/>63 seats needed for a majority<br/>Opinion poll by iVOX for Gazet van Antwerpen, 23–28 November 2023<br/>Details on null/2023-11-28-iVOX.html<br/><img src="null/2023-11-28-iVOX-seats.png"/>]]></description>
+      <enclosure url="null/2023-11-28-iVOX-seats.png" length="232245" type="image/png"/>
+      <pubDate>Mon, 4 Dec 2023 20:26:28 +0100</pubDate>
+      <dc:date>2023-12-04T20:26:28.793914912+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by iVOX for Gazet van Antwerpen, 23–28 November 2023 – Voting Intentions</title>
+      <link>null/2023-11-28-iVOX.html</link>
+      <description><![CDATA[Voting intentions for the Flemish Parliament<br/>Opinion poll by iVOX for Gazet van Antwerpen, 23–28 November 2023<br/>Details on null/2023-11-28-iVOX.html<br/><img src="null/2023-11-28-iVOX.png"/>]]></description>
+      <enclosure url="null/2023-11-28-iVOX.png" length="287439" type="image/png"/>
+      <pubDate>Mon, 4 Dec 2023 20:26:28 +0100</pubDate>
+      <dc:date>2023-12-04T20:26:28.793914912+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Kantar for La Libre Belgique and RTBf, 10 September–9 October 2023 – Seating Plan Projection</title>
       <link>null/2023-10-09-Kantar.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Flemish Parliament<br/>63 seats needed for a majority<br/>Opinion poll by Kantar for La Libre Belgique and RTBf, 10 September–9 October 2023<br/>Details on null/2023-10-09-Kantar.html<br/><img src="null/2023-10-09-Kantar-seating-plan.png"/>]]></description>
@@ -220,30 +244,6 @@
       <enclosure url="null/2022-06-14-Ipsos.png" length="274071" type="image/png"/>
       <pubDate>Sun, 19 Jun 2022 21:46:22 +0200</pubDate>
       <dc:date>2022-06-19T21:46:22.778785528+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by TNS for De Standaard and VRT, 14–31 March 2022 – Seating Plan Projection</title>
-      <link>null/2022-03-31-TNS.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Flemish Parliament<br/>63 seats needed for a majority<br/>Opinion poll by TNS for De Standaard and VRT, 14–31 March 2022<br/>Details on null/2022-03-31-TNS.html<br/><img src="null/2022-03-31-TNS-seating-plan.png"/>]]></description>
-      <enclosure url="null/2022-03-31-TNS-seating-plan.png" length="499485" type="image/png"/>
-      <pubDate>Fri, 6 May 2022 18:28:05 +0200</pubDate>
-      <dc:date>2022-05-06T18:28:05.497775997+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by TNS for De Standaard and VRT, 14–31 March 2022 – Seat Projections</title>
-      <link>null/2022-03-31-TNS.html#seats</link>
-      <description><![CDATA[Seat projections for the Flemish Parliament<br/>63 seats needed for a majority<br/>Opinion poll by TNS for De Standaard and VRT, 14–31 March 2022<br/>Details on null/2022-03-31-TNS.html<br/><img src="null/2022-03-31-TNS-seats.png"/>]]></description>
-      <enclosure url="null/2022-03-31-TNS-seats.png" length="198730" type="image/png"/>
-      <pubDate>Fri, 6 May 2022 18:28:05 +0200</pubDate>
-      <dc:date>2022-05-06T18:28:05.497775997+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by TNS for De Standaard and VRT, 14–31 March 2022 – Voting Intentions</title>
-      <link>null/2022-03-31-TNS.html</link>
-      <description><![CDATA[Voting intentions for the Flemish Parliament<br/>Opinion poll by TNS for De Standaard and VRT, 14–31 March 2022<br/>Details on null/2022-03-31-TNS.html<br/><img src="null/2022-03-31-TNS.png"/>]]></description>
-      <enclosure url="null/2022-03-31-TNS.png" length="254589" type="image/png"/>
-      <pubDate>Fri, 6 May 2022 18:28:05 +0200</pubDate>
-      <dc:date>2022-05-06T18:28:05.497775997+02:00</dc:date>
     </item>
   </channel>
 </rss>
