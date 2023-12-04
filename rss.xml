@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Flemish Parliament</title>
     <link>https://filipvanlaenen.github.io/flemish_polls</link>
     <description>All Registered Polls for the Flemish Parliament</description>
-    <pubDate>Fri, 13 Oct 2023 18:15:41 +0200</pubDate>
+    <pubDate>Mon, 04 Dec 2023 20:26:28 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by iVOX for Gazet van Antwerpen, 23–28 November 2023 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/flemish_polls/2023-11-28-iVOX.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Nieuw-Vlaamse Alliantie: 23–33 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid van België: 6–14 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 30–42 seats&lt;/li&gt;&lt;li&gt;Groen: 4–12 seats&lt;/li&gt;&lt;li&gt;Open Vlaamse Liberalen en Democraten: 7–14 seats&lt;/li&gt;&lt;li&gt;Vooruit: 13–21 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch en Vlaams: 11–20 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2023-11-28-iVOX-seats.png"
+        length="232245"
+        type="image/png"/>
+      <pubDate>Mon, 04 Dec 2023 20:26:28 +0100</pubDate>
+      <dc:date>2023-12-04T20:26:28.793914+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by iVOX for Gazet van Antwerpen, 23–28 November 2023 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/flemish_polls/2023-11-28-iVOX.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2023-11-28-iVOX-coalitions-seats.png"
+        length="606475"
+        type="image/png"/>
+      <pubDate>Mon, 04 Dec 2023 20:26:28 +0100</pubDate>
+      <dc:date>2023-12-04T20:26:28.793914+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by iVOX for Gazet van Antwerpen, 23–28 November 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/flemish_polls/2023-11-28-iVOX.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Nieuw-Vlaamse Alliantie: 17.9–25.0%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid van België: 6.4–11.3%&lt;/li&gt;&lt;li&gt;Vlaams Belang: 23.7–31.5%&lt;/li&gt;&lt;li&gt;Groen: 4.9–9.3%&lt;/li&gt;&lt;li&gt;Open Vlaamse Liberalen en Democraten: 6.6–11.5%&lt;/li&gt;&lt;li&gt;Vooruit: 10.6–16.4%&lt;/li&gt;&lt;li&gt;Christen-Democratisch en Vlaams: 10.2–16.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2023-11-28-iVOX.png"
+        length="287439"
+        type="image/png"/>
+      <pubDate>Mon, 04 Dec 2023 20:26:28 +0100</pubDate>
+      <dc:date>2023-12-04T20:26:28.793914+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Kantar for La Libre Belgique and RTBf, 10 September–9 October 2023 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/flemish_polls/2023-10-09-Kantar.html#seats</link>
@@ -729,6 +759,6 @@
       <pubDate>Thu, 19 Dec 2019 09:48:37 +0100</pubDate>
       <dc:date>2019-12-19T09:48:37+01:00</dc:date>
     </item>
-    <dc:date>2023-10-13T18:15:41.644909+02:00</dc:date>
+    <dc:date>2023-12-04T20:26:28.793914+01:00</dc:date>
   </channel>
 </rss>
