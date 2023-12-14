@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | N-VA | VB | CD&V | VLD | VOORUIT | GROEN | PVDA |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.8% <br> 35 | 18.5% <br> 23 | 15.4% <br> 19 | 13.1% <br> 16 | 10.1% <br> 12 | 10.1% <br> 14 | 5.3% <br> 4 |
+| [15 December 2023](2023-12-15-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 20–25% <br> 26–32 | 23–28% <br> 29–37 | 10–14% <br> 11–17 | 6–9% <br> 4–11 | 12–16% <br> 14–20 | 8–11% <br> 9–15 | 8–12% <br> 8–14 |
 | [23–28 November 2023](2023-11-28-iVOX.html) | iVOX <br> Gazet van Antwerpen | 19–24% <br> 25–32 | 25–30% <br> 33–41 | 11–15% <br> 12–18 | 7–11% <br> 8–13 | 11–15% <br> 14–20 | 5–9% <br> 5–11 | 7–10% <br> 7–13 |
 | [10 September–9 October 2023](2023-10-09-Kantar.html) | Kantar <br> La Libre Belgique and RTBf | 17–24% <br> 22–31 | 20–27% <br> 25–36 | 11–17% <br> 13–20 | 6–10% <br> 5–13 | 13–19% <br> 16–25 | 6–11% <br> 5–14 | 7–11% <br> 7–14 |
 | [18–25 September 2023](2023-09-25-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 18–23% <br> 23–30 | 23–29% <br> 30–38 | 10–14% <br> 11–18 | 7–10% <br> 7–12 | 13–18% <br> 17–25 | 5–8% <br> 5–11 | 8–11% <br> 7–14 |
