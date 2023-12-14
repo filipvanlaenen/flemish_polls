@@ -10,8 +10,9 @@ Last result: **10.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.0% | 12.7–17.3% | 12.2–17.9% | 11.7–18.5% | 11.0–19.7% |
-| [23–28 November 2023](2023-11-28-iVOX.html) | iVOX <br> Gazet van Antwerpen | 13.2% | 11.9–14.7% | 11.6–15.1% | 11.2–15.5% | 10.7–16.2% |
+| N/A | [Poll Average](average.html) | 14.2% | 12.4–17.0% | 12.0–17.8% | 11.6–18.5% | 11.0–19.7% |
+| [15 December 2023](2023-12-15-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 13.8% | 12.5–15.3% | 12.1–15.7% | 11.8–16.1% | 11.2–16.8% |
+| [23–28 November 2023](2023-11-28-iVOX.html) | iVOX <br> Gazet van Antwerpen | 14.3% | 11.9–14.7% | 11.6–15.1% | 11.2–15.5% | 10.7–16.2% |
 | [10 September–9 October 2023](2023-10-09-Kantar.html) | Kantar <br> La Libre Belgique and RTBf | 16.1% | 14.2–18.2% | 13.7–18.8% | 13.3–19.3% | 12.4–20.4% |
 | [18–25 September 2023](2023-09-25-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 15.4% | 14.0–16.9% | 13.6–17.4% | 13.3–17.8% | 12.7–18.5% |
 | [29 May–6 June 2023](2023-06-06-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 16.8% | 15.4–18.4% | 15.0–18.9% | 14.6–19.3% | 13.9–20.0% |
@@ -46,13 +47,13 @@ The following table shows the probability mass function per percentage block of 
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0.1% | 100% | Last Result |
 | 10.5–11.5% | 2% | 99.9% |  |
-| 11.5–12.5% | 7% | 98% |  |
-| 12.5–13.5% | 14% | 91% |  |
-| 13.5–14.5% | 18% | 77% |  |
-| 14.5–15.5% | 21% | 59% | Median |
-| 15.5–16.5% | 19% | 38% |  |
-| 16.5–17.5% | 11% | 19% |  |
-| 17.5–18.5% | 5% | 8% |  |
+| 11.5–12.5% | 10% | 98% |  |
+| 12.5–13.5% | 22% | 88% |  |
+| 13.5–14.5% | 24% | 65% | Median |
+| 14.5–15.5% | 16% | 41% |  |
+| 15.5–16.5% | 11% | 25% |  |
+| 16.5–17.5% | 7% | 14% |  |
+| 17.5–18.5% | 4% | 6% |  |
 | 18.5–19.5% | 2% | 2% |  |
 | 19.5–20.5% | 0.5% | 0.6% |  |
 | 20.5–21.5% | 0.1% | 0.1% |  |
@@ -67,7 +68,8 @@ Last result: **12** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 16–24 | 15–25 | 15–25 | 14–26 |
+| N/A | [Poll Average](average.html) | 18 | 16–23 | 15–25 | 14–25 | 14–26 |
+| [15 December 2023](2023-12-15-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 18 | 15–19 | 15–19 | 14–20 | 14–23 |
 | [23–28 November 2023](2023-11-28-iVOX.html) | iVOX <br> Gazet van Antwerpen | 17 | 15–19 | 14–19 | 14–20 | 13–21 |
 | [10 September–9 October 2023](2023-10-09-Kantar.html) | Kantar <br> La Libre Belgique and RTBf | 20 | 18–25 | 17–25 | 16–25 | 15–27 |
 | [18–25 September 2023](2023-09-25-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 20 | 18–23 | 17–24 | 17–25 | 16–25 |
@@ -104,19 +106,19 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 12 | 0.1% | 100% | Last Result |
 | 13 | 0.2% | 99.9% |  |
-| 14 | 2% | 99.8% |  |
-| 15 | 3% | 98% |  |
-| 16 | 12% | 94% |  |
-| 17 | 7% | 82% |  |
-| 18 | 9% | 75% |  |
-| 19 | 25% | 66% | Median |
-| 20 | 14% | 41% |  |
-| 21 | 6% | 27% |  |
-| 22 | 5% | 21% |  |
-| 23 | 5% | 16% |  |
-| 24 | 4% | 11% |  |
-| 25 | 6% | 7% |  |
-| 26 | 0.3% | 0.6% |  |
+| 14 | 4% | 99.7% |  |
+| 15 | 5% | 96% |  |
+| 16 | 17% | 91% |  |
+| 17 | 12% | 74% |  |
+| 18 | 15% | 62% | Median |
+| 19 | 23% | 47% |  |
+| 20 | 7% | 24% |  |
+| 21 | 3% | 17% |  |
+| 22 | 2% | 13% |  |
+| 23 | 3% | 11% |  |
+| 24 | 2% | 8% |  |
+| 25 | 5% | 5% |  |
+| 26 | 0.3% | 0.5% |  |
 | 27 | 0.1% | 0.2% |  |
 | 28 | 0.1% | 0.1% |  |
 | 29 | 0% | 0.1% |  |
