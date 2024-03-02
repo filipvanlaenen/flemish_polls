@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Flemish Parliament</title>
     <link>https://filipvanlaenen.github.io/flemish_polls</link>
     <description>All Registered Polls for the Flemish Parliament</description>
-    <pubDate>Wed, 21 Feb 2024 21:56:14 +0100</pubDate>
+    <pubDate>Sat, 02 Mar 2024 09:51:11 +0100</pubDate>
     <item>
       <title>Opinion Poll by Kantar for Knack and Le Vif, 22 January–8 February 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/flemish_polls/2024-02-08-Kantar.html#seats</link>
@@ -38,6 +38,36 @@
         type="image/png"/>
       <pubDate>Wed, 21 Feb 2024 21:56:14 +0100</pubDate>
       <dc:date>2024-02-21T21:56:14.826871+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar and Universiteit Antwerpen for De Standaard and VRT, 8–22 January 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/flemish_polls/2024-01-22-KantarandUniversiteitAntwerpen.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Christen-Democratisch en Vlaams: 11–14 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid van België: 11–14 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 33–39 seats&lt;/li&gt;&lt;li&gt;Vooruit: 15–19 seats&lt;/li&gt;&lt;li&gt;Groen: 7–12 seats&lt;/li&gt;&lt;li&gt;Open Vlaamse Liberalen en Democraten: 8–12 seats&lt;/li&gt;&lt;li&gt;Nieuw-Vlaamse Alliantie: 21–27 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2024-01-22-KantarandUniversiteitAntwerpen-seats.png"
+        length="218080"
+        type="image/png"/>
+      <pubDate>Sat, 02 Mar 2024 09:51:11 +0100</pubDate>
+      <dc:date>2024-03-02T09:51:11.428073+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar and Universiteit Antwerpen for De Standaard and VRT, 8–22 January 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/flemish_polls/2024-01-22-KantarandUniversiteitAntwerpen.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2024-01-22-KantarandUniversiteitAntwerpen-coalitions-seats.png"
+        length="510133"
+        type="image/png"/>
+      <pubDate>Sat, 02 Mar 2024 09:51:11 +0100</pubDate>
+      <dc:date>2024-03-02T09:51:11.428073+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar and Universiteit Antwerpen for De Standaard and VRT, 8–22 January 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/flemish_polls/2024-01-22-KantarandUniversiteitAntwerpen.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Christen-Democratisch en Vlaams: 9.9–12.8%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid van België: 9.6–12.4%&lt;/li&gt;&lt;li&gt;Vlaams Belang: 25.8–29.9%&lt;/li&gt;&lt;li&gt;Vooruit: 12.2–15.4%&lt;/li&gt;&lt;li&gt;Groen: 7.0–9.5%&lt;/li&gt;&lt;li&gt;Open Vlaamse Liberalen en Democraten: 7.8–10.4%&lt;/li&gt;&lt;li&gt;Nieuw-Vlaamse Alliantie: 17.2–20.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2024-01-22-KantarandUniversiteitAntwerpen.png"
+        length="258431"
+        type="image/png"/>
+      <pubDate>Sat, 02 Mar 2024 09:51:11 +0100</pubDate>
+      <dc:date>2024-03-02T09:51:11.428073+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 4–11 December 2023 – Seat Projections for the Parties</title>
@@ -220,36 +250,6 @@
       <dc:date>2023-03-31T21:07:01.455907+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by TNS for De Standaard and VRT, 13–23 March 2023 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/flemish_polls/2023-03-23-TNS.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Nieuw-Vlaamse Alliantie: 26–30 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch en Vlaams: 9–11 seats&lt;/li&gt;&lt;li&gt;Open Vlaamse Liberalen en Democraten: 8–13 seats&lt;/li&gt;&lt;li&gt;Vooruit: 19–25 seats&lt;/li&gt;&lt;li&gt;Groen: 7–11 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 29–35 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid van België: 8–13 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2023-03-23-TNS-seats.png"
-        length="215532"
-        type="image/png"/>
-      <pubDate>Fri, 12 May 2023 18:20:23 +0200</pubDate>
-      <dc:date>2023-05-12T18:20:23.889109+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by TNS for De Standaard and VRT, 13–23 March 2023 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/flemish_polls/2023-03-23-TNS.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2023-03-23-TNS-coalitions-seats.png"
-        length="518401"
-        type="image/png"/>
-      <pubDate>Fri, 12 May 2023 18:20:23 +0200</pubDate>
-      <dc:date>2023-05-12T18:20:23.889109+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by TNS for De Standaard and VRT, 13–23 March 2023 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/flemish_polls/2023-03-23-TNS.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Nieuw-Vlaamse Alliantie: 19.3–22.8%&lt;/li&gt;&lt;li&gt;Christen-Democratisch en Vlaams: 8.0–10.5%&lt;/li&gt;&lt;li&gt;Open Vlaamse Liberalen en Democraten: 8.1–10.6%&lt;/li&gt;&lt;li&gt;Vooruit: 15.3–18.5%&lt;/li&gt;&lt;li&gt;Groen: 6.8–9.1%&lt;/li&gt;&lt;li&gt;Vlaams Belang: 22.8–26.5%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid van België: 8.3–10.9%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2023-03-23-TNS.png"
-        length="252094"
-        type="image/png"/>
-      <pubDate>Fri, 12 May 2023 18:20:23 +0200</pubDate>
-      <dc:date>2023-05-12T18:20:23.889109+02:00</dc:date>
-    </item>
-    <item>
       <title>Opinion Poll by Kantar for La Libre Belgique and RTBf, 16–29 January 2023 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/flemish_polls/2023-01-29-Kantar.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Nieuw-Vlaamse Alliantie: 22–33 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch en Vlaams: 6–14 seats&lt;/li&gt;&lt;li&gt;Open Vlaamse Liberalen en Democraten: 11–19 seats&lt;/li&gt;&lt;li&gt;Vooruit: 15–25 seats&lt;/li&gt;&lt;li&gt;Groen: 10–19 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 26–38 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid van België: 0–8 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -370,36 +370,6 @@
       <dc:date>2022-06-19T21:46:22.778785+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by TNS for De Standaard and VRT, 14–31 March 2022 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/flemish_polls/2022-03-31-TNS.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Nieuw-Vlaamse Alliantie: 27–33 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch en Vlaams: 9–12 seats&lt;/li&gt;&lt;li&gt;Open Vlaamse Liberalen en Democraten: 11–15 seats&lt;/li&gt;&lt;li&gt;Vooruit: 18–24 seats&lt;/li&gt;&lt;li&gt;Groen: 11–15 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 27–34 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid van België: 8–13 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2022-03-31-TNS-seats.png"
-        length="198730"
-        type="image/png"/>
-      <pubDate>Fri, 06 May 2022 18:28:05 +0200</pubDate>
-      <dc:date>2022-05-06T18:28:05.497775+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by TNS for De Standaard and VRT, 14–31 March 2022 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/flemish_polls/2022-03-31-TNS.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2022-03-31-TNS-coalitions-seats.png"
-        length="516153"
-        type="image/png"/>
-      <pubDate>Fri, 06 May 2022 18:28:05 +0200</pubDate>
-      <dc:date>2022-05-06T18:28:05.497775+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by TNS for De Standaard and VRT, 14–31 March 2022 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/flemish_polls/2022-03-31-TNS.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Nieuw-Vlaamse Alliantie: 20.6–24.2%&lt;/li&gt;&lt;li&gt;Christen-Democratisch en Vlaams: 7.6–10.0%&lt;/li&gt;&lt;li&gt;Open Vlaamse Liberalen en Democraten: 9.0–11.6%&lt;/li&gt;&lt;li&gt;Vooruit: 14.0–17.1%&lt;/li&gt;&lt;li&gt;Groen: 8.2–10.7%&lt;/li&gt;&lt;li&gt;Vlaams Belang: 21.2–24.8%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid van België: 7.9–10.4%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2022-03-31-TNS.png"
-        length="254589"
-        type="image/png"/>
-      <pubDate>Fri, 06 May 2022 18:28:05 +0200</pubDate>
-      <dc:date>2022-05-06T18:28:05.497775+02:00</dc:date>
-    </item>
-    <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 15–22 March 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/flemish_polls/2022-03-22-Ipsos.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Nieuw-Vlaamse Alliantie: 27–35 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch en Vlaams: 11–16 seats&lt;/li&gt;&lt;li&gt;Open Vlaamse Liberalen en Democraten: 9–15 seats&lt;/li&gt;&lt;li&gt;Vooruit: 15–22 seats&lt;/li&gt;&lt;li&gt;Groen: 7–14 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 25–33 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid van België: 7–13 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -518,36 +488,6 @@
         type="image/png"/>
       <pubDate>Sat, 05 Jun 2021 10:49:42 +0200</pubDate>
       <dc:date>2021-06-05T10:49:42+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by TNS for De Standaard and VRT, 29 March–19 April 2021 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/flemish_polls/2021-04-19-TNS.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Nieuw-Vlaamse Alliantie: 27–31 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch en Vlaams: 10–13 seats&lt;/li&gt;&lt;li&gt;Open Vlaamse Liberalen en Democraten: 12–16 seats&lt;/li&gt;&lt;li&gt;Vooruit: 13–18 seats&lt;/li&gt;&lt;li&gt;Groen: 12–16 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 29–35 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid van België: 7–10 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2021-04-19-TNS-seats.png"
-        length="212407"
-        type="image/png"/>
-      <pubDate>Sat, 22 May 2021 10:00:57 +0200</pubDate>
-      <dc:date>2021-05-22T10:00:57+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by TNS for De Standaard and VRT, 29 March–19 April 2021 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/flemish_polls/2021-04-19-TNS.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2021-04-19-TNS-coalitions-seats.png"
-        length="486178"
-        type="image/png"/>
-      <pubDate>Sat, 22 May 2021 10:00:57 +0200</pubDate>
-      <dc:date>2021-05-22T10:00:57+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by TNS for De Standaard and VRT, 29 March–19 April 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/flemish_polls/2021-04-19-TNS.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Nieuw-Vlaamse Alliantie: 19.8–23.5%&lt;/li&gt;&lt;li&gt;Christen-Democratisch en Vlaams: 8.7–11.4%&lt;/li&gt;&lt;li&gt;Open Vlaamse Liberalen en Democraten: 10.2–13.0%&lt;/li&gt;&lt;li&gt;Vooruit: 10.6–13.5%&lt;/li&gt;&lt;li&gt;Groen: 9.6–12.4%&lt;/li&gt;&lt;li&gt;Vlaams Belang: 22.8–26.7%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid van België: 6.8–9.2%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2021-04-19-TNS.png"
-        length="253663"
-        type="image/png"/>
-      <pubDate>Sat, 22 May 2021 10:00:57 +0200</pubDate>
-      <dc:date>2021-05-22T10:00:57+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 4–9 March 2021 – Seat Projections for the Parties</title>
@@ -700,36 +640,6 @@
       <dc:date>2020-06-20T22:56:14+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by TNS for De Standaard, La Libre Belgique, RTBf and VRT, 9–28 April 2020 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/flemish_polls/2020-04-28-TNS.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Nieuw-Vlaamse Alliantie: 24–29 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch en Vlaams: 12–16 seats&lt;/li&gt;&lt;li&gt;Open Vlaamse Liberalen en Democraten: 12–16 seats&lt;/li&gt;&lt;li&gt;Vooruit: 11–15 seats&lt;/li&gt;&lt;li&gt;Groen: 12–17 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 29–34 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid van België: 7–11 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2020-04-28-TNS-seats.png"
-        length="220392"
-        type="image/png"/>
-      <pubDate>Sat, 23 May 2020 13:19:38 +0200</pubDate>
-      <dc:date>2020-05-23T13:19:38+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by TNS for De Standaard, La Libre Belgique, RTBf and VRT, 9–28 April 2020 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/flemish_polls/2020-04-28-TNS.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2020-04-28-TNS-coalitions-seats.png"
-        length="501602"
-        type="image/png"/>
-      <pubDate>Sat, 23 May 2020 13:19:38 +0200</pubDate>
-      <dc:date>2020-05-23T13:19:38+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by TNS for De Standaard, La Libre Belgique, RTBf and VRT, 9–28 April 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/flemish_polls/2020-04-28-TNS.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Nieuw-Vlaamse Alliantie: 18.5–22.2%&lt;/li&gt;&lt;li&gt;Christen-Democratisch en Vlaams: 10.5–13.5%&lt;/li&gt;&lt;li&gt;Open Vlaamse Liberalen en Democraten: 10.2–13.1%&lt;/li&gt;&lt;li&gt;Vooruit: 9.6–12.5%&lt;/li&gt;&lt;li&gt;Groen: 9.7–12.6%&lt;/li&gt;&lt;li&gt;Vlaams Belang: 22.6–26.5%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid van België: 7.0–9.5%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2020-04-28-TNS.png"
-        length="260165"
-        type="image/png"/>
-      <pubDate>Sat, 23 May 2020 13:19:38 +0200</pubDate>
-      <dc:date>2020-05-23T13:19:38+02:00</dc:date>
-    </item>
-    <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 4–9 March 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/flemish_polls/2020-03-09-Ipsos.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Nieuw-Vlaamse Alliantie: 23–31 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch en Vlaams: 11–17 seats&lt;/li&gt;&lt;li&gt;Open Vlaamse Liberalen en Democraten: 10–16 seats&lt;/li&gt;&lt;li&gt;Vooruit: 8–14 seats&lt;/li&gt;&lt;li&gt;Groen: 7–14 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 33–41 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid van België: 7–14 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -819,6 +729,6 @@
       <pubDate>Thu, 19 Dec 2019 09:48:37 +0100</pubDate>
       <dc:date>2019-12-19T09:48:37+01:00</dc:date>
     </item>
-    <dc:date>2024-02-21T21:56:14.826871+01:00</dc:date>
+    <dc:date>2024-03-02T09:51:11.428073+01:00</dc:date>
   </channel>
 </rss>
