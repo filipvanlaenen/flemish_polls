@@ -10,7 +10,8 @@ Last result: **10.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.7% | 12.4–15.3% | 12.0–15.8% | 11.8–16.3% | 11.2–17.1% |
+| N/A | [Poll Average](average.html) | 13.2% | 11.2–15.1% | 10.6–15.7% | 10.2–16.1% | 9.5–17.0% |
+| [11–18 March 2024](2024-03-18-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 11.4% | 10.2–12.8% | 9.9–13.2% | 9.6–13.5% | 9.0–14.2% |
 | [22 January–8 February 2024](2024-02-08-Kantar.html) | Kantar <br> Knack and Le Vif | 14.7% | 13.4–16.1% | 13.0–16.6% | 12.7–16.9% | 12.1–17.6% |
 | [9–22 January 2024](2024-01-22-iVOX.html) | iVOX <br> Vlaams & Neutraal Ziekenfonds | 12.8% | 11.9–13.8% | 11.6–14.1% | 11.4–14.3% | 11.0–14.8% |
 | [8–22 January 2024](2024-01-22-KantarandUniversiteitAntwerpen.html) | Kantar and Universiteit Antwerpen <br> De Standaard and VRT | 13.7% | 12.7–14.8% | 12.5–15.1% | 12.2–15.4% | 11.8–15.9% |
@@ -47,15 +48,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 9.5–10.5% | 0% | 100% | Last Result |
-| 10.5–11.5% | 1.4% | 100% |  |
-| 11.5–12.5% | 12% | 98.6% |  |
-| 12.5–13.5% | 30% | 86% |  |
-| 13.5–14.5% | 31% | 56% | Median |
-| 14.5–15.5% | 17% | 25% |  |
-| 15.5–16.5% | 6% | 8% |  |
-| 16.5–17.5% | 1.3% | 1.5% |  |
-| 17.5–18.5% | 0.2% | 0.2% |  |
+| 7.5–8.5% | 0% | 100% |  |
+| 8.5–9.5% | 0.6% | 100% |  |
+| 9.5–10.5% | 4% | 99.4% | Last Result |
+| 10.5–11.5% | 10% | 96% |  |
+| 11.5–12.5% | 18% | 85% |  |
+| 12.5–13.5% | 26% | 68% | Median |
+| 13.5–14.5% | 23% | 41% |  |
+| 14.5–15.5% | 12% | 18% |  |
+| 15.5–16.5% | 5% | 6% |  |
+| 16.5–17.5% | 1.1% | 1.2% |  |
+| 17.5–18.5% | 0.1% | 0.2% |  |
 | 18.5–19.5% | 0% | 0% |  |
 
 
@@ -67,7 +70,8 @@ Last result: **12** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 15–19 | 15–19 | 14–20 | 14–23 |
+| N/A | [Poll Average](average.html) | 16 | 14–19 | 13–19 | 12–20 | 11–23 |
+| [11–18 March 2024](2024-03-18-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 14 | 12–16 | 11–17 | 11–17 | 11–19 |
 | [22 January–8 February 2024](2024-02-08-Kantar.html) | Kantar <br> Knack and Le Vif | 19 | 17–20 | 16–21 | 15–23 | 14–24 |
 | [9–22 January 2024](2024-01-22-iVOX.html) | iVOX <br> Vlaams & Neutraal Ziekenfonds | 16 | 14–18 | 14–18 | 14–19 | 13–19 |
 | [8–22 January 2024](2024-01-22-KantarandUniversiteitAntwerpen.html) | Kantar and Universiteit Antwerpen <br> De Standaard and VRT | 17 | 16–19 | 15–19 | 15–19 | 14–19 |
@@ -106,18 +110,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 0% | 100% | Last Result |
-| 13 | 0.2% | 100% |  |
-| 14 | 4% | 99.8% |  |
-| 15 | 8% | 95% |  |
-| 16 | 23% | 87% |  |
-| 17 | 15% | 64% | Median |
-| 18 | 21% | 50% |  |
-| 19 | 25% | 29% |  |
-| 20 | 2% | 4% |  |
-| 21 | 0.8% | 2% |  |
-| 22 | 0.4% | 1.2% |  |
-| 23 | 0.5% | 0.8% |  |
+| 11 | 1.4% | 100% |  |
+| 12 | 1.5% | 98.6% | Last Result |
+| 13 | 3% | 97% |  |
+| 14 | 14% | 94% |  |
+| 15 | 10% | 80% |  |
+| 16 | 23% | 70% | Median |
+| 17 | 11% | 47% |  |
+| 18 | 15% | 36% |  |
+| 19 | 18% | 21% |  |
+| 20 | 1.5% | 3% |  |
+| 21 | 0.6% | 2% |  |
+| 22 | 0.3% | 1.0% |  |
+| 23 | 0.4% | 0.6% |  |
 | 24 | 0.2% | 0.3% |  |
 | 25 | 0.1% | 0.1% |  |
 | 26 | 0% | 0% |  |

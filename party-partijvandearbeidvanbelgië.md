@@ -10,7 +10,8 @@ Last result: **5.3%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.2% | 8.8–11.7% | 8.5–12.0% | 8.3–12.4% | 7.8–13.0% |
+| N/A | [Poll Average](average.html) | 10.2% | 8.8–11.7% | 8.5–12.0% | 8.2–12.4% | 7.7–13.0% |
+| [11–18 March 2024](2024-03-18-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 9.5% | 8.4–10.8% | 8.1–11.2% | 7.8–11.5% | 7.3–12.1% |
 | [22 January–8 February 2024](2024-02-08-Kantar.html) | Kantar <br> Knack and Le Vif | 10.9% | 9.7–12.2% | 9.4–12.5% | 9.1–12.9% | 8.6–13.5% |
 | [9–22 January 2024](2024-01-22-iVOX.html) | iVOX <br> Vlaams & Neutraal Ziekenfonds | 9.3% | 8.5–10.2% | 8.3–10.4% | 8.1–10.7% | 7.7–11.1% |
 | [8–22 January 2024](2024-01-22-KantarandUniversiteitAntwerpen.html) | Kantar and Universiteit Antwerpen <br> De Standaard and VRT | 10.9% | 10.0–11.9% | 9.8–12.2% | 9.6–12.4% | 9.1–12.9% |
@@ -49,11 +50,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0% | 100% | Last Result |
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.2% | 100% |  |
-| 7.5–8.5% | 5% | 99.8% |  |
-| 8.5–9.5% | 24% | 95% |  |
-| 9.5–10.5% | 32% | 71% | Median |
-| 10.5–11.5% | 28% | 40% |  |
+| 6.5–7.5% | 0.3% | 100% |  |
+| 7.5–8.5% | 6% | 99.7% |  |
+| 8.5–9.5% | 25% | 94% |  |
+| 9.5–10.5% | 31% | 69% | Median |
+| 10.5–11.5% | 27% | 38% |  |
 | 11.5–12.5% | 10% | 12% |  |
 | 12.5–13.5% | 2% | 2% |  |
 | 13.5–14.5% | 0.1% | 0.1% |  |
@@ -68,7 +69,8 @@ Last result: **4** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 10–14 | 9–14 | 9–14 | 8–17 |
+| N/A | [Poll Average](average.html) | 13 | 10–14 | 9–14 | 8–14 | 7–17 |
+| [11–18 March 2024](2024-03-18-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 12 | 9–13 | 8–14 | 8–14 | 7–14 |
 | [22 January–8 February 2024](2024-02-08-Kantar.html) | Kantar <br> Knack and Le Vif | 13 | 12–14 | 11–15 | 11–16 | 9–18 |
 | [9–22 January 2024](2024-01-22-iVOX.html) | iVOX <br> Vlaams & Neutraal Ziekenfonds | 11 | 9–13 | 9–13 | 8–13 | 7–14 |
 | [8–22 January 2024](2024-01-22-KantarandUniversiteitAntwerpen.html) | Kantar and Universiteit Antwerpen <br> De Standaard and VRT | 13 | 12–14 | 11–14 | 11–14 | 10–16 |
@@ -110,16 +112,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% | Last Result |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0.5% | 100% |  |
-| 8 | 1.4% | 99.5% |  |
-| 9 | 5% | 98% |  |
-| 10 | 4% | 93% |  |
-| 11 | 16% | 89% |  |
-| 12 | 18% | 73% |  |
-| 13 | 29% | 55% | Median |
-| 14 | 23% | 25% |  |
+| 7 | 0.7% | 100% |  |
+| 8 | 2% | 99.3% |  |
+| 9 | 5% | 97% |  |
+| 10 | 6% | 92% |  |
+| 11 | 16% | 86% |  |
+| 12 | 16% | 70% |  |
+| 13 | 30% | 55% | Median |
+| 14 | 22% | 24% |  |
 | 15 | 1.2% | 2% |  |
-| 16 | 0.6% | 1.3% |  |
+| 16 | 0.6% | 1.2% |  |
 | 17 | 0.4% | 0.6% |  |
 | 18 | 0.2% | 0.2% |  |
 | 19 | 0% | 0% |  |
