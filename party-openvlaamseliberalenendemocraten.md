@@ -69,7 +69,7 @@ Last result: **16** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 8–11 | 7–12 | 6–12 | 5–13 |
 | [11–18 March 2024](2024-03-18-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 10 | 8–12 | 7–12 | 7–12 | 6–13 |
-| [22 January–8 February 2024](2024-02-08-Kantar.html) | Kantar <br> Knack and Le Vif | 8 | 7–11 | 7–12 | 6–12 | 4–12 |
+| [22 January–8 February 2024](2024-02-08-Kantar.html) | Kantar <br> Knack and Le Vif | 8 | 7–11 | 7–11 | 6–12 | 4–12 |
 | [9–22 January 2024](2024-01-22-iVOX.html) | iVOX <br> Vlaams & Neutraal Ziekenfonds | 8 | 7–10 | 6–11 | 6–11 | 5–11 |
 | [8–22 January 2024](2024-01-22-KantarandUniversiteitAntwerpen.html) | Kantar and Universiteit Antwerpen <br> De Standaard and VRT | 10 | 8–12 | 8–12 | 8–12 | 8–13 |
 | [4–11 December 2023](2023-12-11-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 8 | 5–9 | 4–10 | 4–11 | 2–11 |
@@ -108,15 +108,15 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.2% | 100% |  |
-| 5 | 0.5% | 99.8% |  |
-| 6 | 2% | 99.3% |  |
-| 7 | 7% | 97% |  |
-| 8 | 34% | 91% |  |
-| 9 | 15% | 56% | Median |
-| 10 | 16% | 41% |  |
-| 11 | 15% | 25% |  |
-| 12 | 9% | 10% |  |
-| 13 | 0.6% | 0.7% |  |
+| 5 | 0.6% | 99.8% |  |
+| 6 | 2% | 99.2% |  |
+| 7 | 6% | 97% |  |
+| 8 | 36% | 91% |  |
+| 9 | 14% | 55% | Median |
+| 10 | 17% | 42% |  |
+| 11 | 16% | 25% |  |
+| 12 | 8% | 9% |  |
+| 13 | 0.6% | 0.8% |  |
 | 14 | 0.1% | 0.1% |  |
 | 15 | 0% | 0% |  |
 | 16 | 0% | 0% | Last Result |

@@ -71,11 +71,11 @@ Last result: **35** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27 | 24–30 | 23–31 | 22–32 | 21–33 |
+| N/A | [Poll Average](average.html) | 27 | 24–30 | 23–31 | 22–31 | 21–33 |
 | [11–18 March 2024](2024-03-18-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 27 | 25–29 | 24–30 | 23–30 | 22–32 |
-| [22 January–8 February 2024](2024-02-08-Kantar.html) | Kantar <br> Knack and Le Vif | 27 | 25–30 | 24–30 | 24–30 | 22–31 |
+| [22 January–8 February 2024](2024-02-08-Kantar.html) | Kantar <br> Knack and Le Vif | 27 | 25–30 | 24–30 | 23–30 | 22–31 |
 | [9–22 January 2024](2024-01-22-iVOX.html) | iVOX <br> Vlaams & Neutraal Ziekenfonds | 30 | 28–31 | 27–32 | 27–33 | 26–34 |
-| [8–22 January 2024](2024-01-22-KantarandUniversiteitAntwerpen.html) | Kantar and Universiteit Antwerpen <br> De Standaard and VRT | 24 | 22–26 | 22–27 | 21–27 | 21–27 |
+| [8–22 January 2024](2024-01-22-KantarandUniversiteitAntwerpen.html) | Kantar and Universiteit Antwerpen <br> De Standaard and VRT | 25 | 22–26 | 22–27 | 21–27 | 21–27 |
 | [4–11 December 2023](2023-12-11-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 29 | 27–31 | 26–32 | 26–32 | 24–35 |
 | [23–28 November 2023](2023-11-28-iVOX.html) | iVOX <br> Gazet van Antwerpen | 28 | 26–30 | 26–31 | 25–32 | 23–33 |
 | [10 September–9 October 2023](2023-10-09-Kantar.html) | Kantar <br> La Libre Belgique and RTBf | 26 | 24–30 | 22–31 | 22–31 | 21–33 |
@@ -111,19 +111,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 21 | 0.8% | 100% |  |
-| 22 | 3% | 99.2% |  |
+| 21 | 0.7% | 100% |  |
+| 22 | 3% | 99.3% |  |
 | 23 | 5% | 96% |  |
-| 24 | 8% | 91% |  |
-| 25 | 9% | 84% |  |
-| 26 | 17% | 75% |  |
-| 27 | 18% | 57% | Median |
+| 24 | 7% | 91% |  |
+| 25 | 10% | 85% |  |
+| 26 | 18% | 75% |  |
+| 27 | 18% | 56% | Median |
 | 28 | 9% | 39% |  |
-| 29 | 6% | 30% |  |
+| 29 | 7% | 30% |  |
 | 30 | 15% | 23% |  |
-| 31 | 6% | 8% |  |
-| 32 | 2% | 3% |  |
-| 33 | 0.4% | 0.7% |  |
+| 31 | 5% | 8% |  |
+| 32 | 2% | 2% |  |
+| 33 | 0.5% | 0.7% |  |
 | 34 | 0.2% | 0.3% |  |
 | 35 | 0% | 0.1% | Last Result |
 | 36 | 0% | 0% |  |

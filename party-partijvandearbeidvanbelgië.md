@@ -73,7 +73,7 @@ Last result: **4** seats (General Election of 26 May 2019)
 | [11–18 March 2024](2024-03-18-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 12 | 9–13 | 8–14 | 8–14 | 7–14 |
 | [22 January–8 February 2024](2024-02-08-Kantar.html) | Kantar <br> Knack and Le Vif | 13 | 12–14 | 11–15 | 11–16 | 9–18 |
 | [9–22 January 2024](2024-01-22-iVOX.html) | iVOX <br> Vlaams & Neutraal Ziekenfonds | 11 | 9–13 | 9–13 | 8–13 | 7–14 |
-| [8–22 January 2024](2024-01-22-KantarandUniversiteitAntwerpen.html) | Kantar and Universiteit Antwerpen <br> De Standaard and VRT | 13 | 12–14 | 11–14 | 11–14 | 10–16 |
+| [8–22 January 2024](2024-01-22-KantarandUniversiteitAntwerpen.html) | Kantar and Universiteit Antwerpen <br> De Standaard and VRT | 13 | 12–14 | 12–14 | 11–14 | 10–16 |
 | [4–11 December 2023](2023-12-11-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 12 | 9–14 | 9–14 | 8–14 | 7–15 |
 | [23–28 November 2023](2023-11-28-iVOX.html) | iVOX <br> Gazet van Antwerpen | 9 | 7–12 | 7–13 | 7–13 | 6–13 |
 | [10 September–9 October 2023](2023-10-09-Kantar.html) | Kantar <br> La Libre Belgique and RTBf | 11 | 7–13 | 7–14 | 7–14 | 5–14 |
@@ -116,10 +116,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 2% | 99.3% |  |
 | 9 | 5% | 97% |  |
 | 10 | 6% | 92% |  |
-| 11 | 16% | 86% |  |
-| 12 | 16% | 70% |  |
-| 13 | 30% | 55% | Median |
-| 14 | 22% | 24% |  |
+| 11 | 15% | 86% |  |
+| 12 | 16% | 71% |  |
+| 13 | 31% | 55% | Median |
+| 14 | 22% | 25% |  |
 | 15 | 1.2% | 2% |  |
 | 16 | 0.6% | 1.2% |  |
 | 17 | 0.4% | 0.6% |  |

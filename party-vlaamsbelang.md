@@ -73,11 +73,11 @@ Last result: **23** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 36 | 32–38 | 31–38 | 31–39 | 29–41 |
+| N/A | [Poll Average](average.html) | 36 | 32–38 | 31–38 | 30–39 | 29–41 |
 | [11–18 March 2024](2024-03-18-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 37 | 34–39 | 33–40 | 32–41 | 31–42 |
 | [22 January–8 February 2024](2024-02-08-Kantar.html) | Kantar <br> Knack and Le Vif | 33 | 31–36 | 30–37 | 29–37 | 28–38 |
 | [9–22 January 2024](2024-01-22-iVOX.html) | iVOX <br> Vlaams & Neutraal Ziekenfonds | 35 | 33–37 | 33–38 | 32–38 | 31–39 |
-| [8–22 January 2024](2024-01-22-KantarandUniversiteitAntwerpen.html) | Kantar and Universiteit Antwerpen <br> De Standaard and VRT | 37 | 34–38 | 34–38 | 33–39 | 31–41 |
+| [8–22 January 2024](2024-01-22-KantarandUniversiteitAntwerpen.html) | Kantar and Universiteit Antwerpen <br> De Standaard and VRT | 37 | 34–37 | 34–38 | 33–39 | 32–41 |
 | [4–11 December 2023](2023-12-11-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 33 | 30–36 | 30–37 | 29–37 | 28–38 |
 | [23–28 November 2023](2023-11-28-iVOX.html) | iVOX <br> Gazet van Antwerpen | 37 | 34–39 | 33–40 | 33–41 | 31–42 |
 | [10 September–9 October 2023](2023-10-09-Kantar.html) | Kantar <br> La Libre Belgique and RTBf | 30 | 27–34 | 25–35 | 25–36 | 23–37 |
@@ -121,17 +121,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 28 | 0.1% | 100% |  |
 | 29 | 0.8% | 99.9% |  |
 | 30 | 2% | 99.1% |  |
-| 31 | 4% | 98% |  |
-| 32 | 5% | 94% |  |
-| 33 | 9% | 88% |  |
+| 31 | 4% | 97% |  |
+| 32 | 5% | 93% |  |
+| 33 | 8% | 88% |  |
 | 34 | 13% | 80% |  |
 | 35 | 16% | 67% |  |
-| 36 | 19% | 51% | Median |
-| 37 | 21% | 32% |  |
-| 38 | 7% | 11% |  |
+| 36 | 20% | 52% | Median |
+| 37 | 22% | 32% |  |
+| 38 | 6% | 10% |  |
 | 39 | 2% | 4% |  |
 | 40 | 0.9% | 2% |  |
-| 41 | 0.7% | 1.0% |  |
+| 41 | 0.6% | 0.9% |  |
 | 42 | 0.3% | 0.3% |  |
 | 43 | 0% | 0% |  |
 
