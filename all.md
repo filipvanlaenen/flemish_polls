@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | N-VA | VB | CD&V | VLD | VOORUIT | GROEN | PVDA |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.8% <br> 35 | 18.5% <br> 23 | 15.4% <br> 19 | 13.1% <br> 16 | 10.1% <br> 12 | 10.1% <br> 14 | 5.3% <br> 4 |
+| [8–18 April 2024](2024-04-18-Kantar.html) | Kantar <br> La Libre Belgique and RTBf | 18–23% <br> 24–31 | 23–29% <br> 30–38 | 10–14% <br> 11–17 | 9–12% <br> 11–16 | 10–14% <br> 11–18 | 5–8% <br> 3–9 | 10–14% <br> 13–19 |
 | [11–18 March 2024](2024-03-18-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 18–23% <br> 23–30 | 25–30% <br> 32–41 | 11–15% <br> 13–19 | 7–10% <br> 7–12 | 10–14% <br> 11–17 | 6–10% <br> 6–13 | 8–11% <br> 8–14 |
 | [22 January–8 February 2024](2024-02-08-Kantar.html) | Kantar <br> Knack and Le Vif | 18–23% <br> 23–30 | 23–28% <br> 29–37 | 9–12% <br> 10–14 | 7–10% <br> 6–12 | 13–17% <br> 15–22 | 7–11% <br> 8–14 | 9–13% <br> 11–16 |
 | [9–22 January 2024](2024-01-22-iVOX.html) | iVOX <br> Vlaams & Neutraal Ziekenfonds | 21–25% <br> 27–33 | 25–29% <br> 32–38 | 11–14% <br> 12–17 | 7–9% <br> 6–11 | 11–14% <br> 14–19 | 6–9% <br> 6–11 | 8–11% <br> 8–13 |
