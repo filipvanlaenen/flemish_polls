@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Flemish Parliament</title>
     <link>https://filipvanlaenen.github.io/flemish_polls</link>
     <description>All Registered Polls for the Flemish Parliament</description>
-    <pubDate>Fri, 17 May 2024 15:50:00 +0200</pubDate>
+    <pubDate>Fri, 17 May 2024 16:03:22 +0200</pubDate>
     <item>
       <title>Opinion Poll by iVOX for Overlegcentrum van Vlaamse Verenigingen, 23 April–3 May 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/flemish_polls/2024-05-03-iVOX.html#seats</link>
@@ -16,18 +16,18 @@
       <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2024-05-03-iVOX-seats.png"
         length="226423"
         type="image/png"/>
-      <pubDate>Fri, 17 May 2024 15:50:00 +0200</pubDate>
-      <dc:date>2024-05-17T15:50:00.526934+02:00</dc:date>
+      <pubDate>Fri, 17 May 2024 16:03:22 +0200</pubDate>
+      <dc:date>2024-05-17T16:03:22.665687+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by iVOX for Overlegcentrum van Vlaamse Verenigingen, 23 April–3 May 2024 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/flemish_polls/2024-05-03-iVOX.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2024-05-03-iVOX-coalitions-seats.png"
-        length="521885"
+        length="524754"
         type="image/png"/>
-      <pubDate>Fri, 17 May 2024 15:50:00 +0200</pubDate>
-      <dc:date>2024-05-17T15:50:00.526934+02:00</dc:date>
+      <pubDate>Fri, 17 May 2024 16:03:22 +0200</pubDate>
+      <dc:date>2024-05-17T16:03:22.665687+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by iVOX for Overlegcentrum van Vlaamse Verenigingen, 23 April–3 May 2024 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2024-05-03-iVOX.png"
         length="260880"
         type="image/png"/>
-      <pubDate>Fri, 17 May 2024 15:50:00 +0200</pubDate>
-      <dc:date>2024-05-17T15:50:00.526934+02:00</dc:date>
+      <pubDate>Fri, 17 May 2024 16:03:22 +0200</pubDate>
+      <dc:date>2024-05-17T16:03:22.665687+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar for La Libre Belgique and RTBf, 8–18 April 2024 – Seat Projections for the Parties</title>
@@ -849,6 +849,6 @@
       <pubDate>Thu, 19 Dec 2019 09:48:37 +0100</pubDate>
       <dc:date>2019-12-19T09:48:37+01:00</dc:date>
     </item>
-    <dc:date>2024-05-17T15:50:00.526934+02:00</dc:date>
+    <dc:date>2024-05-17T16:03:22.665687+02:00</dc:date>
   </channel>
 </rss>
