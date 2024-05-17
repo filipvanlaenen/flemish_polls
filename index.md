@@ -5,11 +5,10 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | N-VA | VB | CD&V | VLD | VOORUIT | GROEN | PVDA |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.8% <br> 35 | 18.5% <br> 23 | 15.4% <br> 19 | 13.1% <br> 16 | 10.1% <br> 12 | 10.1% <br> 14 | 5.3% <br> 4 |
-| N/A | [Poll Average](average.html) | 18–24% <br> 22–32 | 24–30% <br> 32–39 | 10–15% <br> 11–17 | 7–12% <br> 7–15 | 10–15% <br> 12–19 | 5–9% <br> 5–12 | 8–14% <br> 8–18 |
+| N/A | [Poll Average](average.html) | 18–23% <br> 24–31 | 24–30% <br> 31–39 | 10–15% <br> 11–18 | 7–12% <br> 7–15 | 10–15% <br> 11–19 | 5–10% <br> 5–13 | 8–14% <br> 7–18 |
+| [23 April–3 May 2024](2024-05-03-iVOX.html) | iVOX <br> Overlegcentrum van Vlaamse Verenigingen | 19–24% <br> 26–31 | 24–29% <br> 31–38 | 11–14% <br> 12–17 | 6–9% <br> 6–11 | 12–15% <br> 14–20 | 7–10% <br> 7–13 | 7–10% <br> 7–13 |
 | [8–18 April 2024](2024-04-18-Kantar.html) | Kantar <br> La Libre Belgique and RTBf | 18–23% <br> 24–31 | 23–29% <br> 30–38 | 10–14% <br> 11–17 | 9–12% <br> 11–16 | 10–14% <br> 11–18 | 5–8% <br> 3–9 | 10–14% <br> 13–19 |
 | [11–18 March 2024](2024-03-18-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 18–23% <br> 23–30 | 25–30% <br> 32–41 | 11–15% <br> 13–19 | 7–10% <br> 7–12 | 10–14% <br> 11–17 | 6–10% <br> 6–13 | 8–11% <br> 8–14 |
-| [9–22 January 2024](2024-01-22-iVOX.html) | iVOX <br> Vlaams & Neutraal Ziekenfonds | 21–25% <br> 27–33 | 25–29% <br> 32–38 | 11–14% <br> 12–17 | 7–9% <br> 6–11 | 11–14% <br> 14–19 | 6–9% <br> 6–11 | 8–11% <br> 8–13 |
-| [8–22 January 2024](2024-01-22-KantarandUniversiteitAntwerpen.html) | Kantar and Universiteit Antwerpen <br> De Standaard and VRT | 17–21% <br> 21–27 | 26–30% <br> 33–39 | 10–13% <br> 11–14 | 8–10% <br> 8–12 | 12–15% <br> 15–19 | 7–10% <br> 7–12 | 10–12% <br> 11–14 |
 | 26 May 2019 | General Election | 24.8% <br> 35 | 18.5% <br> 23 | 15.4% <br> 19 | 13.1% <br> 16 | 10.1% <br> 12 | 10.1% <br> 14 | 5.3% <br> 4 |
 
 Only polls for which at least the sample size has been published are included in the table above.
