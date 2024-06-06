@@ -6,6 +6,30 @@
     <description>All Registered Polls for the Flemish Parliament</description>
     <pubDate>Sat, 4 May 2024 22:39:42 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws and VTM, 3–4 June 2024 – Seating Plan Projection</title>
+      <link>null/2024-06-04-Ipsos.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the Flemish Parliament<br/>63 seats needed for a majority<br/>Opinion poll by Ipsos for Het Laatste Nieuws and VTM, 3–4 June 2024<br/>Details on null/2024-06-04-Ipsos.html<br/><img src="null/2024-06-04-Ipsos-seating-plan.png"/>]]></description>
+      <enclosure url="null/2024-06-04-Ipsos-seating-plan.png" length="498241" type="image/png"/>
+      <pubDate>Thu, 6 Jun 2024 20:12:49 +0200</pubDate>
+      <dc:date>2024-06-06T20:12:49.553160938+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws and VTM, 3–4 June 2024 – Seat Projections</title>
+      <link>null/2024-06-04-Ipsos.html#seats</link>
+      <description><![CDATA[Seat projections for the Flemish Parliament<br/>63 seats needed for a majority<br/>Opinion poll by Ipsos for Het Laatste Nieuws and VTM, 3–4 June 2024<br/>Details on null/2024-06-04-Ipsos.html<br/><img src="null/2024-06-04-Ipsos-seats.png"/>]]></description>
+      <enclosure url="null/2024-06-04-Ipsos-seats.png" length="208814" type="image/png"/>
+      <pubDate>Thu, 6 Jun 2024 20:12:49 +0200</pubDate>
+      <dc:date>2024-06-06T20:12:49.553160938+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws and VTM, 3–4 June 2024 – Voting Intentions</title>
+      <link>null/2024-06-04-Ipsos.html</link>
+      <description><![CDATA[Voting intentions for the Flemish Parliament<br/>Opinion poll by Ipsos for Het Laatste Nieuws and VTM, 3–4 June 2024<br/>Details on null/2024-06-04-Ipsos.html<br/><img src="null/2024-06-04-Ipsos.png"/>]]></description>
+      <enclosure url="null/2024-06-04-Ipsos.png" length="245525" type="image/png"/>
+      <pubDate>Thu, 6 Jun 2024 20:12:49 +0200</pubDate>
+      <dc:date>2024-06-06T20:12:49.553160938+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Cluster17 for RTL TVi, 28–31 May 2024 – Seating Plan Projection</title>
       <link>null/2024-05-31-Cluster17.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Flemish Parliament<br/>63 seats needed for a majority<br/>Opinion poll by Cluster17 for RTL TVi, 28–31 May 2024<br/>Details on null/2024-05-31-Cluster17.html<br/><img src="null/2024-05-31-Cluster17-seating-plan.png"/>]]></description>
@@ -220,30 +244,6 @@
       <enclosure url="null/2023-12-11-Ipsos.png" length="275874" type="image/png"/>
       <pubDate>Fri, 15 Dec 2023 21:00:12 +0100</pubDate>
       <dc:date>2023-12-15T21:00:12.323117843+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by iVOX for Gazet van Antwerpen, 23–28 November 2023 – Seating Plan Projection</title>
-      <link>null/2023-11-28-iVOX.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Flemish Parliament<br/>63 seats needed for a majority<br/>Opinion poll by iVOX for Gazet van Antwerpen, 23–28 November 2023<br/>Details on null/2023-11-28-iVOX.html<br/><img src="null/2023-11-28-iVOX-seating-plan.png"/>]]></description>
-      <enclosure url="null/2023-11-28-iVOX-seating-plan.png" length="507929" type="image/png"/>
-      <pubDate>Mon, 4 Dec 2023 21:28:27 +0100</pubDate>
-      <dc:date>2023-12-04T21:28:27.308598621+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by iVOX for Gazet van Antwerpen, 23–28 November 2023 – Seat Projections</title>
-      <link>null/2023-11-28-iVOX.html#seats</link>
-      <description><![CDATA[Seat projections for the Flemish Parliament<br/>63 seats needed for a majority<br/>Opinion poll by iVOX for Gazet van Antwerpen, 23–28 November 2023<br/>Details on null/2023-11-28-iVOX.html<br/><img src="null/2023-11-28-iVOX-seats.png"/>]]></description>
-      <enclosure url="null/2023-11-28-iVOX-seats.png" length="217843" type="image/png"/>
-      <pubDate>Mon, 4 Dec 2023 21:28:27 +0100</pubDate>
-      <dc:date>2023-12-04T21:28:27.308598621+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by iVOX for Gazet van Antwerpen, 23–28 November 2023 – Voting Intentions</title>
-      <link>null/2023-11-28-iVOX.html</link>
-      <description><![CDATA[Voting intentions for the Flemish Parliament<br/>Opinion poll by iVOX for Gazet van Antwerpen, 23–28 November 2023<br/>Details on null/2023-11-28-iVOX.html<br/><img src="null/2023-11-28-iVOX.png"/>]]></description>
-      <enclosure url="null/2023-11-28-iVOX.png" length="266055" type="image/png"/>
-      <pubDate>Mon, 4 Dec 2023 21:28:27 +0100</pubDate>
-      <dc:date>2023-12-04T21:28:27.308598621+01:00</dc:date>
     </item>
   </channel>
 </rss>
