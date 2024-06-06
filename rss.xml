@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Flemish Parliament</title>
     <link>https://filipvanlaenen.github.io/flemish_polls</link>
     <description>All Registered Polls for the Flemish Parliament</description>
-    <pubDate>Wed, 05 Jun 2024 18:04:17 +0200</pubDate>
+    <pubDate>Thu, 06 Jun 2024 20:12:49 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws and VTM, 3–4 June 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/flemish_polls/2024-06-04-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Christen-Democratisch en Vlaams: 12–17 seats&lt;/li&gt;&lt;li&gt;Vooruit: 18–24 seats&lt;/li&gt;&lt;li&gt;Groen: 5–8 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid van België: 11–14 seats&lt;/li&gt;&lt;li&gt;Nieuw-Vlaamse Alliantie: 26–30 seats&lt;/li&gt;&lt;li&gt;Open Vlaamse Liberalen en Democraten: 5–10 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 31–37 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2024-06-04-Ipsos-seats.png"
+        length="208814"
+        type="image/png"/>
+      <pubDate>Thu, 06 Jun 2024 20:12:49 +0200</pubDate>
+      <dc:date>2024-06-06T20:12:49.55316+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws and VTM, 3–4 June 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/flemish_polls/2024-06-04-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2024-06-04-Ipsos-coalitions-seats.png"
+        length="498517"
+        type="image/png"/>
+      <pubDate>Thu, 06 Jun 2024 20:12:49 +0200</pubDate>
+      <dc:date>2024-06-06T20:12:49.55316+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws and VTM, 3–4 June 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/flemish_polls/2024-06-04-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Christen-Democratisch en Vlaams: 10.9–13.8%&lt;/li&gt;&lt;li&gt;Vooruit: 14.1–17.3%&lt;/li&gt;&lt;li&gt;Groen: 5.1–7.2%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid van België: 8.9–11.6%&lt;/li&gt;&lt;li&gt;Nieuw-Vlaamse Alliantie: 19.3–22.8%&lt;/li&gt;&lt;li&gt;Open Vlaamse Liberalen en Democraten: 6.0–8.2%&lt;/li&gt;&lt;li&gt;Vlaams Belang: 23.9–27.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2024-06-04-Ipsos.png"
+        length="245525"
+        type="image/png"/>
+      <pubDate>Thu, 06 Jun 2024 20:12:49 +0200</pubDate>
+      <dc:date>2024-06-06T20:12:49.55316+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Cluster17 for RTL TVi, 28–31 May 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/flemish_polls/2024-05-31-Cluster17.html#seats</link>
@@ -909,6 +939,6 @@
       <pubDate>Thu, 19 Dec 2019 09:48:37 +0100</pubDate>
       <dc:date>2019-12-19T09:48:37+01:00</dc:date>
     </item>
-    <dc:date>2024-06-05T18:04:17.5417+02:00</dc:date>
+    <dc:date>2024-06-06T20:12:49.55316+02:00</dc:date>
   </channel>
 </rss>
