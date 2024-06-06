@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/flemish_polls</id>
   <title>All Registered Polls for the Flemish Parliament</title>
-  <updated>2024-06-05T18:04:17.5417+02:00</updated>
+  <updated>2024-06-06T20:12:49.55316+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Christen-Democratisch en Vlaams: 10.9–13.8%, 12–17 seats</li><li>Vooruit: 14.1–17.3%, 18–24 seats</li><li>Groen: 5.1–7.2%, 5–8 seats</li><li>Partij van de Arbeid van België: 8.9–11.6%, 11–14 seats</li><li>Nieuw-Vlaamse Alliantie: 19.3–22.8%, 26–30 seats</li><li>Open Vlaamse Liberalen en Democraten: 6.0–8.2%, 5–10 seats</li><li>Vlaams Belang: 23.9–27.8%, 31–37 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/flemish_polls/2024-06-04-Ipsos.html</id>
+    <link href="https://filipvanlaenen.github.io/flemish_polls/2024-06-04-Ipsos.html"/>
+    <title>Opinion Poll by Ipsos for Het Laatste Nieuws and VTM, 3–4 June 2024</title>
+    <updated>2024-06-06T20:12:49.55316+02:00</updated>
+    <dc:date>2024-06-06T20:12:49.55316+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Christen-Democratisch en Vlaams: 10.3–14.0%, 11–17 seats</li><li>Vooruit: 11.2–15.1%, 14–19 seats</li><li>Groen: 5.6–8.6%, 5–11 seats</li><li>Partij van de Arbeid van België: 7.7–11.1%, 7–14 seats</li><li>Nieuw-Vlaamse Alliantie: 17.4–22.0%, 22–30 seats</li><li>Open Vlaamse Liberalen en Democraten: 7.7–11.0%, 8–14 seats</li><li>Vlaams Belang: 24.7–29.9%, 33–41 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/flemish_polls/2024-05-31-Cluster17.html</id>
@@ -247,5 +255,5 @@
     <updated>2019-12-19T09:48:37+01:00</updated>
     <dc:date>2019-12-19T09:48:37+01:00</dc:date>
   </entry>
-  <dc:date>2024-06-05T18:04:17.5417+02:00</dc:date>
+  <dc:date>2024-06-06T20:12:49.55316+02:00</dc:date>
 </feed>
