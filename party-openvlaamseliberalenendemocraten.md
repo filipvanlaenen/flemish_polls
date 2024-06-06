@@ -10,7 +10,8 @@ Last result: **13.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.7% | 7.4–10.8% | 7.1–11.3% | 6.8–11.8% | 6.4–12.6% |
+| N/A | [Poll Average](average.html) | 8.4% | 6.8–10.8% | 6.5–11.3% | 6.3–11.8% | 5.9–12.6% |
+| [3–4 June 2024](2024-06-04-Ipsos.html) | Ipsos <br> Het Laatste Nieuws and VTM | 7.0% | 6.3–7.8% | 6.1–8.0% | 6.0–8.2% | 5.6–8.6% |
 | [28–31 May 2024](2024-05-31-Cluster17.html) | Cluster17 <br> RTL TVi | 9.2% | 8.2–10.4% | 7.9–10.7% | 7.7–11.0% | 7.2–11.6% |
 | [14–20 May 2024](2024-05-20-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 8.2% | 7.5–9.0% | 7.3–9.3% | 7.1–9.5% | 6.7–9.9% |
 | [23 April–3 May 2024](2024-05-03-iVOX.html) | iVOX <br> Overlegcentrum van Vlaamse Verenigingen | 7.7% | 6.9–8.6% | 6.6–8.9% | 6.4–9.1% | 6.1–9.6% |
@@ -52,12 +53,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 1.0% | 100% |  |
-| 6.5–7.5% | 13% | 99.0% |  |
-| 7.5–8.5% | 31% | 86% |  |
-| 8.5–9.5% | 24% | 55% | Median |
-| 9.5–10.5% | 17% | 31% |  |
+| 4.5–5.5% | 0.1% | 100% |  |
+| 5.5–6.5% | 6% | 99.9% |  |
+| 6.5–7.5% | 25% | 94% |  |
+| 7.5–8.5% | 22% | 69% | Median |
+| 8.5–9.5% | 17% | 48% |  |
+| 9.5–10.5% | 17% | 30% |  |
 | 10.5–11.5% | 10% | 14% |  |
 | 11.5–12.5% | 3% | 4% |  |
 | 12.5–13.5% | 0.5% | 0.5% | Last Result |
@@ -72,7 +73,8 @@ Last result: **16** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 8–13 | 8–14 | 7–15 | 6–16 |
+| N/A | [Poll Average](average.html) | 10 | 7–13 | 6–14 | 6–15 | 5–16 |
+| [3–4 June 2024](2024-06-04-Ipsos.html) | Ipsos <br> Het Laatste Nieuws and VTM | 8 | 6–8 | 5–9 | 5–10 | 4–11 |
 | [28–31 May 2024](2024-05-31-Cluster17.html) | Cluster17 <br> RTL TVi | 11 | 9–13 | 8–13 | 8–14 | 8–15 |
 | [14–20 May 2024](2024-05-20-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 10 | 8–11 | 8–12 | 8–12 | 7–12 |
 | [23 April–3 May 2024](2024-05-03-iVOX.html) | iVOX <br> Overlegcentrum van Vlaamse Verenigingen | 8 | 7–10 | 7–11 | 6–11 | 5–12 |
@@ -116,14 +118,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0.2% | 100% |  |
-| 6 | 0.7% | 99.7% |  |
-| 7 | 3% | 99.0% |  |
-| 8 | 19% | 96% |  |
-| 9 | 13% | 77% |  |
-| 10 | 10% | 64% |  |
-| 11 | 19% | 54% | Median |
-| 12 | 21% | 35% |  |
+| 4 | 0.4% | 100% |  |
+| 5 | 1.3% | 99.5% |  |
+| 6 | 4% | 98% |  |
+| 7 | 10% | 95% |  |
+| 8 | 25% | 84% |  |
+| 9 | 7% | 59% |  |
+| 10 | 5% | 52% | Median |
+| 11 | 13% | 47% |  |
+| 12 | 20% | 34% |  |
 | 13 | 5% | 14% |  |
 | 14 | 5% | 9% |  |
 | 15 | 3% | 4% |  |
