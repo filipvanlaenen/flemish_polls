@@ -12,7 +12,7 @@ Last result: **13.0%** (General Election of 9 June 2024)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13.3% | 12.0–14.8% | 11.7–15.2% | 11.3–15.6% | 10.7–16.3% |
 | [18–21 November 2024](2024-11-21-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 13.3% | 12.0–14.8% | 11.6–15.2% | 11.3–15.6% | 10.7–16.3% |
-| [11–17 September 2024](2024-09-17-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 11.3% | 10.1–12.7% | 9.7–13.1% | 9.5–13.4% | 8.9–14.1% |
+| [11–17 September 2024](2024-09-17-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 11.3% | 10.1–12.7% | 9.8–13.1% | 9.5–13.4% | 8.9–14.1% |
 
 ### Probability Mass Function
 
@@ -57,12 +57,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 4% | 97% |  |
 | 14 | 5% | 94% |  |
 | 15 | 8% | 89% |  |
-| 16 | 45% | 81% | Last Result, Median |
-| 17 | 21% | 36% |  |
-| 18 | 9% | 15% |  |
+| 16 | 44% | 81% | Last Result, Median |
+| 17 | 23% | 37% |  |
+| 18 | 8% | 14% |  |
 | 19 | 5% | 6% |  |
-| 20 | 0.9% | 1.3% |  |
-| 21 | 0.2% | 0.3% |  |
+| 20 | 1.0% | 1.3% |  |
+| 21 | 0.3% | 0.4% |  |
 | 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |
 
