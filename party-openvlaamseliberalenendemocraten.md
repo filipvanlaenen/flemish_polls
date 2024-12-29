@@ -38,8 +38,8 @@ Last result: **9** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–9 | 5–10 | 3–11 | 2–12 |
-| [18–21 November 2024](2024-11-21-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 6 | 5–9 | 5–10 | 3–11 | 2–12 |
+| N/A | [Poll Average](average.html) | 7 | 5–10 | 5–11 | 4–12 | 3–12 |
+| [18–21 November 2024](2024-11-21-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 7 | 5–10 | 5–11 | 4–12 | 3–12 |
 | [11–17 September 2024](2024-09-17-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 6 | 5–9 | 4–10 | 3–11 | 2–12 |
 
 ### Probability Mass Function
@@ -50,17 +50,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.6% | 100% |  |
-| 3 | 2% | 99.4% |  |
-| 4 | 0.7% | 97% |  |
-| 5 | 13% | 97% |  |
-| 6 | 34% | 83% | Median |
-| 7 | 21% | 49% |  |
-| 8 | 9% | 28% |  |
-| 9 | 10% | 19% | Last Result |
-| 10 | 4% | 9% |  |
-| 11 | 2% | 5% |  |
-| 12 | 2% | 2% |  |
+| 2 | 0.5% | 100% |  |
+| 3 | 2% | 99.5% |  |
+| 4 | 0.8% | 98% |  |
+| 5 | 12% | 97% |  |
+| 6 | 30% | 85% |  |
+| 7 | 22% | 55% | Median |
+| 8 | 11% | 33% |  |
+| 9 | 9% | 22% | Last Result |
+| 10 | 7% | 13% |  |
+| 11 | 4% | 6% |  |
+| 12 | 3% | 3% |  |
 | 13 | 0% | 0% |  |
 
 
