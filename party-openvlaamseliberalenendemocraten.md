@@ -22,12 +22,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 2% | 100% |  |
-| 4.5–5.5% | 23% | 98% |  |
-| 5.5–6.5% | 50% | 75% | Median |
+| 3.5–4.5% | 1.5% | 100% |  |
+| 4.5–5.5% | 23% | 98.5% |  |
+| 5.5–6.5% | 50% | 76% | Median |
 | 6.5–7.5% | 23% | 26% |  |
 | 7.5–8.5% | 3% | 3% | Last Result |
-| 8.5–9.5% | 0.1% | 0.1% |  |
+| 8.5–9.5% | 0.1% | 0.2% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
 
@@ -39,8 +39,8 @@ Last result: **9** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 2–6 | 2–6 | 2–7 | 1–10 |
-| [4–11 March 2025](2025-03-11-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 5 | 2–6 | 2–6 | 2–7 | 1–10 |
+| N/A | [Poll Average](average.html) | 5 | 2–7 | 2–7 | 2–8 | 1–10 |
+| [4–11 March 2025](2025-03-11-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 5 | 2–7 | 2–7 | 2–8 | 1–10 |
 | [18–21 November 2024](2024-11-21-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 7 | 5–10 | 5–11 | 4–12 | 3–12 |
 | [11–17 September 2024](2024-09-17-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 6 | 5–9 | 4–10 | 3–11 | 2–12 |
 
@@ -53,16 +53,17 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.6% | 100% |  |
-| 2 | 15% | 99.4% |  |
-| 3 | 16% | 84% |  |
-| 4 | 6% | 68% |  |
-| 5 | 33% | 62% | Median |
-| 6 | 24% | 29% |  |
-| 7 | 3% | 5% |  |
-| 8 | 1.4% | 2% |  |
-| 9 | 0.2% | 0.8% | Last Result |
-| 10 | 0.5% | 0.6% |  |
-| 11 | 0% | 0.1% |  |
-| 12 | 0% | 0% |  |
+| 2 | 14% | 99.4% |  |
+| 3 | 15% | 85% |  |
+| 4 | 5% | 70% |  |
+| 5 | 36% | 65% | Median |
+| 6 | 18% | 29% |  |
+| 7 | 7% | 11% |  |
+| 8 | 2% | 4% |  |
+| 9 | 1.4% | 2% | Last Result |
+| 10 | 0.4% | 0.6% |  |
+| 11 | 0.1% | 0.2% |  |
+| 12 | 0.1% | 0.1% |  |
+| 13 | 0% | 0% |  |
 
 
