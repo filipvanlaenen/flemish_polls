@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/flemish_polls</id>
   <title>All Registered Polls for the Flemish Parliament</title>
-  <updated>2025-03-15T13:12:14.842657+01:00</updated>
+  <updated>2025-05-23T21:10:48.708203+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Vlaams Belang: 18.9–22.3%, 25–31 seats</li><li>Groen: 6.3–8.5%, 7–12 seats</li><li>Vooruit: 13.3–16.3%, 17–21 seats</li><li>Partij van de Arbeid van België: 7.8–10.2%, 7–13 seats</li><li>Christen-Democratisch en Vlaams: 12.3–15.2%, 15–19 seats</li><li>Team Fouad Ahidar: 0.0–0.3%, 0–1 seats</li><li>Nieuw-Vlaamse Alliantie: 25.1–28.8%, 34–39 seats</li><li>Open Vlaamse Liberalen en Democraten: 4.8–6.8%, 2–7 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/flemish_polls/2025-03-24-BpactandUniversiteitAntwerpenULB.html</id>
+    <link href="https://filipvanlaenen.github.io/flemish_polls/2025-03-24-BpactandUniversiteitAntwerpenULB.html"/>
+    <title>Opinion Poll by Bpact and Universiteit Antwerpen &amp; ULB for De Standaard, RTBF and VRT, 3–24 March 2025</title>
+    <updated>2025-05-23T21:10:48.708203+02:00</updated>
+    <dc:date>2025-05-23T21:10:48.708203+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Vlaams Belang: 23.1–28.5%, 30–37 seats</li><li>Groen: 5.2–8.3%, 4–11 seats</li><li>Vooruit: 12.3–16.6%, 15–22 seats</li><li>Partij van de Arbeid van België: 8.3–12.0%, 10–15 seats</li><li>Christen-Democratisch en Vlaams: 9.8–13.9%, 11–16 seats</li><li>Team Fouad Ahidar: 0.0–0.6%, 0–2 seats</li><li>Open Vlaamse Liberalen en Democraten: 4.7–7.7%, 2–8 seats</li><li>Nieuw-Vlaamse Alliantie: 22.9–28.3%, 30–38 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/flemish_polls/2025-03-11-Ipsos.html</id>
@@ -31,5 +39,5 @@
     <updated>2024-12-29T18:55:37.409042+01:00</updated>
     <dc:date>2024-12-29T18:55:37.409042+01:00</dc:date>
   </entry>
-  <dc:date>2025-03-15T13:12:14.842657+01:00</dc:date>
+  <dc:date>2025-05-23T21:10:48.708203+02:00</dc:date>
 </feed>
