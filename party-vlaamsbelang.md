@@ -10,7 +10,8 @@ Last result: **22.7%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.5% | 19.8–24.0% | 19.4–24.6% | 19.2–25.1% | 18.6–26.0% |
+| N/A | [Poll Average](average.html) | 26.7% | 25.0–28.6% | 24.5–29.1% | 24.1–29.5% | 23.2–30.4% |
+| [16–23 September 2025](2025-09-23-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 26.7% | 25.0–28.6% | 24.5–29.1% | 24.1–29.5% | 23.2–30.4% |
 | [27 May–3 June 2025](2025-06-03-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 22.8% | 21.2–24.6% | 20.7–25.1% | 20.3–25.5% | 19.5–26.4% |
 | [3–24 March 2025](2025-03-24-BpactandUniversiteitAntwerpenULB.html) | Bpact and Universiteit Antwerpen & ULB <br> De Standaard, RTBF and VRT | 20.5% | 19.5–21.7% | 19.2–22.0% | 18.9–22.3% | 18.4–22.8% |
 | [4–11 March 2025](2025-03-11-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 25.7% | 24.0–27.5% | 23.5–28.1% | 23.1–28.5% | 22.3–29.4% |
@@ -23,18 +24,18 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 16.5–17.5% | 0% | 100% |  |
-| 17.5–18.5% | 0.4% | 100% |  |
-| 18.5–19.5% | 6% | 99.6% |  |
-| 19.5–20.5% | 20% | 94% |  |
-| 20.5–21.5% | 25% | 73% | Median |
-| 21.5–22.5% | 18% | 48% |  |
-| 22.5–23.5% | 15% | 30% | Last Result |
-| 23.5–24.5% | 10% | 15% |  |
-| 24.5–25.5% | 4% | 5% |  |
-| 25.5–26.5% | 1.0% | 1.2% |  |
-| 26.5–27.5% | 0.2% | 0.2% |  |
-| 27.5–28.5% | 0% | 0% |  |
+| 20.5–21.5% | 0% | 100% |  |
+| 21.5–22.5% | 0.1% | 100% |  |
+| 22.5–23.5% | 0.9% | 99.9% | Last Result |
+| 23.5–24.5% | 5% | 99.0% |  |
+| 24.5–25.5% | 14% | 94% |  |
+| 25.5–26.5% | 25% | 80% |  |
+| 26.5–27.5% | 27% | 55% | Median |
+| 27.5–28.5% | 18% | 28% |  |
+| 28.5–29.5% | 8% | 10% |  |
+| 29.5–30.5% | 2% | 2% |  |
+| 30.5–31.5% | 0.4% | 0.4% |  |
+| 31.5–32.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -45,7 +46,8 @@ Last result: **31** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29 | 26–32 | 26–32 | 25–33 | 24–34 |
+| N/A | [Poll Average](average.html) | 36 | 32–38 | 32–39 | 31–39 | 30–41 |
+| [16–23 September 2025](2025-09-23-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 36 | 32–38 | 32–39 | 31–39 | 30–41 |
 | [27 May–3 June 2025](2025-06-03-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 31 | 27–32 | 26–33 | 26–33 | 25–35 |
 | [3–24 March 2025](2025-03-24-BpactandUniversiteitAntwerpenULB.html) | Bpact and Universiteit Antwerpen & ULB <br> De Standaard, RTBF and VRT | 27 | 26–30 | 25–30 | 25–31 | 24–31 |
 | [4–11 March 2025](2025-03-11-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 34 | 31–36 | 31–37 | 30–37 | 29–40 |
@@ -60,21 +62,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 22 | 0.1% | 100% |  |
-| 23 | 0.1% | 99.9% |  |
-| 24 | 0.5% | 99.8% |  |
-| 25 | 3% | 99.3% |  |
-| 26 | 20% | 96% |  |
-| 27 | 12% | 76% |  |
-| 28 | 11% | 63% |  |
-| 29 | 12% | 53% | Median |
-| 30 | 12% | 41% |  |
-| 31 | 10% | 29% | Last Result |
-| 32 | 14% | 18% |  |
-| 33 | 3% | 4% |  |
-| 34 | 0.6% | 1.0% |  |
-| 35 | 0.3% | 0.4% |  |
-| 36 | 0.1% | 0.1% |  |
-| 37 | 0% | 0% |  |
+| 29 | 0.1% | 100% |  |
+| 30 | 0.7% | 99.9% |  |
+| 31 | 2% | 99.2% | Last Result |
+| 32 | 13% | 97% |  |
+| 33 | 5% | 85% |  |
+| 34 | 12% | 80% |  |
+| 35 | 13% | 68% |  |
+| 36 | 24% | 54% | Median |
+| 37 | 20% | 31% |  |
+| 38 | 5% | 11% |  |
+| 39 | 3% | 6% |  |
+| 40 | 2% | 2% |  |
+| 41 | 0.7% | 0.8% |  |
+| 42 | 0.1% | 0.1% |  |
+| 43 | 0% | 0% |  |
 
 
