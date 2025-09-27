@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/flemish_polls</id>
   <title>All Registered Polls for the Flemish Parliament</title>
-  <updated>2025-09-27T11:23:14.779207+02:00</updated>
+  <updated>2025-09-27T13:15:40.879345+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Vlaams Belang: 24.1–29.5%, 31–39 seats</li><li>Groen: 5.8–9.1%, 6–12 seats</li><li>Vooruit: 11.6–15.9%, 14–20 seats</li><li>Partij van de Arbeid van België: 7.5–11.1%, 7–14 seats</li><li>Christen-Democratisch en Vlaams: 11.4–15.7%, 13–19 seats</li><li>Team Fouad Ahidar: 0.0–0.4%, 0–2 seats</li><li>Open Vlaamse Liberalen en Democraten: 4.4–7.3%, 2–8 seats</li><li>Nieuw-Vlaamse Alliantie: 20.9–26.1%, 28–35 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/flemish_polls/2025-09-23-Ipsos.html</id>
@@ -14,6 +14,14 @@
     <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 16–23 September 2025</title>
     <updated>2025-09-27T11:23:14.779207+02:00</updated>
     <dc:date>2025-09-27T11:23:14.779207+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Vlaams Belang: 20.3–25.5%, 25–34 seats</li><li>Groen: 5.9–9.2%, 6–12 seats</li><li>Vooruit: 11.4–15.7%, 13–20 seats</li><li>Partij van de Arbeid van België: 7.3–10.8%, 7–14 seats</li><li>Christen-Democratisch en Vlaams: 12.5–16.8%, 15–21 seats</li><li>Team Fouad Ahidar: 0.1–0.7%, 0–3 seats</li><li>Open Vlaamse Liberalen en Democraten: 4.8–7.8%, 2–8 seats</li><li>Nieuw-Vlaamse Alliantie: 23.7–29.1%, 31–39 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/flemish_polls/2025-06-03-Ipsos.html</id>
+    <link href="https://filipvanlaenen.github.io/flemish_polls/2025-06-03-Ipsos.html"/>
+    <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 27 May–3 June 2025</title>
+    <updated>2025-09-27T13:15:40.879345+02:00</updated>
+    <dc:date>2025-09-27T13:15:40.879345+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Vlaams Belang: 18.9–22.3%, 25–31 seats</li><li>Groen: 6.3–8.5%, 7–12 seats</li><li>Vooruit: 13.3–16.3%, 17–21 seats</li><li>Partij van de Arbeid van België: 7.8–10.2%, 7–13 seats</li><li>Christen-Democratisch en Vlaams: 12.3–15.2%, 15–19 seats</li><li>Team Fouad Ahidar: 0.0–0.3%, 0–1 seats</li><li>Nieuw-Vlaamse Alliantie: 25.1–28.8%, 34–39 seats</li><li>Open Vlaamse Liberalen en Democraten: 4.8–6.8%, 2–7 seats</li></ul></div></content>
@@ -47,5 +55,5 @@
     <updated>2024-12-29T18:55:37.409042+01:00</updated>
     <dc:date>2024-12-29T18:55:37.409042+01:00</dc:date>
   </entry>
-  <dc:date>2025-09-27T11:23:14.779207+02:00</dc:date>
+  <dc:date>2025-09-27T13:15:40.879345+02:00</dc:date>
 </feed>
