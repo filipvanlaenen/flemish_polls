@@ -45,8 +45,8 @@ Last result: **9** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 10–14 | 10–14 | 10–16 | 7–17 |
-| [1–9 December 2025](2025-12-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 12 | 10–14 | 10–14 | 10–16 | 7–17 |
+| N/A | [Poll Average](average.html) | 12 | 10–14 | 10–14 | 10–15 | 7–17 |
+| [1–9 December 2025](2025-12-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 12 | 10–14 | 10–14 | 10–15 | 7–17 |
 | [16–23 September 2025](2025-09-23-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 11 | 8–13 | 7–14 | 7–14 | 6–14 |
 | [27 May–3 June 2025](2025-06-03-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 10 | 7–12 | 7–13 | 7–14 | 6–14 |
 | [3–24 March 2025](2025-03-24-BpactandUniversiteitAntwerpenULB.html) | Bpact and Universiteit Antwerpen & ULB <br> De Standaard, RTBF and VRT | 11 | 10–12 | 8–12 | 7–13 | 7–14 |
@@ -62,17 +62,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 0.6% | 100% |  |
-| 8 | 0.2% | 99.4% |  |
-| 9 | 1.4% | 99.2% | Last Result |
-| 10 | 22% | 98% |  |
-| 11 | 18% | 76% |  |
-| 12 | 17% | 58% | Median |
-| 13 | 11% | 41% |  |
+| 7 | 0.5% | 100% |  |
+| 8 | 0.3% | 99.5% |  |
+| 9 | 1.0% | 99.1% | Last Result |
+| 10 | 20% | 98% |  |
+| 11 | 18% | 78% |  |
+| 12 | 17% | 60% | Median |
+| 13 | 13% | 43% |  |
 | 14 | 25% | 30% |  |
-| 15 | 2% | 4% |  |
-| 16 | 2% | 3% |  |
-| 17 | 0.8% | 0.8% |  |
+| 15 | 2% | 5% |  |
+| 16 | 1.4% | 2% |  |
+| 17 | 0.9% | 0.9% |  |
 | 18 | 0% | 0% |  |
 
 

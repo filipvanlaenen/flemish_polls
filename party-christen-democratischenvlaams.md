@@ -45,8 +45,8 @@ Last result: **16** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 16–19 | 15–19 | 14–20 | 12–21 |
-| [1–9 December 2025](2025-12-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 16 | 16–19 | 15–19 | 14–20 | 12–21 |
+| N/A | [Poll Average](average.html) | 17 | 15–19 | 15–19 | 14–20 | 13–21 |
+| [1–9 December 2025](2025-12-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 17 | 15–19 | 15–19 | 14–20 | 13–21 |
 | [16–23 September 2025](2025-09-23-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 16 | 14–18 | 13–19 | 13–19 | 12–21 |
 | [27 May–3 June 2025](2025-06-03-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 17 | 16–20 | 16–20 | 15–21 | 14–22 |
 | [3–24 March 2025](2025-03-24-BpactandUniversiteitAntwerpenULB.html) | Bpact and Universiteit Antwerpen & ULB <br> De Standaard, RTBF and VRT | 17 | 16–18 | 16–19 | 15–19 | 14–20 |
@@ -63,17 +63,17 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 0.1% | 100% |  |
-| 12 | 0.5% | 99.9% |  |
-| 13 | 1.4% | 99.4% |  |
+| 12 | 0.4% | 99.9% |  |
+| 13 | 1.3% | 99.5% |  |
 | 14 | 3% | 98% |  |
-| 15 | 5% | 95% |  |
-| 16 | 40% | 90% | Last Result, Median |
-| 17 | 18% | 50% |  |
-| 18 | 12% | 32% |  |
-| 19 | 17% | 20% |  |
+| 15 | 6% | 95% |  |
+| 16 | 37% | 89% | Last Result |
+| 17 | 21% | 53% | Median |
+| 18 | 12% | 31% |  |
+| 19 | 16% | 20% |  |
 | 20 | 2% | 3% |  |
-| 21 | 0.8% | 1.3% |  |
-| 22 | 0.4% | 0.5% |  |
+| 21 | 0.9% | 1.3% |  |
+| 22 | 0.3% | 0.5% |  |
 | 23 | 0.1% | 0.1% |  |
 | 24 | 0% | 0% |  |
 
