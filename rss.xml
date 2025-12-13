@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Flemish Parliament</title>
     <link>https://filipvanlaenen.github.io/flemish_polls</link>
     <description>All Registered Polls for the Flemish Parliament</description>
-    <pubDate>Sat, 27 Sep 2025 13:15:40 +0200</pubDate>
+    <pubDate>Sat, 13 Dec 2025 12:10:52 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 1–9 December 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/flemish_polls/2025-12-09-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Vlaams Belang: 28–36 seats&lt;/li&gt;&lt;li&gt;Groen: 5–12 seats&lt;/li&gt;&lt;li&gt;Vooruit: 11–17 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid van België: 10–15 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch en Vlaams: 14–20 seats&lt;/li&gt;&lt;li&gt;Team Fouad Ahidar: 0–2 seats&lt;/li&gt;&lt;li&gt;Nieuw-Vlaamse Alliantie: 30–38 seats&lt;/li&gt;&lt;li&gt;Open Vlaamse Liberalen en Democraten: 4–11 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2025-12-09-Ipsos-seats.png"
+        length="241166"
+        type="image/png"/>
+      <pubDate>Sat, 13 Dec 2025 12:10:52 +0100</pubDate>
+      <dc:date>2025-12-13T12:10:52.24649+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 1–9 December 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/flemish_polls/2025-12-09-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2025-12-09-Ipsos-coalitions-seats.png"
+        length="560513"
+        type="image/png"/>
+      <pubDate>Sat, 13 Dec 2025 12:10:52 +0100</pubDate>
+      <dc:date>2025-12-13T12:10:52.24649+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 1–9 December 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/flemish_polls/2025-12-09-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Vlaams Belang: 21.4–26.6%&lt;/li&gt;&lt;li&gt;Groen: 5.6–8.8%&lt;/li&gt;&lt;li&gt;Vooruit: 9.6–13.5%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid van België: 8.5–12.2%&lt;/li&gt;&lt;li&gt;Christen-Democratisch en Vlaams: 11.9–16.2%&lt;/li&gt;&lt;li&gt;Team Fouad Ahidar: 0.0–0.4%&lt;/li&gt;&lt;li&gt;Nieuw-Vlaamse Alliantie: 23.0–28.4%&lt;/li&gt;&lt;li&gt;Open Vlaamse Liberalen en Democraten: 5.7–8.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/flemish_polls/2025-12-09-Ipsos.png"
+        length="284938"
+        type="image/png"/>
+      <pubDate>Sat, 13 Dec 2025 12:10:52 +0100</pubDate>
+      <dc:date>2025-12-13T12:10:52.24649+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 16–23 September 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/flemish_polls/2025-09-23-Ipsos.html#seats</link>
@@ -189,6 +219,6 @@
       <pubDate>Sun, 29 Dec 2024 18:55:37 +0100</pubDate>
       <dc:date>2024-12-29T18:55:37.409042+01:00</dc:date>
     </item>
-    <dc:date>2025-09-27T13:15:40.879345+02:00</dc:date>
+    <dc:date>2025-12-13T12:10:52.24649+01:00</dc:date>
   </channel>
 </rss>
