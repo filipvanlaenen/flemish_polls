@@ -47,8 +47,8 @@ Last result: **31** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31 | 29–35 | 28–35 | 28–36 | 26–36 |
-| [1–9 December 2025](2025-12-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 31 | 29–35 | 28–35 | 28–36 | 26–36 |
+| N/A | [Poll Average](average.html) | 31 | 29–34 | 28–35 | 27–36 | 26–36 |
+| [1–9 December 2025](2025-12-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 31 | 29–34 | 28–35 | 27–36 | 26–36 |
 | [16–23 September 2025](2025-09-23-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 36 | 32–38 | 32–39 | 31–39 | 30–41 |
 | [27 May–3 June 2025](2025-06-03-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 30 | 27–32 | 26–33 | 25–34 | 25–35 |
 | [3–24 March 2025](2025-03-24-BpactandUniversiteitAntwerpenULB.html) | Bpact and Universiteit Antwerpen & ULB <br> De Standaard, RTBF and VRT | 27 | 26–30 | 25–30 | 25–31 | 24–31 |
@@ -64,20 +64,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 25 | 0.1% | 100% |  |
-| 26 | 0.5% | 99.9% |  |
-| 27 | 2% | 99.4% |  |
-| 28 | 3% | 98% |  |
-| 29 | 7% | 95% |  |
-| 30 | 26% | 87% |  |
-| 31 | 15% | 61% | Last Result, Median |
-| 32 | 20% | 46% |  |
-| 33 | 10% | 27% |  |
-| 34 | 6% | 16% |  |
-| 35 | 7% | 10% |  |
+| 25 | 0.3% | 100% |  |
+| 26 | 0.9% | 99.7% |  |
+| 27 | 2% | 98.8% |  |
+| 28 | 4% | 97% |  |
+| 29 | 8% | 92% |  |
+| 30 | 25% | 85% |  |
+| 31 | 16% | 60% | Last Result, Median |
+| 32 | 22% | 44% |  |
+| 33 | 8% | 22% |  |
+| 34 | 6% | 14% |  |
+| 35 | 5% | 8% |  |
 | 36 | 3% | 3% |  |
-| 37 | 0.4% | 0.5% |  |
-| 38 | 0.1% | 0.1% |  |
+| 37 | 0.2% | 0.3% |  |
+| 38 | 0% | 0.1% |  |
 | 39 | 0% | 0% |  |
 
 
