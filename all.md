@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | N-VA | VB | VOORUIT | CD&V | VLD | PVDA | GROEN | TFA |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 23.9% <br> 31 | 22.7% <br> 31 | 13.8% <br> 18 | 13.0% <br> 16 | 8.3% <br> 9 | 8.3% <br> 9 | 7.3% <br> 9 | 0.3% <br> 1 |
+| [1–9 December 2025](2025-12-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 23–28% <br> 30–38 | 21–27% <br> 28–36 | 10–14% <br> 11–17 | 12–16% <br> 14–20 | 6–9% <br> 4–11 | 8–12% <br> 10–15 | 6–9% <br> 5–12 | 0% <br> 0–2 |
 | [16–23 September 2025](2025-09-23-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 21–26% <br> 28–35 | 24–30% <br> 31–39 | 12–16% <br> 14–20 | 11–16% <br> 13–19 | 4–7% <br> 2–8 | 7–11% <br> 7–14 | 6–9% <br> 6–12 | 0% <br> 0–2 |
 | [27 May–3 June 2025](2025-06-03-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 24–29% <br> 31–39 | 20–26% <br> 25–34 | 11–16% <br> 13–20 | 12–17% <br> 15–21 | 5–8% <br> 2–8 | 7–11% <br> 7–14 | 6–9% <br> 6–12 | 0–1% <br> 0–3 |
 | [3–24 March 2025](2025-03-24-BpactandUniversiteitAntwerpenULB.html) | Bpact and Universiteit Antwerpen & ULB <br> De Standaard, RTBF and VRT | 25–29% <br> 34–39 | 19–22% <br> 25–31 | 13–16% <br> 17–21 | 12–15% <br> 15–19 | 5–7% <br> 2–7 | 8–10% <br> 7–13 | 6–9% <br> 7–12 | 0% <br> 0–1 |
