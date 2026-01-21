@@ -2,7 +2,7 @@
 
 The table below lists all polls registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | N-VA | VB | VOORUIT | CD&V | VLD | PVDA | GROEN | TFA |
+| Period     | Polling firm/Commissioner(s) | N-VA | VB | VOORUIT | CD&V | Anders | PVDA | GROEN | TFA |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 23.9% <br> 31 | 22.7% <br> 31 | 13.8% <br> 18 | 13.0% <br> 16 | 8.3% <br> 9 | 8.3% <br> 9 | 7.3% <br> 9 | 0.3% <br> 1 |
 | [1–9 December 2025](2025-12-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 23–28% <br> 30–39 | 21–27% <br> 27–36 | 10–14% <br> 11–17 | 12–16% <br> 14–20 | 6–9% <br> 4–11 | 8–12% <br> 10–15 | 6–9% <br> 5–12 | 0–1% <br> 0–3 |
@@ -23,7 +23,7 @@ Only polls for which at least the sample size has been published are included in
 + **VB:** Vlaams Belang
 + **VOORUIT:** Vooruit
 + **CD&V:** Christen-Democratisch en Vlaams
-+ **VLD:** Open Vlaamse Liberalen en Democraten
++ **Anders:** Anders
 + **PVDA:** Partij van de Arbeid van België
 + **GROEN:** Groen
 + **TFA:** Team Fouad Ahidar
